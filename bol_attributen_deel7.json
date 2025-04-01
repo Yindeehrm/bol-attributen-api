@@ -1,0 +1,5806 @@
+[
+  {
+    "id": "Type of Cradle",
+    "name": "Type wieg",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Crankshaft",
+    "name": "Type trapas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Creatine",
+    "name": "Type creatine",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Cuff",
+    "name": "Type manchet",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Cuffs",
+    "name": "Type boeien",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Curling Iron",
+    "name": "Type krultang",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Curtain Track",
+    "name": "Type gordijnrail",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Curve",
+    "name": "Type kromming",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Cutting Accessory",
+    "name": "Type maaiaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Cuttings Pot",
+    "name": "Type stekpotje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of DMX Connection",
+    "name": "Type DMX connectie",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen DMX aansluiting'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dairy Drink",
+    "name": "Type Zuiveldrank",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Daylight Lamp",
+    "name": "Type daglichtlamp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Decking Attachment",
+    "name": "Type vlonderbevestiging",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Decorative Element",
+    "name": "Type sierelement",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Decorative Trim",
+    "name": "Type sierlijst",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Defrost Feature",
+    "name": "Dooiwaterafvoer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dehumidifier",
+    "name": "Type luchtontvochtiger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Descaler",
+    "name": "Type ontkalker",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Design Radiator",
+    "name": "Type designradiator",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Design Software",
+    "name": "Type ontwerpsoftware",
+    "definition": "Wat voor soort ontwerpsoftware is dit?",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Detection Device",
+    "name": "Type detectieapparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Diaper",
+    "name": "Type luier",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Diaper Bag",
+    "name": "Type luiertas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Digital Drums",
+    "name": "Type digitaal drumstel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dish",
+    "name": "Type gerecht",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dive Computer (Accessory)",
+    "name": "Type duikcomputer(accessoire)",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Diving Goggles",
+    "name": "Type duikbril",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Do It Yourself Test",
+    "name": "Type zelftest",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Doll House Product",
+    "name": "Type poppenhuis product",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Door Cylinder",
+    "name": "Type deurcilinder",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Doorbell Set",
+    "name": "Type deurbelset",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dowel",
+    "name": "Soort deuvel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Drain",
+    "name": "Type afvoer",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Drawer Fitting",
+    "name": "Type ladebeslag",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Drawing Board",
+    "name": "Type tekenbord",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Dressing",
+    "name": "Type Dressing",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dressing Help",
+    "name": "Type aantrekhulp",
+    "definition": "Geef hier aan voor welk type kleding de aantrekhulp geschikt is",
+    "fillingInstructions": "Geef hier aan voor welk type kleding de aantrekhulp geschikt is",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Dried Fruit",
+    "name": "Type gedroogde vrucht",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Drilling Head",
+    "name": "Type boorkop",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Drilling Jobs",
+    "name": "Type boor of schroefklus",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Drip System",
+    "name": "Type druppelsysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Drive",
+    "name": "Mechanische of elektronische aandrijving",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Drone",
+    "name": "Type drone",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Drugs",
+    "name": "Type drugs",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Drumset",
+    "name": "Type drumset",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dry Cloth",
+    "name": "Type droge doek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dry Shampoo",
+    "name": "Type droogshampoo",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dryer",
+    "name": "Type droger",
+    "definition": "Wat voor type droger is dit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Drying Program",
+    "name": "Type droogprogramma",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Dual-sim",
+    "name": "Type Dual-sim",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Dust Collection",
+    "name": "Type stofopvang",
+    "multiValue": false
+  },
+  {
+    "id": "Type of ECE Label",
+    "name": "Type ECE Label",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Earcleaner",
+    "name": "Type oorreiniger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Earplugs",
+    "name": "Type oordoppen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Earth Pond",
+    "name": "Soort vijveraarde",
+    "definition": "Maak je keuze tussen vijveraarde, kleiaarde of vijversubstraat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Editing Software",
+    "name": "Type bewerkingssoftware",
+    "definition": "Wat voor soort bewerkingssoftware is dit?",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Edition",
+    "name": "Type uitvoering",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Educational Clock",
+    "name": "Type leerklok",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Electric Pillow",
+    "name": "Type elektrisch kussen",
+    "definition": "Een mat type heeft de vorm van een mat/kussen. Een schouder/nek type omsluit je lichaam en wordt gedragen op je schouders",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Electric Toothbrush Accessory",
+    "name": "Type elektrische tandenborstel accessoire",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Electrical Box",
+    "name": "Type elektradoos",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Electronic Stimulation",
+    "name": "Type elektronische stimulatie",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Enclosure",
+    "name": "Type bijvoegsel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Envelope",
+    "name": "Type envelop",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Enzyme",
+    "name": "Type enzyme",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Epilator",
+    "name": "Type epilator",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Eraser",
+    "name": "Type gum",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ergonomic Pillow",
+    "name": "Type ergonomisch kussen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Erotic Medical Play",
+    "name": "Type Erotic Medical Play",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Etiket",
+    "name": "Type etiket",
+    "definition": "Geef aan wat voor type etiket het is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Exhaust Pipe",
+    "name": "Type uitlaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of External Memory Slot",
+    "name": "Type extern geheugenslot",
+    "definition": "Geef aan wat voor een type extern geheugenslot dit artikel heeft (Het is mogelijk om meerdere externe geheugensloten te kiezen). Indien dit attribuut niet relevant is, kies de waarde 'Geen extern geheugenslot'.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Eye Shadow",
+    "name": "Type oogschaduw",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Eyebrow Gel",
+    "name": "Type wenkbrauwgel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Eyebrow Pencil",
+    "name": "Type wenkbrauwpotlood",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Eyebrow Tool",
+    "name": "Type wenkbrauwtool",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Eyelash",
+    "name": "Type wimper",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Eyelash Product",
+    "name": "Type wimperproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Face Cleaner",
+    "name": "Type gezichtsreinigingsmiddel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Face Cleansing Tool",
+    "name": "Type gezichtsreinigingstool",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fake Eyelash Product",
+    "name": "Type nepwimperproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fake Tattoo",
+    "name": "Type neptattoo",
+    "multiValue": false
+  },
+  {
+    "id": "Type of False Money Detector",
+    "name": "Type valsgelddetector",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Fan",
+    "name": "Type ventilator",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fashion",
+    "name": "Type mode",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fast Charging",
+    "name": "Type snelladen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Feeding Place",
+    "name": "Type voederplek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fence",
+    "name": "Type schutting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fender",
+    "name": "Type stootwil",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fender Accessory",
+    "name": "Type stootwilaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Filling",
+    "name": "Type vulling",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Film",
+    "name": "Film type",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Filter Material",
+    "name": "Type filtermateriaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Filtration",
+    "name": "Type filtratie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Finger Toys",
+    "name": "Type vingerspeelgoed",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fingersave",
+    "name": "Type fingersave",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Finish",
+    "name": "Type afwerking",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Fire Alarm Accessory",
+    "name": "Type brandmelderaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fireplace",
+    "name": "Type open haard",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Firewood",
+    "name": "Soort brandhout",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Firing Systeem",
+    "name": "Type afvuursysteem",
+    "definition": "Wanneer pijltjes per stuk geladen moeten worden, kies dan voor Handmatig. Kun je een magazijn plaatsen met meerdere pijltjes, kies dan Semi-Automatisch. Kies Automatisch wanneer pijltjes elektrisch achter elkaar afgevoerd kunnen worden, zonder handeling tussen het schieten door",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fish",
+    "name": "Type vis",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Fish Tent",
+    "name": "Type vistent of -paraplu",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishfinder",
+    "name": "Type fishfinder of accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishing Bag",
+    "name": "Type vistas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishing Box",
+    "name": "Type viskoffer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishing Net",
+    "name": "Type visnet",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishing Reel",
+    "name": "Reel of molen",
+    "definition": "Is deze hengel geschikt voor een reel of voor een molen?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishing Rod",
+    "name": "Type hengel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fishing line",
+    "name": "Type vislijn",
+    "definition": "Geef het type vislijn aan.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fitness Band",
+    "name": "Type fitnessband",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fitness Mat",
+    "name": "Type fitness mat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fixation",
+    "name": "Bevestiging grondspie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Flash",
+    "name": "Type flitser",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen flitser'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Flat-Iron",
+    "name": "Type flat iron",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Flavor",
+    "name": "Smaak",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Floor Wiper Accessory",
+    "name": "Type vloerwisser accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Floor Wiper System",
+    "name": "Type vloerwissersysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Flower",
+    "name": "Type bloem",
+    "definition": "Het type bloem waar dit boeket  voornamelijk uit opgebouwd is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Flywheel",
+    "name": "Type vliegwiel",
+    "definition": "Geef aan wat voor een soort weerstandsysteem het artikel bezit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Foil and Fleece",
+    "name": "Type folie en vlies",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Folding Chair",
+    "name": "Type inklapstoel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Food Chopper",
+    "name": "Type hakmolen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Foot Care",
+    "name": "Type voetbehandeling",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fork",
+    "name": "Type vork",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Frame",
+    "name": "Type frame",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Freezer",
+    "name": "Type vriezer",
+    "definition": "Voor wat voor een vriezer is dit artikel geschikt?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fresh Meat",
+    "name": "Type vers vlees",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fridge Organizer",
+    "name": "Type koelkastorganizer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Frisbee",
+    "name": "Type frisbee",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Front Plate",
+    "name": "Type voorplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fruit Juice",
+    "name": "Soort vruchtensap",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fruit Snack",
+    "name": "Type fuithapje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Fun Cooking",
+    "name": "Type funcooking",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Furniture Care",
+    "name": "Type meubelverzorging",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Furniture Chassis",
+    "name": "Type onderstel meubel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Furniture Mounting Part",
+    "name": "Type meubelmontageonderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Furniture Part",
+    "name": "Type meubelonderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Gag",
+    "name": "Type gag",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Game",
+    "name": "Type spel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Game- or Racing Chair",
+    "name": "Type game- of racestoel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Garden Bench",
+    "name": "Type tuinbank",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Garden Chair Cushion",
+    "name": "Type tuinstoelkussen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Garden Fence",
+    "name": "Type tuinscherm",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Garden Heating Cover",
+    "name": "Type tuinverwarminghoes",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Garden Hose",
+    "name": "Type tuinslang",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Garnish",
+    "name": "Type garnering",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Gas Stove",
+    "name": "Materiaal gaskookplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Gasoline Motor",
+    "name": "Type benzine motor",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Gate Opener",
+    "name": "Soort poortopener",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Geodriangle",
+    "name": "Type geodriehoek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Gift Decoration",
+    "name": "Type cadeauversiering",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Gift Package",
+    "name": "Soort cadeauverpakking",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Glass",
+    "name": "Type glas",
+    "definition": "Bevat het product typeglas?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Glass Coating",
+    "name": "Type coating",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Glove",
+    "name": "Type handschoen",
+    "definition": "Geef aan wat het type handschoen is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Glucose Meter",
+    "name": "Type bloedsuikermeter",
+    "definition": "Sensor bloedsuikermeters staan ook wel bekend onder de naam continuous glucose monitors\n",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Goal",
+    "name": "Soort doel",
+    "definition": "Geef aan om welk soort doel het gaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Golf Bag",
+    "name": "Type golftas",
+    "definition": "Geef aan welk type golftas het is",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Golf Club",
+    "name": "Type golfclub",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Grain",
+    "name": "Type graan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Greeting Card",
+    "name": "Soort kaart",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Grime",
+    "name": "Type grime",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Grip",
+    "name": "Type Greep",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Grooming Box",
+    "name": "Type poetskist of -tas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ground",
+    "name": "Type veld",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Ground Cover",
+    "name": "Type bodembedekking",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Groundsheet",
+    "name": "Type onderzeil",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Group set",
+    "name": "Type groepset",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Grow Box",
+    "name": "Type kweekbak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Grow Light",
+    "name": "Type kweeklamp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Growing Tunnel",
+    "name": "Type kweektunnel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Guitar Body",
+    "name": "Type gitaarbody",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Guitar Effect",
+    "name": "Type gitaareffect",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Guitar Element",
+    "name": "Type gitaarelementen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Guitar Stand",
+    "name": "Type gitaarstandaard",
+    "multiValue": true
+  },
+  {
+    "id": "Type of HDD Housing",
+    "name": "Type behuizing",
+    "multiValue": false
+  },
+  {
+    "id": "Type of HDMI",
+    "name": "Type HDMI",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hair Colouring",
+    "name": "Type haarkleuring",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hair Extension",
+    "name": "Type hairextension",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hairspray",
+    "name": "Type haarspray",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Hand Drill",
+    "name": "Type handboor",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hand Out Gift",
+    "name": "Type uitdeelcadeau",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Handbow",
+    "name": "Type handboog",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Handbow Accessory",
+    "name": "Type handboogaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Handkerchief",
+    "name": "Type zakdoek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Handle",
+    "name": "Type handvat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Handle or Grips",
+    "name": "Type handgreep / handgrepen",
+    "definition": "Wat voor type handgreep / handgrepen bevat het product? Indien dit attribuut niet relevant is, kies de waarde 'Geen handgreep'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Handling",
+    "name": "Type hantering",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hanging Folder",
+    "name": "Type hangmap",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Hanging Folder Botom",
+    "name": "Type hangmapbodem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hanging Folder Rack",
+    "name": "Type hangmaprek",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Hanging System",
+    "name": "Type ophangsysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hard Disk",
+    "name": "Type harde schijf",
+    "definition": "Geef het type harde schijf aan",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Healthcare Product",
+    "name": "Type gezondheidsproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hearing Accessory",
+    "name": "Type hulpmiddel slechthorenden",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hearing Aid",
+    "name": "Type hoortoestel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hearing Aid Accessory",
+    "name": "Type hoortoestel accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hearing Aid Battery",
+    "name": "Type hoortoestelbatterij",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Heat Mat",
+    "name": "Type warmtemat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Heat Pump",
+    "name": "Type warmtepomp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Heater",
+    "name": "Type heater",
+    "definition": "Het soort verwarming waar dit artikel onder valt.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Herbs and Spices",
+    "name": "Type kruiden en specerijen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of High Dynamic Range",
+    "name": "Type High Dynamic Range",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Hob Accessory",
+    "name": "Type kookplaat accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hobby Product",
+    "name": "Type Hobbyproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hockey Bag",
+    "name": "Type hockeytas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Horse Shoe",
+    "name": "Type paardenschoen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Hose Connector",
+    "name": "Type slangkoppeling",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Ice Cream",
+    "name": "Type ijs",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Ice Maker",
+    "name": "Type ijsmaker",
+    "definition": "Wat voor type ijsmaker is dit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ice Scraper",
+    "name": "Type ijskrabber",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Image Processor",
+    "name": "Beeldprocessor",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 200
+    }
+  },
+  {
+    "id": "Type of Impact Wrench",
+    "name": "Type slagmoersleutel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Incontinence Pants",
+    "name": "Type incontinentiebroekje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Indicator",
+    "name": "Type indicator",
+    "definition": "Type indicator staat voor de versie van het spel. Dus hebben we het bijvoorbeeld over een volledig spel (FULL_VERSION), een collectors edition (COLLECTOR_EDITION) of toch alleen een download code (DOWNLOAD_EDITION).",
+    "fillingInstructions": "Vul hierbij \u00e9\u00e9n van de volgende waarden in:\n\nADD_ON\nCLASSIC_EDITION\nCOLLECTOR_EDITION\nDOWNLOAD_EDITION\nESSENTIALS_EDITION\nFULL_VERSION\nDAY_ONE_EDITION\nPRE_ORDER_EDITION\nCOMPLETE_EDITION\nCOMPLETE_COLLECTION\nPRE_SALE_EDITION\nPREMIUM_EDITION\nGAME_OF_THE_YEAR_EDITION\nLIMITED_EDITION\nSPECIAL_EDITION\nMUSTHAVE\nPLATINUM_EDITION\nUPGRADE_EDITION\nDOWNLOADABLE_CONTENT\nSEASON_PASS\nNINTENDO_SELECTS\nGOLD_EDITION\nULTIMATE_EDITION\nCODE_IN_A_BOX",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Industrial Magnet",
+    "name": "Type industri\u00eble magneet",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Industrial Scale",
+    "name": "Type industri\u00eble weegschaal",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Inlineskate Shoe",
+    "name": "Type Inlineskateschoen",
+    "definition": "Geef aan welk type inlineskateschoen het is",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Input Output",
+    "name": "Type input/output",
+    "definition": "Type in- of output",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Input/Output",
+    "name": "Beamer aansluitingen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Inputs",
+    "name": "Type ingangen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Insertion Cover",
+    "name": "Type insteekhoes",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Insoles",
+    "name": "Type inlegzolen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Instantcamera",
+    "name": "Type instantcamera",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Instrument",
+    "name": "Type instrument",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Insulin Pump Accessory",
+    "name": "Type insulinepomp accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Interface With PC",
+    "name": "Type interface met pc",
+    "definition": "Kies hier het type interface dat wordt gebruikt voor een PC.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Internal Memory",
+    "name": "Type intern geheugen",
+    "definition": "Vul het type geheugen in. Bijvoorbeeld: DDR3",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Intimate Health Product",
+    "name": "Type intiem gezondheidsmiddel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Inverter",
+    "name": "Type omvormer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Iron Board Cover",
+    "name": "Type strijkplankhoes",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Jewelry Gift Set",
+    "name": "Type sieradengeschenkset",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Jewelry Holder",
+    "name": "Type sieradenhouder",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Jointing Tool",
+    "name": "Type voeggereedschap",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Jug",
+    "name": "Type kruik",
+    "definition": "Voor wat voor een kruik is dit artikel geschikt?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Juggling Object",
+    "name": "Type jongleervoorwerp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Key",
+    "name": "Type sleutel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Keyboard Connection",
+    "name": "Type toetsenbord connectie",
+    "definition": "Geef aan of het toetsenboord bedraad of draadloos kan worden aangesloten. Bij draadloos bestaat de keuze uit Bluetooth, Infrarood of via Radio Frequentie",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Keyboard Illumination",
+    "name": "Type toetsenbordverlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Keys",
+    "name": "Type toetsen",
+    "definition": "Geef aan of het toetsenbord beschikt over mechanische of membraan toetsen.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Kitchen Paper Roll",
+    "name": "Type keukenrolhouder",
+    "definition": "Wat voor type keukenrolhouder is dit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Kitchen Robot",
+    "name": "Type keukenmachine",
+    "definition": "Wat voor een type keukenmachine is dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Kitchen Towel",
+    "name": "Type keukendoek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Kite",
+    "name": "Type kite",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Kiteboard Binding",
+    "name": "Type kiteboardbinding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Knee Protection",
+    "name": "Type kniebescherming",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Knife",
+    "name": "Soort mes",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Knife Sharpener",
+    "name": "Type messenslijper",
+    "multiValue": false
+  },
+  {
+    "id": "Type of LAN Ports",
+    "name": "Type LAN poorten",
+    "multiValue": true
+  },
+  {
+    "id": "Type of LED lighting",
+    "name": "Type LED verlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of LED-LCD",
+    "name": "Type LED-LCD",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Label",
+    "name": "Type label",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lace",
+    "name": "Type veter",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lamp",
+    "name": "Type lamp",
+    "definition": "Voor wat voor een lamp is dit artikel geschikt?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lamp Mounting Part",
+    "name": "Type lampmontageonderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lamp Vehicle",
+    "name": "Type lamp voertuig",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Laptop",
+    "name": "Type laptop",
+    "definition": "Onder welk type valt de laptop? Kies uit de mogelijkheden.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Laptop Component",
+    "name": "Type laptoponderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lash Paint",
+    "name": "Type wenkbrauw- of wimperverf",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Lathe Chuck",
+    "name": "Type klauwplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Laundry Additive",
+    "name": "Type wasadditief",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Laundry Basket",
+    "name": "Type wasmand",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Learning Computer",
+    "name": "Type leercomputer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Led Strip Accessory",
+    "name": "Type Led-strip accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lens",
+    "name": "Type lens",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Type of Letter",
+    "name": "Type letter",
+    "multiValue": false
+  },
+  {
+    "id": "Type of License",
+    "name": "Type licentie",
+    "definition": "Wat voor licentie heeft deze software?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lid",
+    "name": "Type deksel",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen deksel'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Light Cord",
+    "name": "Type lichtsnoer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Light Curtain",
+    "name": "Type lichtgordijn",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Light Effect",
+    "name": "Type lichteffect",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Light Socket",
+    "name": "Type fitting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Light Source",
+    "name": "Type lichtbron meegeleverd",
+    "definition": "Wat voor type lichtbron wordt er meegeleverd? Indien dit attribuut niet relevant is, kies de waarde 'Geen lichtbron meegeleverd'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lighting",
+    "name": "Type verlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lighting Accessoire",
+    "name": "Type verlichtingsaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lighting Running Vest",
+    "name": "Type verlichting hardloopvest",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Lining",
+    "name": "Type voering",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lining Blanket",
+    "name": "Type voering dekentje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lipstick",
+    "name": "Type lippenstift",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Litter Box",
+    "name": "Type kattenbak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lock",
+    "name": "Type slot",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lock System",
+    "name": "Type slotbediening",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Low Alcohol Beverage",
+    "name": "Type alcoholarme drank",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lubricant",
+    "name": "Type glijmiddel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Lures",
+    "name": "Type kunstaas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of MagSafe",
+    "name": "Type MagSafe",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Magazine",
+    "name": "Type tijdschrift",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Magnesium Binding",
+    "name": "Type magnesiumverbinding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Magnet",
+    "name": "Type magneet",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Makeup Brush",
+    "name": "Type make-upkwast",
+    "definition": "Geef aan wat voor een type make-upkwast is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Marine Audio",
+    "name": "Type marine audio",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Marker Pen",
+    "name": "Type marker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Marker Tape",
+    "name": "Type markeerlint",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Martial Art",
+    "name": "Type vechtsport",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mascara Brush",
+    "name": "Type mascaraborstel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Massage Accessory",
+    "name": "Type massage accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Massage Device",
+    "name": "Type massage apparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Massage Heads",
+    "name": "Type massagekoppen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Mat",
+    "name": "Type mat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Matcha Accessory",
+    "name": "Soort matcha accessoire",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Mattress",
+    "name": "Type matraskern",
+    "definition": "Waar bestaat de kern van het matras uit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Meal Package",
+    "name": "Type maaltijdpakket",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Meal Replacement",
+    "name": "Type maaltijdvervanger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Measuring Equipment",
+    "name": "Type meetapparatuur",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Measuring Tape",
+    "name": "Type meetlint",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mechanical Keys",
+    "name": "Type mechanische toetsen",
+    "definition": "Dit artikel bevat mechanische toetsen, maar welk type zijn deze mechanische toetsen?",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 200
+    }
+  },
+  {
+    "id": "Type of Medical Instrument",
+    "name": "Type medisch instrument",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Medical Oral Care",
+    "name": "Type medische mondverzorging",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Memo",
+    "name": "Type memo",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Merchandise",
+    "name": "Type merchandise",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mesh Base",
+    "name": "Type spiraal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Metal Detector",
+    "name": "Type metaaldetector",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Microscope",
+    "name": "Type microscoop",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Microscope Accessoire",
+    "name": "Type microscoop accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Microwave",
+    "name": "Type magnetron",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Midi Controller",
+    "name": "Type MIDI controller",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Milk Frother",
+    "name": "Type melkopschuimer",
+    "definition": "Wat voor type melkopschuimer is het? Indien dit attribuut niet relevant is, kies de waarde 'Geen melkopschuimer'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mineral",
+    "name": "Type mineraal",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Mixer Accessories",
+    "name": "Type mixer accessoires",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Mixing Console",
+    "name": "Type mengpaneel",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Mobile Toilet",
+    "name": "Type mobiel toilet",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Model",
+    "name": "Soort model",
+    "definition": "Wat voor soort model is dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Modeling Lamp",
+    "name": "Type instellamp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Moisture Meter",
+    "name": "Type vochtmeter",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Molen",
+    "name": "Type of Molen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Money Belt",
+    "name": "Type money belt",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mop",
+    "name": "Type dweil",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Motherboard",
+    "name": "Type moederbord",
+    "definition": "Geef het type moederbord aan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Motor Part",
+    "name": "Type motoronderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Motor Transport",
+    "name": "Type motortransport",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mount",
+    "name": "Type mount",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mount Furniture",
+    "name": "Type opbouwmeubel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mount Furniture Options",
+    "name": "Type opbouwmeubel-opties",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Mountain Bike",
+    "name": "Type mountainbike",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mounting Set",
+    "name": "Type montageset",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mouse",
+    "name": "Type muis",
+    "definition": "Geef aan wat de muis technologie is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mouse Pad",
+    "name": "Type muismat",
+    "definition": "Geef aan of het een standaar of gaming muismat is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Mouth Mask Accessory",
+    "name": "Type mondkapje accessoire",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Moving Head",
+    "name": "Type movinghead",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Musical Keyboard Component",
+    "name": "Keyboard onderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nail Art Tool",
+    "name": "Type nail art tool",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Nail Care",
+    "name": "Type nagelbehandeling",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nail Care Product",
+    "name": "Type Nagelverzorgingsproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nail Mat Accessory",
+    "name": "Type spijkermat accessoire",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Nail Polish",
+    "name": "Type nagellak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nail Polish Remover",
+    "name": "Type nagellakremover",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nail Tool",
+    "name": "Type nageltool",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Name Badge",
+    "name": "Type naambadge",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Navigation Device",
+    "name": "Type navigatie apparaat",
+    "definition": "Wat voor type navigatie is dit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nespresso Machine",
+    "name": "Type Nespresso apparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Network Card",
+    "name": "Type netwerkkaart",
+    "definition": "Kies het type netwerkkaart uit de lijst.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Network Storage",
+    "name": "Type netwerk opslag",
+    "definition": "Geef  het type net netwerkopslag aan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Network Switch",
+    "name": "Type netwerk schakelaar",
+    "definition": "Geef het type netwerk schakelaar aan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Night Light",
+    "name": "Model nachtlamp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Noise Cancelling",
+    "name": "Type Noise cancelling",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Noise Reduction",
+    "name": "Type demping",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Non Alcoholic Beverage",
+    "name": "Soort niet alcoholische drank",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Norm",
+    "name": "Type norm",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Notebook",
+    "name": "Type notitieboek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Number Recognition",
+    "name": "Type nummerherkenning",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen nummerweergave'.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Nut",
+    "name": "Soort moer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Nut, Seed or Pit",
+    "name": "Type zaad of pit",
+    "multiValue": false
+  },
+  {
+    "id": "Type of OLED",
+    "name": "Type OLED",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Obstacle Bar",
+    "name": "Type barrierestang",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Odor",
+    "name": "Geursoort",
+    "definition": "Bij welke geursoort past dit product het beste?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Oil",
+    "name": "Type olie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Oil Filter Wrench",
+    "name": "Type oliefiltersleutel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Operation",
+    "name": "Type bediening",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Optical Drive",
+    "name": "Type optische drive",
+    "definition": "Is dit een optische drive die je kunt inbouwen, of sluit je deze extern aan op bijvoorbeeld een USB poort?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Optical Drive Control",
+    "name": "Typische optische schijf controle",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Organizer",
+    "name": "Type organizer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ornamental Grass",
+    "name": "Type siergras",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Outputs",
+    "name": "Type uitgangen",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Pain Killer",
+    "name": "Type pijnstiller",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Paint Recovery",
+    "name": "Type autolakherstel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pan Bottom",
+    "name": "Type pan bodem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pantyliner",
+    "name": "Type inlegkruisje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Paper",
+    "name": "Type papier",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Paper Fold",
+    "name": "Soort vouw van het papier",
+    "definition": "De manier waarop het papier is gevouwen en hoe het van elkaar wordt afgehaald.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Part Included",
+    "name": "Type onderdeel meegeleverd",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Party Decoration",
+    "name": "Type feestdecoratie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Partytent",
+    "name": "Type partytent",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pasta, Rice or Noodles",
+    "name": "Type pasta of rijst of noedels",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pc Housing",
+    "name": "Type pc behuizing",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Peanut or Nut",
+    "name": "Type pinda's of noten",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pedal",
+    "name": "Type pedaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pedal Assist Sensor",
+    "name": "Type sensor trapondersteuning",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pencil Sharpener",
+    "name": "Type puntenslijper",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Penis Plug",
+    "name": "Type penisplug",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pepernoten",
+    "name": "Type pepernoten of kruidnoten",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pet",
+    "name": "Type dier",
+    "definition": "Het type dier waarvoor dit artikel geschikt is, bijvoorbeeld hond of reptiel. Indien dit attribuut niet relevant is, kies de waarde 'Geen dier'.",
+    "fillingInstructions": "Er kan alleen gekozen worden uit de filter opties, anders is de productgroep niet beschikbaar voor je gewenste type dier.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Pet Clothing",
+    "name": "Type dierenkleding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pet Food",
+    "name": "Type voer",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Pets",
+    "name": "Type dieren",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Phone Connection",
+    "name": "Type telefoon aansluiting",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Photo Album",
+    "name": "Type fotoalbum",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Picnic Basket",
+    "name": "Type picknickmand",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Piercing Accessory",
+    "name": "Type piercing accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Piercing Aftercare",
+    "name": "Type piercing nazorg",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pillow",
+    "name": "Type kussen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pizza Oven Connection",
+    "name": "Type pizzaoven aansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Planboard",
+    "name": "Type planbord",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Planner",
+    "name": "Type planner",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Plant",
+    "name": "Type plant",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Plant Binder",
+    "name": "Type plantbinder",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Plant Support",
+    "name": "Type plantensteun",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Planter",
+    "name": "Soort plantenbak",
+    "definition": "Maak je keuze om welk soort plantenbak het betreft, bijvoorbeeld pot, mand of emmer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Plate",
+    "name": "Type bord",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Play Figure",
+    "name": "Type speelfiguur",
+    "definition": "Maak een keuze uit het type speelfiguur. Actiefiguren zijn figuren uit actiefilms of verzamelobjecten, speelfiguren zijn poppertjes of dieren die te gebruiken zijn bij een speelset. Opwindfiguren kan je opwinden en lopen/tollen daarna in het rond.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Player",
+    "name": "Type speler",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Pleat",
+    "name": "Plooi soort",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pliers Included",
+    "name": "Type tangen meegeleverd",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Plisse Curtain",
+    "name": "Type plissegordijn",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Poison",
+    "name": "Type gif",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pole",
+    "name": "Type paal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pole Holder",
+    "name": "Type paalhouder",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pool",
+    "name": "Type badje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pool Heater",
+    "name": "Type zwembadverwarming",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pool Ladder",
+    "name": "Type zwembadladder",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pool Lighting",
+    "name": "Type zwembadverlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pool Maintenance",
+    "name": "Type zwembadonderhoud",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pool Vaccuum Cleaner",
+    "name": "Type Zwembadstofzuiger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Popcorn",
+    "name": "Type popcorn",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Popcorn Maker",
+    "name": "Type popcornmaker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Post Cap",
+    "name": "Type Paalornament",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Postalscale",
+    "name": "Type postweegschaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Potting Soil",
+    "name": "Type potgrond",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Potty",
+    "name": "Type plaspotje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Potty Training",
+    "name": "Type zindelijkheidstraining 2",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pre Workout",
+    "name": "Type Pre-workout",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pregnancy Test",
+    "name": "Type zwangerschapstest",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Preparation",
+    "name": "Type bereiding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Preprint",
+    "name": "Bedrukking",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen bedrukking'.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Presenter",
+    "name": "Type presenter",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Press",
+    "name": "Type pers",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pretzel",
+    "name": "Type zoutje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Print",
+    "name": "Type print",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Processing",
+    "name": "Soort bewerking",
+    "definition": "Hier kan het bewerkingsmateriaal ingevuld worden waarmee het basismateriaal is bewerkt. Er kan gekozen worden uit de lijst. De bewerking kan niet het basismateriaal zijn, bewerkingen betreffen laagjes van een bepaald materiaal of soorten afwerkingen. Steentjes, hangers en andere versieringen en/of details worden hier niet mee bedoeld.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Product",
+    "name": "Type product",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Type of Product Analog Photography",
+    "name": "Type product analoge fotografie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Professional Griddle",
+    "name": "Type horeca bak- of grillplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Professional Microphone",
+    "name": "Type microfoon professioneel",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Professional Oven or Microwave",
+    "name": "Type horeca oven of magnetron",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Professional Refrigerator",
+    "name": "Type horeca koelkast",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Projector",
+    "name": "Type beamer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Projector Mount",
+    "name": "Type beamer beugel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pronation",
+    "name": "Hardlopen Type Afwikkeling",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Protection",
+    "name": "Beschermingstype",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Protein",
+    "name": "Type eiwit",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Pulley Puller",
+    "name": "Type poelietrekker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Push Up Device",
+    "name": "Type opdruksteun",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Puzzle",
+    "name": "Soort puzzel",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Quick Release Straps",
+    "name": "Type snelbinders",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Quilt",
+    "name": "Type dekbed",
+    "definition": "Is het dekbed geschikt voor de zomer, winter, het hele jaar, of aanpasbaar per seizoen?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of RPG",
+    "name": "Type RPG",
+    "multiValue": false
+  },
+  {
+    "id": "Type of RPG Product",
+    "name": "Type RPG product",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Racing Bike",
+    "name": "Type racefiets",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Radiator Knob",
+    "name": "Type radiatorknop",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Radio",
+    "name": "Stijl radio",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rasp",
+    "name": "Type rasp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Razor Accessory",
+    "name": "Type scheerapparaten accessoire",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Receiver",
+    "name": "Type ontvanger",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Record Player Needle",
+    "name": "Type platenspeler naald",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Record Player/LP Accessory",
+    "name": "Type platenspeler/lp accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Recordable",
+    "name": "Type recordable",
+    "definition": "Kies uit de lijst welk type recordable het product betreft.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Recovery Pillow",
+    "name": "Type revalidatiekussen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Reflector",
+    "name": "Type reflector",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Refrigerator Accessory",
+    "name": "Type koelkast accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rehabilitation Needs",
+    "name": "Type revalidatiebenodigdheid",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rein",
+    "name": "Type teugel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rein Aid",
+    "name": "Type hulpteugel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Remote Control",
+    "name": "Type afstandsbediening",
+    "definition": "Is deze afstandbediening origineel of universeel?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Reptile",
+    "name": "Type reptiel",
+    "definition": "Het type reptiel waarvoor dit artikel geschikt is.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Resistance Band",
+    "name": "Type weerstandsband",
+    "definition": "Geef aan welk type weerstandsband dit betreft.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rider Bag",
+    "name": "Type ruitertas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rim Car",
+    "name": "Type velg auto",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ringtones",
+    "name": "Type ringtones",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rivet",
+    "name": "Type nagel/niet",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Rodent",
+    "name": "Type knaagdier",
+    "definition": "Het type knaagdier waarvoor dit artikel geschikt is, bijvoorbeeld een hamster of konijn. Indien dit attribuut niet relevant is, kies de waarde 'Geen knaagdier'.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Rollator Accessory",
+    "name": "Type rollatoraccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rolling Pin",
+    "name": "Type deegroller",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Roof",
+    "name": "Type dak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Roof Box",
+    "name": "Type dakkoffer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Roof Rack",
+    "name": "Type dakdrager",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Roof Screw",
+    "name": "Soort dakschroef",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Root",
+    "name": "Type wortel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rotating Dryer",
+    "name": "Type droogmolen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rucksack",
+    "name": "Type rugzak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rug",
+    "name": "Type vloerkleed",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ruler",
+    "name": "Type liniaal",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Running Belt",
+    "name": "Type Running belt",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Rusk or Crispbread",
+    "name": "Type beschuit- cracker of rijstwafel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of SIM Card",
+    "name": "Type simkaart",
+    "multiValue": true
+  },
+  {
+    "id": "Type of SSD",
+    "name": "Type SSD",
+    "multiValue": false
+  },
+  {
+    "id": "Type of STD",
+    "name": "Type SOA",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Saddle Tree",
+    "name": "Type zadelboom",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Safety Buoy",
+    "name": "Type veiligheidsboei",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Safety Gate",
+    "name": "Type veiligheidshek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sand",
+    "name": "Type zand",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sand Play Set",
+    "name": "Type Zandspeelset",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Sandals",
+    "name": "Type sandalen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sandwich Topping",
+    "name": "Type Broodbeleg",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sauce",
+    "name": "Type Saus",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Scaffold",
+    "name": "Type steiger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scaffold Accessory",
+    "name": "Type steigeraccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scanner",
+    "name": "Type scanner",
+    "definition": "Welk type scanner is of bevat dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scooter Accessory",
+    "name": "Type scooteraccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scooter Part",
+    "name": "Type scooteronderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scratching Post",
+    "name": "Type krabpaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scratching Post Part",
+    "name": "Type krabpaalonderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Screen",
+    "name": "Type scherm",
+    "definition": "Wat is het schermtype?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Screenprotector",
+    "name": "Type screenprotector",
+    "definition": "Wat zijn de eigenschappen van deze screenprotector?",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Screw Product",
+    "name": "Soort schroefproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Screw Sisal Pole",
+    "name": "Type schroef sisalpaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Screw Thread",
+    "name": "Type draad",
+    "definition": "Geef aan om welk type draad het gaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Scrub",
+    "name": "Type scrub",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Seasoning",
+    "name": "Type Smaakmaker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Seat",
+    "name": "Type zitting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Seat Belt",
+    "name": "Type gordel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Seat Cushion",
+    "name": "Type zitkussen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Seatbelt",
+    "name": "Type autogordel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Security",
+    "name": "Type beveiliging",
+    "definition": "Geef aan of het een Wachtwoord, encriptie of vingerafdruk beveilig bevat. Indien dit attribuut niet relevant is, kies de waarde 'Geen beveiliging'.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Security Camera",
+    "name": "Type beveiligingscamera",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Security Camera Accessory",
+    "name": "Type beveiligingscamera-accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Security Software",
+    "name": "Aard van beveiliging software",
+    "definition": "Geef aan wat voor type beveiliginssoftware het is",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Self Care Medicine",
+    "name": "Type self care medicine",
+    "definition": "Vul hier de afleverstatus van het zelfzorggeneesmiddel in. Dit kan zijn: AV (Algemeen Verkrijgbaar), UAD (Uitsluitend Apotheek en Drogist), UA (Uitsluitend Apotheek) of Niet van toepassing. Wanneer het product geen geneesmiddel is, vul dan Niet van toeppassing in.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Selfbalancing Electric Vehicle",
+    "name": "Type zelfbalancerend voertuig",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sensor",
+    "name": "Type voeler",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Services",
+    "name": "Type service",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Serving Bowl",
+    "name": "Type serveerschaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Serving Tray",
+    "name": "Type dienblad",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Setting",
+    "name": "Type settingproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sewing Machine",
+    "name": "Type naaimachine",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sewing Machine Accessories",
+    "name": "Type naaimachine accessoires",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sex Furniture and Machines",
+    "name": "Type seksmeubels en machines",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shampoo",
+    "name": "Type shampoo",
+    "definition": "Wat voor type shampoo is dit?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shape Toy",
+    "name": "Type vormenstoof",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shave Cleaner",
+    "name": "Type scheerapparaat reiniger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shaving",
+    "name": "Type scheren",
+    "definition": "Wat voor type scheerapparaat is het?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sheets",
+    "name": "Type laken",
+    "definition": "Wat voor type laken is het? Een onderlaken is een laken waar je op ligt. Een bovenlaken slaap je onder.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Shippingbox",
+    "name": "Type verzenddoos",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ships Horn",
+    "name": "Type scheepshoorn",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shoe Accessory",
+    "name": "Type schoenaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shoe Accessory Mount",
+    "name": "Type accessoiresschoen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shoe Care",
+    "name": "Type schoenverzorging",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shoe Storage",
+    "name": "Type schoenenopberger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shoe Tree",
+    "name": "Type schoenspanner",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shoulder Strap Closure",
+    "name": "Type schouderbandsluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shovel",
+    "name": "Type schep",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Shuttle",
+    "name": "Type shuttle",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Signal",
+    "name": "Soort signaal",
+    "definition": "Geef aan welk soort signaal het is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Siphon Pump",
+    "name": "Type hevelpomp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Skate Part",
+    "name": "Type skateonderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Skates",
+    "name": "Type skates",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Ski Pole Attachment",
+    "name": "Type skistokbevestiging",
+    "definition": "Geef heet type bevestiging van de skistok aan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sleep Aid",
+    "name": "Type slaaphulp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sleep Monitor",
+    "name": "Type slaapmonitor",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sleeper",
+    "name": "Type slaper",
+    "definition": "Men heeft over het algemeen een favoriete slaappositie. Bij elke slaappositie hoort een passende stevigheid van het matras. Voor de zijslaper geldt: een matras met een relatief zacht tot gemiddeld ligcomfort met een soepele toplaag voor de heupen en schouders.  Voor de rugslaper geldt: een matras die voldoende ondersteuning geeft rondom de onderrug en knieholtes. Voor de buikslaper geldt: een matras met een relatief stevig matras om te voorkomen dat de bekken te diep wegzakken in het bed, wat de natuurlijke S-vorm van de wervelkolom verstoort.",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Sleeve",
+    "name": "Type mouw",
+    "definition": "Kies hier een waarde om het type mouw aan te geven. Bandjes definieren wij ook als een type mouw. Dit attribuut hoeft alleen ingevuld te worden als er een mouw aanwezig is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sleeve Anchor",
+    "name": "Type hulsanker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sliding Door Part",
+    "name": "Type schuifdeuronderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Slowjuicer",
+    "name": "Type slowjuicer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Smart Operating System",
+    "name": "Type smart besturingssysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Smoke Machine",
+    "name": "Type rookmachine",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Snack",
+    "name": "Type snack",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Snack Sauce",
+    "name": "Type snacksaus",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sneakers",
+    "name": "Type sneakers",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Snow Chain",
+    "name": "Type sneeuwketting",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Soap Dispenser",
+    "name": "Type zeepdispenser",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Soda",
+    "name": "Soort frisdrank",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Soda Maker Accessory",
+    "name": "Type sodamakeraccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Soldering Tip",
+    "name": "Type soldeerpunt",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sole",
+    "name": "Type zool",
+    "definition": "Bevat het product typezool?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Solvent",
+    "name": "Type oplosmiddel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Soother",
+    "name": "Type fopspeen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sound Box",
+    "name": "Type klankkast",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Spark Plug Wrench",
+    "name": "Type bougiesleutel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Spatula",
+    "name": "Type spatel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Speaker Part",
+    "name": "Type speakeronderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Speaker Set",
+    "name": "Type speakerset",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Speed",
+    "name": "Type snelheid",
+    "definition": "Het aantal of type snelheid dat ingesteld kan worden",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Spirit",
+    "name": "Soort sterke drank",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Spoiler",
+    "name": "Type spoiler",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Spoon",
+    "name": "Type lepel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sport",
+    "name": "Type sport",
+    "definition": "Geef aan voor welk type sport het artikel geschikt is",
+    "fillingInstructions": "Hier kun je aangeven voor welke sport dit product geschikt is. Dit bepaald ook in welke winkel op de website, het product terug komt. Maak gebruik van de drop-down uit de contentsheet om de juiste type sport te kiezen.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sport Glass Lens",
+    "name": "Type sportbrillens",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stable Accessories",
+    "name": "Type stal toebehoren",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stacking Toys",
+    "name": "Type Stapelspeelgoed",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stair",
+    "name": "Type trap",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stair Gate",
+    "name": "Soort hek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stamp",
+    "name": "Type postzegel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stand",
+    "name": "Type speaker statief",
+    "definition": "Kies uit de lijst welk type statief het is.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Standing Lamp",
+    "name": "Type staande lamp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Steam Cleaner",
+    "name": "Type stoomreiniger",
+    "definition": "Het soort stoomreiniger waar het artikel onder valt",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Steam Function",
+    "name": "Stoomsoorten",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Steering Stem",
+    "name": "Type stuurpen",
+    "definition": "Geef aan om welk type stuurpen het gaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sterilisator",
+    "name": "Type sterilisator",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stick",
+    "name": "Type steel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stimulation",
+    "name": "Type Stimulatie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stoma Aid",
+    "name": "Type stomahulpmiddel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stoo",
+    "name": "Type krukje",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Storage",
+    "name": "Type berging",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Storage Container",
+    "name": "Type opberger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Storage System for Breast Milk",
+    "name": "Type bewaarsysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Storage Tent",
+    "name": "Type opslagtent",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stove",
+    "name": "Type kachel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of String",
+    "name": "Type snaar",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Studio Component",
+    "name": "Type studio onderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Studio Monitor",
+    "name": "Type studiomonitor",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Styling Cream",
+    "name": "Type styling cr\u00e8me",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Styling Plates",
+    "name": "Vorm platen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Stylus",
+    "name": "Type stylus",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Subwoofer",
+    "name": "Type subwoofer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Sup Board",
+    "name": "Type SUP board",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Superfood",
+    "name": "Type superfood",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Supplement",
+    "name": "Type supplement of aminozuur",
+    "definition": "Geef aan om wat voor een type supplement het gaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Surf Accessory",
+    "name": "Type surf accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Surfboard",
+    "name": "Type surfboard",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Surround Sound",
+    "name": "Type surround sound",
+    "definition": "Hoe is het surround sound geregeld? Is dit virtueel of zijn de speakers ingebouwd.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Suspension",
+    "name": "Type vering",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Swim Training Accessory",
+    "name": "Type zwemtraining accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Swimming Pool Accessory",
+    "name": "Type Zwembadaccesoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Swimming Trunk",
+    "name": "Type zwembroek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Swimsuit",
+    "name": "Type badpak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Syrup",
+    "name": "Type siroop",
+    "multiValue": false
+  },
+  {
+    "id": "Type of TV Card",
+    "name": "Type tv kaart",
+    "definition": "Kies het type TV-kaart uit de lijst.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of TV Tuner",
+    "name": "Type TV tuner",
+    "multiValue": true
+  },
+  {
+    "id": "Type of TV-Mount",
+    "name": "Montage TV-beugel",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Table Tennis Fixation",
+    "name": "Soort bevestiging",
+    "definition": "Geef aan welk soort bevestiging het artikel heeft",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tablecloth",
+    "name": "Type tafellaken",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tablet Key Pad",
+    "name": "Type tablet toetsenbord",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tap",
+    "name": "Model kraan",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Tape Dispenser",
+    "name": "Type tapedispenser",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tattoo Machine",
+    "name": "Type tattoo machine",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Tea",
+    "name": "Type thee",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Teeth Whitener",
+    "name": "Type tandenbleker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Telescope",
+    "name": "Type telescoop",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Telescope Accessoire",
+    "name": "Type telescoop accessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Telescope Mount",
+    "name": "Soort montering telescoop",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Temperature Measuring Device",
+    "name": "Type temperatuurmeetapparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Temperature Regulator",
+    "name": "Type temperatuurregelaar",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tennis Bag",
+    "name": "Type tennistas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Terrarium Lighting",
+    "name": "Type terrariumverlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Thermometer",
+    "name": "Type thermometer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Thermos Flask",
+    "name": "Type thermosfles",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Threshold Assistance",
+    "name": "Type drempelhulp",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Thumb Tack",
+    "name": "Type punaise",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tile",
+    "name": "Type tegel",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Timer",
+    "name": "Type timer",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Tire",
+    "name": "Type band",
+    "definition": "Geef aan welk type band het is",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tire Pressure Gauge",
+    "name": "Type bandenspanningsmeter",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tires",
+    "name": "Type banden",
+    "definition": "Wat voor type banden?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Toilet Accesory Set",
+    "name": "Type toiletaccessoireset",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Toilet Brush",
+    "name": "Type toiletborstel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Toilet Montage Part",
+    "name": "Type toiletmontageonderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Toilet Paper",
+    "name": "Type toiletpapier",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Token",
+    "name": "Type penning",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tone",
+    "name": "Type toon",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tooth Brush Technique",
+    "name": "Poetstechniek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tortilla Wrap or Taco",
+    "name": "Type wrap of taco",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Touchscreen",
+    "name": "Type touchscreen",
+    "definition": "Wat voor type touchscreen heeft dit product?",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Towbar",
+    "name": "Type trekhaak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Toy Blaster",
+    "name": "Type speelgoedblaster",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tracker",
+    "name": "Type tracker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tracking",
+    "name": "Type tracking",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Trailer Part",
+    "name": "Type aanhangwagen onderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Trampoline",
+    "name": "Type trampoline",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Transducer",
+    "name": "Type transducer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Transfer Aid",
+    "name": "Type transferhulpmiddel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Transport Wheel",
+    "name": "Type transportwiel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Trap",
+    "name": "Type val",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Trashcan Accessoire",
+    "name": "Type prullenbakaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Triangle",
+    "name": "Type driehoek",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tripod Accessory",
+    "name": "Type statieftoebehoren",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tripod Connection",
+    "name": "Type statiefaansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tripod Foot",
+    "name": "Type statief voet",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Trolley",
+    "name": "Type trolley",
+    "definition": "Geef aan welk type trolley het is",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Trowel",
+    "name": "Type spaan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Truss Part",
+    "name": "Truss onderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tuck in Strip",
+    "name": "Type instopstrook",
+    "definition": "Met welk type instopstrook kun je het dekbedovertrek bij het voeteneind onder je matras stoppen? Indien dit attribuut niet relevant is, kies de waarde 'Geen instopstrook'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Tuner",
+    "name": "Type stemapparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Turntable",
+    "name": "Soort platenspeler",
+    "multiValue": false
+  },
+  {
+    "id": "Type of USB Interface",
+    "name": "Type USB interface",
+    "multiValue": false
+  },
+  {
+    "id": "Type of USB Port",
+    "name": "Type USB poorten",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Under Cabinet Lighting",
+    "name": "Type onderbouwverlichting",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Underfloor Heating Product",
+    "name": "Type vloerverwarmingsproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Underlayer",
+    "name": "Type onderlaag",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Urinal and Bedpans",
+    "name": "Type urinaal en bedpannen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Urinating Issue Treatment",
+    "name": "Type plasprobleembehandeling",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Urn",
+    "name": "Type urn",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Use",
+    "name": "Type gebruik",
+    "multiValue": true
+  },
+  {
+    "id": "Type of VR Glasses",
+    "name": "Type VR bril",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Vaginal Discomfort",
+    "name": "Type vaginaal ongemak",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Vegetable Juice",
+    "name": "Soort groentesap",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Vehicle Light",
+    "name": "Type voertuigverlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Velcro",
+    "name": "Type klittenband",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Ventilation",
+    "name": "Type ventilatie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Videocard",
+    "name": "Type videokaart",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Viewfinder",
+    "name": "Type viewfinder",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Vinegar",
+    "name": "Type Azijn",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Visor",
+    "name": "Type vizier",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Vitamin",
+    "name": "Type vitamine",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Voice Feature",
+    "name": "Type voice feature",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Wading Clothes",
+    "name": "Type waadkleding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Walkie Talkie",
+    "name": "Type walkie talkie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Walkie Talkie Use",
+    "name": "Type gebruik walkie talkie",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Walking Car",
+    "name": "Type loopauto",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wall Sticker",
+    "name": "Type muursticker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wallpaper Product",
+    "name": "Type behang product",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wargaming Product",
+    "name": "Type wargamingproduct",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Warning Signal",
+    "name": "Type waarschuwingssignaal",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wash Program",
+    "name": "Type wasprogramma",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Waste Bin",
+    "name": "Type prullenbak",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Waste Bin System",
+    "name": "Type prullenbaksysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Watch",
+    "name": "Type horloge",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Watcher",
+    "name": "Type waker",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Water",
+    "name": "Type water",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Water Softener",
+    "name": "Type waterontharder",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Weight Bar",
+    "name": "Type halterstang",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Welding Machine",
+    "name": "Type lasapparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wetsuit",
+    "name": "Type wetsuit",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wheel",
+    "name": "Type wiel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wheel Cleaner",
+    "name": "Type velgenreiniger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wheelchair",
+    "name": "Type rolstoel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wheelchair Accessory",
+    "name": "Type rolstoelaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wheelchair Wheels",
+    "name": "Type rolstoelwielen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wheels",
+    "name": "Type wielen",
+    "definition": "Kies het type wielen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Whey",
+    "name": "Type Whey",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Whip",
+    "name": "Type zweep",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Whisk",
+    "name": "Type garde",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Whiskey Glass",
+    "name": "Type whiskeyglas",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wifi Network",
+    "name": "Type WIFI netwerk",
+    "definition": "geef het  type wifi netwerk aan",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wind Instrument",
+    "name": "Type blaasinstrument",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Window Cleaner",
+    "name": "Type ruitenreiniger",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Window Film",
+    "name": "Type raamfolie",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Window Hardware Accessory",
+    "name": "Type raambeslagaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Window Stay",
+    "name": "Type raamuitzetter",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wine",
+    "name": "Type wijn",
+    "multiValue": true
+  },
+  {
+    "id": "Type of Wine Cooler",
+    "name": "Type wijnkoeler",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wine Glass",
+    "name": "Type wijnglas",
+    "definition": "Wat voor wijnglas is dit? *hik*.. ;-)",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Winter Gloves",
+    "name": "Type wintersporthandschoenen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wiper",
+    "name": "Type ruitenwisser",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wireless Connection",
+    "name": "WiFi Standaard",
+    "definition": "Wat is het type draadloze verbinding? Indien dit attribuut niet relevant is, kies de waarde 'Niet draadloos'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wireless Headphone Connection",
+    "name": "Type draadloze koptelefoonverbinding",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Niet draadloos'.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wireless Mouse",
+    "name": "Type draadloze muis",
+    "definition": "Geef het type draadloze technologie van de muis aan.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wood",
+    "name": "Soort hout",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wood Briquettes",
+    "name": "Soort houtbriketten",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Wood Storage",
+    "name": "Type houtopslag",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Work Gloves",
+    "name": "Type werkhandschoenen",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Work Protection",
+    "name": "Bevestiging klusbeschermer",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Workplacelighting",
+    "name": "Type werkplaatsverlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Type of World Map",
+    "name": "Type wereldkaart",
+    "multiValue": false
+  },
+  {
+    "id": "Type of Zipper",
+    "name": "Type rits",
+    "multiValue": false
+  },
+  {
+    "id": "Type of accessory for hairstyler",
+    "name": "Type accessoire voor hairstyler",
+    "multiValue": true
+  },
+  {
+    "id": "Type of baby room decoration",
+    "name": "Type babykameraankleding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of doormat",
+    "name": "Type deurmat",
+    "multiValue": false
+  },
+  {
+    "id": "Type of foot warmer",
+    "name": "Type voetenwarmer",
+    "definition": "Bij een zak type kun je je voeten in de voetenwarmer steken. Bij een mat type plaats je je voeten op de voetenwarmer.",
+    "multiValue": false
+  },
+  {
+    "id": "Type of hoist",
+    "name": "Type takel",
+    "multiValue": false
+  },
+  {
+    "id": "Type of nutrition",
+    "name": "Type voeding",
+    "multiValue": false
+  },
+  {
+    "id": "Type of sanding block",
+    "name": "Type schuurblok",
+    "multiValue": false
+  },
+  {
+    "id": "Type of system",
+    "name": "Type systeem",
+    "multiValue": false
+  },
+  {
+    "id": "Type of thread",
+    "name": "Type afrasteringsdraad",
+    "multiValue": false
+  },
+  {
+    "id": "Type of ventilation and airco accessory",
+    "name": "Type ventilatie- en aircoaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type of wake-up sounds",
+    "name": "Type wekgeluiden",
+    "multiValue": true
+  },
+  {
+    "id": "Type ornament",
+    "name": "Type ornament",
+    "multiValue": true
+  },
+  {
+    "id": "Type rijaccessoire",
+    "name": "Type rijaccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Type single board computer",
+    "name": "Type single board computer",
+    "multiValue": false
+  },
+  {
+    "id": "Type single board computeraccessoire",
+    "name": "Type single board computeraccessoire",
+    "multiValue": false
+  },
+  {
+    "id": "Types of Paper Input",
+    "name": "Type papierinvoer",
+    "definition": "Geef aan wat de papierinvoer is.",
+    "multiValue": true
+  },
+  {
+    "id": "USB",
+    "name": "USB",
+    "definition": "Geef aan of het product USB heeft",
+    "multiValue": false
+  },
+  {
+    "id": "USB Audio Connection",
+    "name": "Audio over USB",
+    "definition": "Bevat het product audiooverusb?",
+    "multiValue": false
+  },
+  {
+    "id": "USB C with Displayport",
+    "name": "USB-C met Displayport functie",
+    "multiValue": false
+  },
+  {
+    "id": "USB Connection",
+    "name": "USB aansluiting",
+    "definition": "Hoeveel USB-aansluitingen bevat het apparaat? Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "USB Input Frontside",
+    "name": "USB voorzijde",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen'.",
+    "multiValue": false
+  },
+  {
+    "id": "USB Input Rear",
+    "name": "USB ingang achterzijde",
+    "multiValue": false
+  },
+  {
+    "id": "USB Port",
+    "name": "USB-poort",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "USB Power",
+    "name": "Oplaadbaar via USB",
+    "definition": "Wordt het apparaat via USB van stroom voorzien?",
+    "multiValue": false
+  },
+  {
+    "id": "USB Reader Included",
+    "name": "USB reader meegeleverd",
+    "multiValue": false
+  },
+  {
+    "id": "USB Versions",
+    "name": "USB-versies",
+    "multiValue": true
+  },
+  {
+    "id": "USB-C Power",
+    "name": "USB-C vermogen",
+    "multiValue": false
+  },
+  {
+    "id": "USB-C Powerthrough",
+    "name": "USB-C voeding",
+    "multiValue": false
+  },
+  {
+    "id": "UTZ Certified",
+    "name": "UTZ gecertificeerd",
+    "multiValue": false
+  },
+  {
+    "id": "UV Guarantee",
+    "name": "UV Garantie",
+    "multiValue": false
+  },
+  {
+    "id": "UV Resistance",
+    "name": "UV bestendigheid",
+    "multiValue": false
+  },
+  {
+    "id": "UV400 Label",
+    "name": "UV400 label",
+    "multiValue": false
+  },
+  {
+    "id": "Ultrasonic Motor",
+    "name": "Ultrasonic Motor",
+    "definition": "Bevat het product ultrasonicmotor?",
+    "multiValue": false
+  },
+  {
+    "id": "Under Cabinet Width",
+    "name": "Breedte onderbouwkast",
+    "definition": "Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Under Carriage Included",
+    "name": "Onderstel inbegrepen",
+    "multiValue": false
+  },
+  {
+    "id": "Uniform Turbine Heating",
+    "name": "Gelijkmatige turbineverwarming",
+    "definition": "Het gelijkmatig verwarmen van de turbines zorgt ervoor dat alle popcorn even warm wordt.",
+    "multiValue": false
+  },
+  {
+    "id": "Unique Device Identification",
+    "name": "Unique Device Identification",
+    "definition": "Als uw product ook wordt aangeboden aan zorginstellingen, is dit de aanvullende UDI-code die wettelijk verplicht is. Een UDI-productie-ID ('UDI-PI') identificeert de eenheid\nvan de apparaatproductie en, indien van toepassing, de verpakte hulpmiddelen, zoals gespecificeerd in deel C van bijlage VI (MDR). Bijvoorbeeld GTIN + LOT-nummer, batchnummer.",
+    "fillingInstructions": "Als uw product ook wordt aangeboden aan zorginstellingen, is dit de aanvullende UDI-code die wettelijk verplicht is. Een UDI-productie-ID ('UDI-PI') identificeert de eenheid\nvan de apparaatproductie en, indien van toepassing, de verpakte hulpmiddelen, zoals gespecificeerd in deel C van bijlage VI (MDR). Bijvoorbeeld GTIN + LOT-nummer, batchnummer.",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Universal Gas Connection",
+    "name": "Universele gasaansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Universal Plug and Play",
+    "name": "UPnP",
+    "definition": "Heeft deze router Universal Plug and Play?",
+    "multiValue": false
+  },
+  {
+    "id": "Universal Standard",
+    "name": "Universele standaard",
+    "multiValue": false
+  },
+  {
+    "id": "Universally Applicable",
+    "name": "Universeel toepasbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Update",
+    "name": "Update",
+    "multiValue": true
+  },
+  {
+    "id": "Upholstered",
+    "name": "Gestoffeerd",
+    "definition": "Is dit gestoffeerd?",
+    "multiValue": false
+  },
+  {
+    "id": "Upscaling",
+    "name": "Upscaling",
+    "multiValue": false
+  },
+  {
+    "id": "Usability Class",
+    "name": "Gebruiksklasse",
+    "multiValue": false
+  },
+  {
+    "id": "Usable During Charging",
+    "name": "Bruikbaar tijdens laden",
+    "multiValue": false
+  },
+  {
+    "id": "Usable with Mouthwater",
+    "name": "Te gebruiken met mondwater",
+    "multiValue": false
+  },
+  {
+    "id": "Usage Instructions",
+    "name": "Gebruiksinstructies",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Usage Microscope",
+    "name": "Toepassing microscoop",
+    "multiValue": true
+  },
+  {
+    "id": "Usage Party Tent",
+    "name": "Gebruik partytent",
+    "multiValue": true
+  },
+  {
+    "id": "Usage Restriction",
+    "name": "Gebruiksbeperking",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 1000
+    }
+  },
+  {
+    "id": "Usage Studio Lamp",
+    "name": "Gebruik studiolamp",
+    "multiValue": true
+  },
+  {
+    "id": "Usage Time Highest Position",
+    "name": "Gebruikstijd hoogste stand",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.HUR",
+          "name": "uur",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Usage Time Lowest Position",
+    "name": "Gebruikstijd laagste stand",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.HUR",
+          "name": "uur",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Use Anti Slip Mat",
+    "name": "Toepassing antislipmat",
+    "multiValue": false
+  },
+  {
+    "id": "Use Back Support",
+    "name": "Toepassing rugsteun",
+    "multiValue": true
+  },
+  {
+    "id": "Use Case",
+    "name": "Gebruikssituatie",
+    "multiValue": true
+  },
+  {
+    "id": "Use In Type Car",
+    "name": "Gebruik in type voertuig",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen voertuigbevestiging'.",
+    "multiValue": true
+  },
+  {
+    "id": "Use Time",
+    "name": "Gebruikstijd",
+    "definition": "Geef aan wat de gebruikstijd is van dit artikel?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.HUR",
+          "name": "uur",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Use Without License",
+    "name": "Vergunningsvrij",
+    "multiValue": false
+  },
+  {
+    "id": "Use of Oil",
+    "name": "Soort gebruik",
+    "multiValue": false
+  },
+  {
+    "id": "Use or Application",
+    "name": "Gebruik of toepassing",
+    "definition": "Hoe of waar is dit artikel toe te passen?",
+    "multiValue": false
+  },
+  {
+    "id": "User Segment",
+    "name": "Gebruiker segment",
+    "definition": "Geef het type gebruik aan waar het artikel in eerste instantie voor is bedoeld.",
+    "multiValue": true
+  },
+  {
+    "id": "User Segment Ladder",
+    "name": "Laddergebruik",
+    "multiValue": false
+  },
+  {
+    "id": "User Segment Scanner",
+    "name": "Gebruik scanner",
+    "multiValue": true
+  },
+  {
+    "id": "User Support via App",
+    "name": "Gebruiksondersteuning via app",
+    "multiValue": false
+  },
+  {
+    "id": "Uses 3D Print Material",
+    "name": "Printmateriaal",
+    "multiValue": true
+  },
+  {
+    "id": "Ut-Value",
+    "name": "Ut-waarde",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Uv Protection",
+    "name": "UV-bescherming",
+    "multiValue": false
+  },
+  {
+    "id": "V-groove depth",
+    "name": "V-groef diepte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "V-groove width",
+    "name": "V-groef breedte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "VGA Port",
+    "name": "VGA poort",
+    "definition": "Geef aan hoeveel VGA-aansluitingen aanwezig zijn. Gebruik 'Geen' indien niet aanwezig. Indien dit attribuut niet relevant is, kies de waarde 'Geen'.",
+    "multiValue": false
+  },
+  {
+    "id": "VLAN Support",
+    "name": "VLAN ondersteuning",
+    "multiValue": false
+  },
+  {
+    "id": "VPN Pass Through",
+    "name": "VPN pass-through",
+    "multiValue": false
+  },
+  {
+    "id": "VR Optional",
+    "name": "Virtual Reality mogelijkheden",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Niet geschikt voor VR'.",
+    "multiValue": false
+  },
+  {
+    "id": "VR-Ready",
+    "name": "VR-ready",
+    "definition": "Is deze videokaart geschikt om Virtual Reality brillen aan te sturen?",
+    "multiValue": false
+  },
+  {
+    "id": "VRR (Variable Refresh Rate)",
+    "name": "VRR (Variable Refresh Rate)",
+    "multiValue": true
+  },
+  {
+    "id": "Vacuum",
+    "name": "Vacu\u00fcm",
+    "definition": "Heeft het apparaat een zuigfunctie?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Vacuum Cleaner Bag or Bagless",
+    "name": "Stofzuigerzak of zonder stofzak",
+    "definition": "Heeft het apparaat een stofzuigerzak is het zakloos?",
+    "multiValue": false
+  },
+  {
+    "id": "Vacuum Cleaner Tube Diameter",
+    "name": "Diameter stofzuigerbuis",
+    "multiValue": false
+  },
+  {
+    "id": "Value Game Card",
+    "name": "Waarde gamecard",
+    "definition": "Wat is de waarde van deze game card? Voor hoeveel geld is deze kaart inwisselbaar online",
+    "multiValue": true
+  },
+  {
+    "id": "Value of Chip",
+    "name": "Waarde chip",
+    "multiValue": false
+  },
+  {
+    "id": "Value of Stamps",
+    "name": "Waarde postzegels",
+    "multiValue": false
+  },
+  {
+    "id": "Valuta",
+    "name": "Valuta",
+    "multiValue": true
+  },
+  {
+    "id": "Variable Slot Width",
+    "name": "Variabele gleufbreedte",
+    "multiValue": false
+  },
+  {
+    "id": "Variable Stitch Length",
+    "name": "Variabele steeklengte",
+    "multiValue": false
+  },
+  {
+    "id": "Variable Stitch Width",
+    "name": "Variabele steekbreedte",
+    "multiValue": false
+  },
+  {
+    "id": "Various Search Functions",
+    "name": "Verschillende zoekfuncties",
+    "multiValue": false
+  },
+  {
+    "id": "Vegan",
+    "name": "Veganistisch",
+    "definition": "Bevat het artikel onderdelen of ingredi\u00ebnten van dierlijke oorsprong? Vul dan 'N' in.",
+    "multiValue": false
+  },
+  {
+    "id": "Vegetable Type",
+    "name": "Type groente",
+    "definition": "Het type groente waar dit artikel in onder te verdelen is.",
+    "multiValue": false
+  },
+  {
+    "id": "Vehicle Application",
+    "name": "Toepassing in voertuig",
+    "multiValue": true
+  },
+  {
+    "id": "Velcro properties",
+    "name": "Klittenband eigenschappen",
+    "multiValue": true
+  },
+  {
+    "id": "Velocity Sensitivity",
+    "name": "Aanslaggevoelig",
+    "multiValue": false
+  },
+  {
+    "id": "Velux Size Code",
+    "name": "Velux maatcode",
+    "multiValue": true
+  },
+  {
+    "id": "Velux Type Code",
+    "name": "Velux Type Code",
+    "multiValue": true
+  },
+  {
+    "id": "Ventilatie",
+    "name": "Ventilatie",
+    "multiValue": false
+  },
+  {
+    "id": "Ventilating System",
+    "name": "Ventilatiesysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Ventilation Ridge",
+    "name": "Ventilatienok",
+    "multiValue": false
+  },
+  {
+    "id": "Version",
+    "name": "Variant",
+    "multiValue": false
+  },
+  {
+    "id": "Version of Product",
+    "name": "Uitvoering van product",
+    "multiValue": true
+  },
+  {
+    "id": "Vertical Steam Thrust",
+    "name": "Verticale stoom thrust",
+    "multiValue": false
+  },
+  {
+    "id": "Vibrating",
+    "name": "Vibrerend",
+    "multiValue": false
+  },
+  {
+    "id": "Vibrating Alarm",
+    "name": "Trilfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Vibration Free Compressor",
+    "name": "Vibratie vrije compressor",
+    "multiValue": false
+  },
+  {
+    "id": "Vibration Mute System",
+    "name": "Trillingsdempingssysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Video Card Memory Size",
+    "name": "Videokaartgeheugen",
+    "definition": "Hoeveel werkgeheugen heeft deze videokaart?",
+    "multiValue": false
+  },
+  {
+    "id": "Video Card Memory Speed",
+    "name": "Geheugensnelheid",
+    "definition": "Wat is de klokfrequentie van het werkgeheugen van de Videokaart?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GBPS",
+          "name": "Gbps",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MHZ",
+          "name": "MHz",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Video Card Model",
+    "name": "Videokaart model",
+    "definition": "Betreft het een onboard of stand alone videokaart? Indien dit attribuut niet relevant is, kies de waarde 'Geen videokaart'.",
+    "multiValue": false
+  },
+  {
+    "id": "Video Card Power Connection",
+    "name": "Voedingaansluiting videokaart",
+    "definition": "Hoeveel (8 of 6 pins) aansluitingen van de voeding naar de videokaart zijn nodig om de videokaart van stroom te voorzien? Indien dit attribuut niet relevant is, kies de waarde 'Geen voedingsaansluiting'.",
+    "multiValue": false
+  },
+  {
+    "id": "Video Feature",
+    "name": "Video optie",
+    "multiValue": false
+  },
+  {
+    "id": "Video Resolution",
+    "name": "Videoresolutie",
+    "definition": "Wat is de videoresolutie van dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "View Rating Discrimination",
+    "name": "Kijkwijzer discriminatie",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen discriminatie'.",
+    "multiValue": false
+  },
+  {
+    "id": "View Rating Drugs",
+    "name": "Kijkwijzer drugs",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen drugs en/of alcoholmisbruik'.",
+    "multiValue": false
+  },
+  {
+    "id": "View Rating Explicit Language",
+    "name": "Kijkwijzer expliciete taal",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen grof taalgebruik'.",
+    "multiValue": false
+  },
+  {
+    "id": "View Rating Fear",
+    "name": "Kijkwijzer angst",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen angst'.",
+    "multiValue": false
+  },
+  {
+    "id": "View Rating Sex",
+    "name": "Kijkwijzer sex",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen seks'.",
+    "multiValue": false
+  },
+  {
+    "id": "View Rating Violence",
+    "name": "Kijkwijzer geweld",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen geweld'.",
+    "multiValue": false
+  },
+  {
+    "id": "Viewing Angle",
+    "name": "Kijkhoek",
+    "definition": "Wat is de kijkhoek?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Vigor",
+    "name": "Slagkracht",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "J",
+          "name": "Joule",
+          "default": false
+        },
+        {
+          "id": "Nm",
+          "name": "Newton meter",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Virtual Training",
+    "name": "Virtueel trainen",
+    "definition": "Geef aan of je met de fietstrainer virtueel kunt trainen",
+    "multiValue": false
+  },
+  {
+    "id": "Visible Blades",
+    "name": "Zichtbare bladen",
+    "multiValue": false
+  },
+  {
+    "id": "Vlogcamera",
+    "name": "Vlogcamera",
+    "multiValue": false
+  },
+  {
+    "id": "Voeding Lichtnet",
+    "name": "Voeding lichtnet",
+    "definition": "Kan dit artikel aangesloten worden op het lichtnet?",
+    "multiValue": false
+  },
+  {
+    "id": "Voice Control",
+    "name": "Spraakbesturing",
+    "definition": "Beschikt het artikel over spraakbesturing?",
+    "multiValue": false
+  },
+  {
+    "id": "Voltage",
+    "name": "Voltage",
+    "definition": "Het aantal volt dat door de accu wordt geleverd. Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.AMP",
+          "name": "A",
+          "default": false
+        },
+        {
+          "id": "unece.unit.VLT",
+          "name": "V",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Volume Control",
+    "name": "Volumeregeling",
+    "definition": "Hoe wordt het volume van dit artikel geregeld? Bijvoorbeeld bij koptelefoons kan dit on-ear zijn, of via de draad.",
+    "multiValue": false
+  },
+  {
+    "id": "Volume Cooling Compartment",
+    "name": "Volume koelruimte",
+    "definition": "Wat is het maximale volume van de koelruimte van dit artikel?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Volume Freeze Compartment",
+    "name": "Volume vriesvak",
+    "definition": "Hoeveel liter past er in het vriesvak? Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Volume Limit",
+    "name": "Volumebegrenzing",
+    "multiValue": false
+  },
+  {
+    "id": "Volume Regulator",
+    "name": "Volumeregelaar",
+    "definition": "Is het mogelijk om het volume aan te passen?",
+    "multiValue": false
+  },
+  {
+    "id": "Volume in Liters",
+    "name": "Volume in liters",
+    "definition": "Hoeveel liter inhoud kan dit artikel bevatten? Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MLT",
+          "name": "ml",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Volume of Pack",
+    "name": "Pakvolume",
+    "definition": "Geef aan wat het pakvolume is van dit artikel Vermelden in l",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Volume per unit",
+    "name": "Inhoud per eenheid",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CLT",
+          "name": "cl",
+          "default": true
+        },
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": false
+        },
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": false
+        },
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MLT",
+          "name": "ml",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Waffles Shape",
+    "name": "Wafelvorm",
+    "multiValue": false
+  },
+  {
+    "id": "Waist",
+    "name": "Waist",
+    "definition": "Geef de breedte van de ski's aan in millimeters",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Waist Height",
+    "name": "Taille hoogte",
+    "multiValue": false
+  },
+  {
+    "id": "Waist Size",
+    "name": "Tailleomvang",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Waiting Time for Result",
+    "name": "Wachttijd resultaat",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.DAY",
+          "name": "dag",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Walking Bike Options",
+    "name": "Loopfiets opties",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen opties'.",
+    "multiValue": true
+  },
+  {
+    "id": "Wall Assembling",
+    "name": "Muur montage",
+    "definition": "Is het product te monteren aan de muur?",
+    "multiValue": false
+  },
+  {
+    "id": "Wall Height",
+    "name": "Wandhoogte",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Wall Montage VESA-compatible",
+    "name": "VESA maat",
+    "definition": "Is het artikel VESA compatibel? Indien dit attribuut niet relevant is, kies de waarde 'Niet VESA-compatible'.",
+    "multiValue": true
+  },
+  {
+    "id": "Wall Mount",
+    "name": "Muurbevestiging",
+    "multiValue": false
+  },
+  {
+    "id": "Wall Thickness",
+    "name": "Wanddikte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wallpaper Print",
+    "name": "Type behang print",
+    "multiValue": true
+  },
+  {
+    "id": "Wallpaper Room",
+    "name": "Type behang kamer",
+    "definition": "Kies de kamer(s) waar het behang qua stijl/uiterlijk het beste past. Kies keuken en badkamer als het behang qua eigenschappen hiervoor geschikt is.",
+    "multiValue": true
+  },
+  {
+    "id": "Wargaming Army",
+    "name": "Wargamingleger",
+    "multiValue": false
+  },
+  {
+    "id": "Wargaming Game",
+    "name": "Wargamingspel",
+    "multiValue": false
+  },
+  {
+    "id": "Warm Up Time",
+    "name": "Opwarmtijd",
+    "definition": "Wat is de opwarmtijd?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        },
+        {
+          "id": "unece.unit.SEC",
+          "name": "seconde",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Warm Water Junction",
+    "name": "Warm water verbinding",
+    "multiValue": false
+  },
+  {
+    "id": "Warming Function",
+    "name": "Warmtefunctie",
+    "definition": "Bevat dit product een warmte functie?",
+    "multiValue": false
+  },
+  {
+    "id": "Warming Stand",
+    "name": "Warmhoudstand",
+    "multiValue": false
+  },
+  {
+    "id": "Warming Up Time Steam",
+    "name": "Opwarmtijd stoom",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.SEC",
+          "name": "seconde",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Warning Label",
+    "name": "Waarschuwingen",
+    "definition": "Wat moet je niet doen met dit product: VB: Niet bedoelt voor intern gebruik",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 1000
+    }
+  },
+  {
+    "id": "Warning Signal",
+    "name": "Waarschuwingssignaal",
+    "definition": "Bevat het product waarschuwingssignaal?",
+    "multiValue": false
+  },
+  {
+    "id": "Warning Signal Set Temperature",
+    "name": "Waarschuwingssignaal bij ingestelde temperatuur",
+    "multiValue": false
+  },
+  {
+    "id": "Warranty",
+    "name": "Garantie",
+    "definition": "Wat is het garantietermijn van dit artikel?",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Warranty Compatibility",
+    "name": "Garantie geschikt voor",
+    "definition": "Waar is de garantie geschikt voor?",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Warranty Exceptions",
+    "name": "Uitzonderingen fabrieksgarantie",
+    "definition": "Heeft het product uiteenlopende fabrieksgaranties per onderdeel, licht dat dan hier toe.",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 200
+    }
+  },
+  {
+    "id": "Warranty Type",
+    "name": "Reparatie type",
+    "definition": "Kies hierbij de service die de fabrikant aanbiedt wanneer een product gerepareerd moet worden. Carry-in = de klant stuurt het product op. On-site = de fabrikant repareert het product aan huis of voorziet de klant van een vervangend product. Pick up and return = het product wordt opgehaald bij de klant en weer gerepareerd afgeleverd.",
+    "multiValue": true
+  },
+  {
+    "id": "Warranty Validity Time",
+    "name": "Fabrieksgarantie termijn",
+    "definition": "Kies de termijn van de fabrieksgarantie. Ben je de leverancier maar niet de fabrikant? Kies hier dan de garantie die de fabrikant geeft. Indien dit attribuut niet relevant is, kies de waarde 'Geen garantie'.",
+    "multiValue": false
+  },
+  {
+    "id": "Wash",
+    "name": "Wassing",
+    "multiValue": false
+  },
+  {
+    "id": "Wash Basin Colour",
+    "name": "Kleur waskom",
+    "multiValue": true
+  },
+  {
+    "id": "Wash Basin Material",
+    "name": "Materiaal waskom",
+    "multiValue": true
+  },
+  {
+    "id": "Washable",
+    "name": "Wasbaar",
+    "definition": "Is dit artikel wasbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Washable Cover or Filling",
+    "name": "Wasbare tijk of vulling",
+    "multiValue": false
+  },
+  {
+    "id": "Washable From Clothing",
+    "name": "Uitwasbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Washable Inner Lining",
+    "name": "Wasbare binnenvoering",
+    "multiValue": false
+  },
+  {
+    "id": "Washable Mop",
+    "name": "Wasbare dweil",
+    "multiValue": false
+  },
+  {
+    "id": "Washable Vacuum Cleaner Bag",
+    "name": "Wasbare stofzuigerzak",
+    "multiValue": false
+  },
+  {
+    "id": "Washing Instructions",
+    "name": "Wasvoorschrift",
+    "definition": "Omschrijf het wasvoorschrift van dit artikel.",
+    "multiValue": true
+  },
+  {
+    "id": "Washing Instructions Coating",
+    "name": "Wasvoorschrift bekleding",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 2000
+    }
+  },
+  {
+    "id": "Washing Machine Options in App",
+    "name": "Wasmachine opties mobiele app",
+    "multiValue": true
+  },
+  {
+    "id": "Washing Result",
+    "name": "Wasresultaat",
+    "multiValue": false
+  },
+  {
+    "id": "Waste Tank Capacity",
+    "name": "Capaciteit afvaltank",
+    "definition": "Geef aan wat de capaciteit van de afvaltank is",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Watch Battery",
+    "name": "Horlogebatterij",
+    "multiValue": false
+  },
+  {
+    "id": "Watch Battery Type",
+    "name": "Type horloge batterij",
+    "multiValue": false
+  },
+  {
+    "id": "Watch Casing Colour",
+    "name": "Kleur horlogekast",
+    "definition": "Wat is de kleur van de horlogekast?",
+    "multiValue": true
+  },
+  {
+    "id": "Watch Closure Type",
+    "name": "Type horlogesluiting",
+    "definition": "Wat is het type horlogesluiting?",
+    "multiValue": false
+  },
+  {
+    "id": "Watch Function",
+    "name": "Horlogefunctie",
+    "definition": "Geef aan of de fietscomputer wel of geen horlogefunctie heeft",
+    "multiValue": false
+  },
+  {
+    "id": "Watch Strap Colour",
+    "name": "Kleur horlogeband",
+    "definition": "Wat is de kleur van de horlogeband?",
+    "multiValue": true
+  },
+  {
+    "id": "Water Column",
+    "name": "Waterkolom",
+    "definition": "Geef aan wat de waterkolom is van dit artikel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Water Connection Anal Shower",
+    "name": "Wateraansluiting anale douche",
+    "multiValue": false
+  },
+  {
+    "id": "Water Consumption Wash Cycle only",
+    "name": "Waterverbruik alleen wascyclus",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Water Consumption per Cyclus",
+    "name": "Waterverbruik per cyclus",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Water Content",
+    "name": "Watergehalte",
+    "multiValue": false
+  },
+  {
+    "id": "Water Drain",
+    "name": "Water afvoer",
+    "multiValue": false
+  },
+  {
+    "id": "Water Filter",
+    "name": "Waterfilter",
+    "multiValue": false
+  },
+  {
+    "id": "Water Level",
+    "name": "Waterpas",
+    "multiValue": false
+  },
+  {
+    "id": "Water Level Indicator",
+    "name": "Waterniveau indicator",
+    "multiValue": false
+  },
+  {
+    "id": "Water Misting",
+    "name": "Waterverneveling",
+    "multiValue": false
+  },
+  {
+    "id": "Water Permeability per m2",
+    "name": "Waterdoorlaatbaarheid per m2",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Water Repellent",
+    "name": "Waterafstotend",
+    "multiValue": false
+  },
+  {
+    "id": "Water Requirement",
+    "name": "Waterbehoefte",
+    "multiValue": false
+  },
+  {
+    "id": "Water Reservoir Larger Than 1 Liter",
+    "name": "Capaciteit waterreservoir meer dan 1 liter",
+    "multiValue": false
+  },
+  {
+    "id": "Water Resistance",
+    "name": "Waterbestendigheid",
+    "multiValue": false
+  },
+  {
+    "id": "Water Resistant",
+    "name": "Waterbestendig",
+    "definition": "Is het waterbestendig?",
+    "multiValue": false
+  },
+  {
+    "id": "Water Use",
+    "name": "Waterverbruik per jaar",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Water or Dust Proof",
+    "name": "Water of stofdicht",
+    "multiValue": false
+  },
+  {
+    "id": "Waterlevel",
+    "name": "Waterpas",
+    "multiValue": false
+  },
+  {
+    "id": "Waterproof",
+    "name": "Watervast",
+    "definition": "Is het product waterbestendig?",
+    "multiValue": false
+  },
+  {
+    "id": "Waterproof Control Panel",
+    "name": "Waterdicht bedieningspaneel",
+    "multiValue": false
+  },
+  {
+    "id": "Waterproof Depth (meter)",
+    "name": "Waterdicht tot (meter)",
+    "definition": "Tot hoeveel meter kan het product onder water?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Waterproof Search Coil",
+    "name": "Waterdichte zoekspoel",
+    "multiValue": false
+  },
+  {
+    "id": "Waterproof Substance",
+    "name": "Waterdichte stof",
+    "multiValue": false
+  },
+  {
+    "id": "Waterproof Time (minutes)",
+    "name": "Waterdicht tot (minuten)",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Watersaving Function",
+    "name": "Waterbesparend",
+    "multiValue": false
+  },
+  {
+    "id": "Watertight",
+    "name": "Waterdichtheid",
+    "definition": "Kies uit de lijst wat de waterdichtheid is van het product.",
+    "multiValue": false
+  },
+  {
+    "id": "Wattage Projectorlamp",
+    "name": "Wattage beamerlamp",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.WTT",
+          "name": "W",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Watts",
+    "name": "Energievermogen in Watt",
+    "definition": "Wattage",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.WTT",
+          "name": "W",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Watts per Channel",
+    "name": "Wattage per kanaal",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.WTT",
+          "name": "W",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wavelength",
+    "name": "Golflengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "maximumValue": "1000",
+      "units": [
+        {
+          "id": "unece.unit.C45",
+          "name": "nm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Way of Building",
+    "name": "Manier van bouwen",
+    "multiValue": false
+  },
+  {
+    "id": "Way of Opening",
+    "name": "Manier van openen",
+    "multiValue": false
+  },
+  {
+    "id": "Way of Use",
+    "name": "Manier van gebruik",
+    "multiValue": true
+  },
+  {
+    "id": "Waypoints",
+    "name": "Via punten",
+    "multiValue": false
+  },
+  {
+    "id": "Wear Resistance Grade",
+    "name": "Slijtvastheid toplaag",
+    "multiValue": false
+  },
+  {
+    "id": "Wear Resistance Group",
+    "name": "Slijtgroep",
+    "multiValue": false
+  },
+  {
+    "id": "Wearing Belt",
+    "name": "Draagriem",
+    "definition": "Bevat het product draagriem?",
+    "multiValue": false
+  },
+  {
+    "id": "Wearing Type",
+    "name": "Draagwijze",
+    "definition": "Op welke wijze is het product te dragen?",
+    "multiValue": true
+  },
+  {
+    "id": "Weatherproof",
+    "name": "Weerbestendig",
+    "definition": "Kan dit artikel natuurlijke invloeden van buitenaf aan, zoals regen, fel zonlicht etc.",
+    "multiValue": false
+  },
+  {
+    "id": "Webcam Options",
+    "name": "Webcam-productopties",
+    "definition": "Bevat het product webcamproductopties? Indien dit attribuut niet relevant is, kies de waarde 'Geen opties'.",
+    "multiValue": true
+  },
+  {
+    "id": "Wedge Type",
+    "name": "Type wig",
+    "multiValue": false
+  },
+  {
+    "id": "Weighing Accuracy",
+    "name": "Weegnauwkeurigheid",
+    "definition": "Tot op hoeveel gram nauwkeurig weegt de weegschaal?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weighing Units",
+    "name": "Weegeenheden",
+    "multiValue": false
+  },
+  {
+    "id": "Weight",
+    "name": "Verpakkingsgewicht",
+    "definition": "Gewicht van de verpakking",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        },
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Chassis",
+    "name": "Gewicht onderstel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Handset",
+    "name": "Gewicht handset",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Including Accu",
+    "name": "Gewicht met accu",
+    "definition": "Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Including Stand",
+    "name": "Gewicht inclusief standaard",
+    "definition": "Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Padel Racket",
+    "name": "Gewicht padelracket",
+    "multiValue": false
+  },
+  {
+    "id": "Weight Sensor",
+    "name": "Beladingssensor",
+    "multiValue": false
+  },
+  {
+    "id": "Weight Vacuum Cleaner",
+    "name": "Gewicht stofzuiger",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": false
+        },
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Wallpaper",
+    "name": "Gewicht behang",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "g/m2",
+          "name": "g/m2",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight Without Stand",
+    "name": "Gewicht zonder standaard",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight including Sand",
+    "name": "Gewicht met zand",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight including Water",
+    "name": "Gewicht met water",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight of Hairdryer",
+    "name": "Gewicht van f\u00f6hn",
+    "definition": "Vul hier het gewicht in van de f\u00f6hn ZONDER verpakking. Het gewicht van de f\u00f6hn MET verpakking kan vermeld worden bij 'gewicht'.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight per Piece",
+    "name": "Gewicht per stuk",
+    "definition": "Geef aan hoeveel het gewicht per stuk bedraagt.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weight per m2",
+    "name": "Gewicht per m2",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Weighted",
+    "name": "Verzwaard",
+    "multiValue": false
+  },
+  {
+    "id": "Weighted Keys",
+    "name": "Gewogen toetsen",
+    "multiValue": false
+  },
+  {
+    "id": "Wet and Dry Use",
+    "name": "Nat en droog te gebruiken",
+    "definition": "Is het apparaat zowel nat als droog te gebruiken?",
+    "multiValue": false
+  },
+  {
+    "id": "Whats In The Box",
+    "name": "Verpakkingsinhoud",
+    "definition": "Wat is de inhoud van de bestelling",
+    "fillingInstructions": "Vermeld hier alle extra's die worden meegeleverd bij het hoofdproduct",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 4000
+    }
+  },
+  {
+    "id": "Whats in the Toolbox",
+    "name": "Inhoud tuingereedschapsetje",
+    "multiValue": true
+  }
+]

@@ -1,0 +1,6598 @@
+[
+  {
+    "id": "Diameter Rotating Plateau",
+    "name": "Diameter draaiplateau",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Search Coil",
+    "name": "Diameter zoekspoel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Sisalpole",
+    "name": "Diameter sisalpaal",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Sole",
+    "name": "Diameter zool",
+    "definition": "De diameter van de zool van de schuur- of polijstmachine.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Speaker Driver",
+    "name": "Diameter speaker drivers",
+    "multiValue": false
+  },
+  {
+    "id": "Diameter Speaker Tweeter",
+    "name": "Diameter speaker tweeter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Speaker Woofer",
+    "name": "Diameter speaker woofer",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Squeegee",
+    "name": "Diameter zuigmond",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Steering Wheel",
+    "name": "Diameter stuurwiel",
+    "definition": "Wat is de diameter van het stuurwiel?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Suction Cup",
+    "name": "Diameter zuignap",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Thread",
+    "name": "Diameter schroefdraad",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Top",
+    "name": "Diameter top",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Diameter Tunnel or Plug",
+    "name": "Diameter tunnel of plug",
+    "definition": "Diameter van de piercingtypes: 'tunnel' en 'plug'",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Turning Circle",
+    "name": "Diameter draaicirkel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Waste Pipe",
+    "name": "Diameter afvoerpijp",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Watch Casing",
+    "name": "Diameter horlogekast",
+    "definition": "Wat is de diameter van de horlogekast? Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter Woofer Inches",
+    "name": "Diameter woofer in inches",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter of Glue Pin",
+    "name": "Lijmstiftdiameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Diameter of Polishing Disc",
+    "name": "Diameter polijstschijf",
+    "definition": "De diameter van de polijstschijf",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter of lens",
+    "name": "Lens diameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMK",
+          "name": "mm\u00b2",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diameter working range if 360 laser",
+    "name": "Diameter werkbereik indien 360 laser",
+    "definition": "Diameter werkbereik' bij een 360\u00b0 bouwlaser geeft de maximale zichtbare en bruikbare afstand aan van de laserlijn in een cirkel.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diamond Colour",
+    "name": "Diamantkleur",
+    "definition": "De terminologie van de diamantkleur. Indien dit attribuut niet relevant is, kies de waarde 'Geen diamant'.",
+    "multiValue": false
+  },
+  {
+    "id": "Diamond Painting Size",
+    "name": "Diamond Painting formaat",
+    "multiValue": false
+  },
+  {
+    "id": "Diamond Quality",
+    "name": "Diamantkwaliteit",
+    "definition": "De schaal waarin de kwaliteit van diamanten wordt beoordeeld. Indien dit attribuut niet relevant is, kies de waarde 'Geen diamant'.",
+    "multiValue": false
+  },
+  {
+    "id": "Diamond Weight",
+    "name": "Diamantgewicht",
+    "definition": "Wat is het gewicht van de diamant?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "CD",
+          "name": "CD",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Diaper Size Code",
+    "name": "Luiermaatcode",
+    "definition": "Welke luiermaatcode heeft deze luier?",
+    "multiValue": true
+  },
+  {
+    "id": "Dietary Preference",
+    "name": "Dieetvoorkeur",
+    "multiValue": true
+  },
+  {
+    "id": "Difference between Models",
+    "name": "Verschil tussen modellen",
+    "definition": "Benoem hier de unieke eigenschappen van dit product ten opzichte van producten in dezelfde serie.",
+    "multiValue": true
+  },
+  {
+    "id": "Different Bread Sizes",
+    "name": "Verschillende brood maten",
+    "multiValue": false
+  },
+  {
+    "id": "Difficulty Level",
+    "name": "Moeilijkheidsgraad",
+    "multiValue": false
+  },
+  {
+    "id": "Digi Indicator Remaining Time",
+    "name": "Digitale indicator resterende tijd",
+    "multiValue": false
+  },
+  {
+    "id": "Digital",
+    "name": "Digitaal",
+    "definition": "Beschikt de bagageweger of een digitale weergave?",
+    "multiValue": false
+  },
+  {
+    "id": "Digital Display",
+    "name": "Digitaal display",
+    "definition": "Heeft de wekker of klok een digitale tijdsindicatie?",
+    "multiValue": false
+  },
+  {
+    "id": "Digital Speech Standard",
+    "name": "Digital Speech Standard",
+    "multiValue": false
+  },
+  {
+    "id": "Digital Temperature Display",
+    "name": "Digitale temperatuurweergave",
+    "multiValue": false
+  },
+  {
+    "id": "Digital Test",
+    "name": "Digitale test",
+    "multiValue": false
+  },
+  {
+    "id": "Digital Zoom",
+    "name": "Digitale zoom",
+    "definition": "Geef aan hoeveel x digitale zoom kan worden ingesteld.",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Dimensioning Childs Bed",
+    "name": "Maatvoering kinderbed",
+    "fillingInstructions": "Eenpersoons = een eenpersoonskinderbed heeft een standaard maat van 90x200 cm. Meestal maken peuters de overstap naar een eenpersoonsbed vanaf 3 jaar.\n\nLedikant = een ledikant, of babybed, is geschikt voor baby\u2019s en peuters tot 3 jaar. Een ledikant is wat hoger, zodat je je baby of kind gemakkelijk uit het bedje kan tillen. De standaardmaat voor een ledikant is 60x120 cm.\n\nMeegroeibed = een meegroeibed, of doorgroeiledikant, is geschikt voor kinderen tot 6 jaar. Het is perfect om je kind alvast te laten wennen aan een groter kinderbed doordat je het bedje kan ombouwen. De standaardmaat van een meegroeibed is 70x140 cm.\n\nPeuterbed = een peuterbed is in principe een overgansbed van een ledikant naar een eenpersoonsbed. De standaardmaat van een peuterbed is 70x150 cm. Een peuterbed is geschikt voor kinderen van 3 tot ca. 7 jaar.\n\nTiener = een tienerbed is speciaal gericht op kinderen van tien jaar en ouder. Het is vaak net iets stoerder dan een kinderbed.",
+    "multiValue": false
+  },
+  {
+    "id": "Dimensions Baby Box",
+    "name": "Afmetingen box of boxkleed",
+    "multiValue": false
+  },
+  {
+    "id": "Dimensions Including Stand",
+    "name": "Afmetingen inclusief voet",
+    "definition": "Wat is de  v Afmetingen inclusief voet?",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Dimensions Lengthwidth",
+    "name": "Afmetingen lxb",
+    "definition": "Wat is de afmeting in lengte x breedte?",
+    "multiValue": false
+  },
+  {
+    "id": "Dimensions Tabletop",
+    "name": "Afmetingen tafelblad",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Dimensions Without Stand",
+    "name": "Afmetingen zonder voet",
+    "definition": "Wat is de  v Afmetingen zonder voet?",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Dimmable Light",
+    "name": "Dimbaar licht",
+    "definition": "Bevat het product dimbaarlicht?",
+    "multiValue": false
+  },
+  {
+    "id": "Dimmer",
+    "name": "Dimmer",
+    "multiValue": false
+  },
+  {
+    "id": "Dimming Technique",
+    "name": "Dimtechniek",
+    "multiValue": false
+  },
+  {
+    "id": "Din Format",
+    "name": "Din formaat",
+    "multiValue": false
+  },
+  {
+    "id": "Diopter Correction",
+    "name": "Dioptriecorrectie",
+    "multiValue": false
+  },
+  {
+    "id": "Direct Juice Drainage",
+    "name": "Directe sap afvoer",
+    "definition": "Heeft het apparaat een directe sap uitloop?",
+    "multiValue": false
+  },
+  {
+    "id": "Direct Sales Function",
+    "name": "Directe sales functie richting klant",
+    "multiValue": false
+  },
+  {
+    "id": "Direct Streaming",
+    "name": "Direct Streamen",
+    "multiValue": false
+  },
+  {
+    "id": "Direct-X Version",
+    "name": "Direct-X versie",
+    "definition": "Welke versie van DirectX wordt er ondersteund?",
+    "multiValue": true
+  },
+  {
+    "id": "Directed by Music",
+    "name": "Muziekgestuurd",
+    "multiValue": false
+  },
+  {
+    "id": "Direction Rotation",
+    "name": "Draairichting scharnier",
+    "multiValue": true
+  },
+  {
+    "id": "Direction of Rotation",
+    "name": "Draairichting",
+    "multiValue": true
+  },
+  {
+    "id": "Directivity",
+    "name": "Richtingskarakteristiek",
+    "multiValue": false
+  },
+  {
+    "id": "Dirt Detection",
+    "name": "Vuildetectie",
+    "multiValue": false
+  },
+  {
+    "id": "Discipline",
+    "name": "Discipline",
+    "definition": "Voor welke paardrijdiscipline is dit artikel geschikt?",
+    "multiValue": false
+  },
+  {
+    "id": "Discrimination Function",
+    "name": "Discriminatie-functie",
+    "multiValue": false
+  },
+  {
+    "id": "Dish Washer Proof",
+    "name": "Vaatwasserbestendig",
+    "definition": "Bevat het product vaatwasserbestendig?",
+    "multiValue": false
+  },
+  {
+    "id": "Dishwasher Safe",
+    "name": "Vaatwasser veilig",
+    "definition": "Is dit artikel vaatwasserbestendig?",
+    "multiValue": false
+  },
+  {
+    "id": "Dispenser",
+    "name": "Dispenser",
+    "definition": "Heeft de koelkast een water- of ijsdispenser? Indien dit attribuut niet relevant is, kies de waarde 'Geen dispenser'.",
+    "multiValue": false
+  },
+  {
+    "id": "Dispenser Type",
+    "name": "Type dispenser",
+    "definition": "Wat voor een dispenser is dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Displacement",
+    "name": "Slagvolume",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.L2",
+          "name": "l/min",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Display",
+    "name": "Scherm",
+    "definition": "Geef aan wat voor een type scherm het is",
+    "multiValue": false
+  },
+  {
+    "id": "Display Battery Status",
+    "name": "Weergave batterijstatus",
+    "multiValue": false
+  },
+  {
+    "id": "Display Colour",
+    "name": "Scherm kleuren",
+    "definition": "Bevat het product schermkleuren?",
+    "multiValue": false
+  },
+  {
+    "id": "Display Lighting",
+    "name": "Display verlichting",
+    "definition": "Bevat het product displayverlichting?",
+    "multiValue": false
+  },
+  {
+    "id": "Display Position",
+    "name": "Stand display",
+    "multiValue": false
+  },
+  {
+    "id": "Display Refresh Rate",
+    "name": "Beeldscherm verversing snelheid",
+    "definition": "Geef aan wat de refresh rate is van het beeldscherm.",
+    "multiValue": false
+  },
+  {
+    "id": "Display Size",
+    "name": "Scherm afmetingen",
+    "definition": "Wat is de schermafmeting van het apparaat? (in inches). Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.INH",
+          "name": "in",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Display Watch Dials",
+    "name": "Weergave horlogewijzers",
+    "multiValue": false
+  },
+  {
+    "id": "Display resolution",
+    "name": "Beeldschermresolutie",
+    "definition": "Geef aan wat de resolutie is van het beeldscherm.",
+    "multiValue": false
+  },
+  {
+    "id": "DisplayPort",
+    "name": "Aantal DisplayPort aansluitingen",
+    "definition": "Geef aan hoeveel DisplayPort-aansluitingen aanwezig zijn. Gebruik 'Geen' indien niet aanwezig. Indien dit attribuut niet relevant is, kies de waarde 'Geen'.",
+    "multiValue": false
+  },
+  {
+    "id": "Displays Inside Temperature",
+    "name": "Weergave binnentemperatuur",
+    "multiValue": false
+  },
+  {
+    "id": "Disposable",
+    "name": "Wegwerp",
+    "definition": "Is dit artikel slechts 1 keer te gebruiken?",
+    "multiValue": false
+  },
+  {
+    "id": "Distance Between Bikes",
+    "name": "Afstand tussen de fietsen",
+    "multiValue": false
+  },
+  {
+    "id": "Distance Between Legs",
+    "name": "Afstand tussen poten",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Distance Railing to Wall",
+    "name": "Afstand leuning tot muur",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Distance between Light Fixtures",
+    "name": "Afstand tussen lampjes",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Divisible Contact Book",
+    "name": "Deelbaar telefoonboek",
+    "multiValue": false
+  },
+  {
+    "id": "Docking Station",
+    "name": "Docking station",
+    "definition": "Wordt er een laadstation meegeleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Dog Weight",
+    "name": "Gewicht hond",
+    "multiValue": true
+  },
+  {
+    "id": "Doll House Options",
+    "name": "Poppenkast opties",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen opties'.",
+    "multiValue": true
+  },
+  {
+    "id": "Dominant",
+    "name": "Dominant",
+    "multiValue": false
+  },
+  {
+    "id": "Domotica Platform",
+    "name": "Smart Home Platform",
+    "multiValue": true
+  },
+  {
+    "id": "Doneness Indicator",
+    "name": "Gaarheidsindicator",
+    "multiValue": false
+  },
+  {
+    "id": "Door Display",
+    "name": "Display op deur",
+    "multiValue": false
+  },
+  {
+    "id": "Door Hinge Switch Possible",
+    "name": "Deur scharnier switch mogelijkheid",
+    "definition": "Is het mogelijk om een schakelaar op de deur aan te sluiten",
+    "multiValue": false
+  },
+  {
+    "id": "Door Hinge System",
+    "name": "Scharniersysteem",
+    "definition": "Beschikt dit artikel over een schaniersysteem?",
+    "multiValue": false
+  },
+  {
+    "id": "Door Size",
+    "name": "Deur maat",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Door Thickness",
+    "name": "Deurdikte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Door Version",
+    "name": "Uitvoering deur",
+    "multiValue": false
+  },
+  {
+    "id": "Door-in-Door System",
+    "name": "Door-in-Door systeem",
+    "multiValue": false
+  },
+  {
+    "id": "Doorversion",
+    "name": "Geschikt voor raamtype",
+    "multiValue": false
+  },
+  {
+    "id": "Dosage",
+    "name": "Dosering",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 500
+    }
+  },
+  {
+    "id": "Dosage Unit",
+    "name": "Doseringseenheid",
+    "definition": "Welke vorm heeft het product?",
+    "multiValue": false
+  },
+  {
+    "id": "Doses Quantity",
+    "name": "Aantal doseringen",
+    "multiValue": false,
+    "validation": {
+      "type": "integer"
+    }
+  },
+  {
+    "id": "Dot Length",
+    "name": "Nop lengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Dot Width",
+    "name": "Nop breedte",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Double Indirect Height Measurement",
+    "name": "Dubbele indirecte hoogtemeting",
+    "multiValue": false
+  },
+  {
+    "id": "Double Isolation",
+    "name": "Dubbele isolatie",
+    "multiValue": false
+  },
+  {
+    "id": "Double Lens",
+    "name": "Dubbele lens",
+    "definition": "Beschikt de skibril over een dubbele lens?",
+    "multiValue": false
+  },
+  {
+    "id": "Double Parasol",
+    "name": "Dubbele parasol",
+    "multiValue": false
+  },
+  {
+    "id": "Double Pet Food Bowl",
+    "name": "Dubbele voerbak",
+    "multiValue": false
+  },
+  {
+    "id": "Double Sided",
+    "name": "Dubbelzijdig",
+    "multiValue": false
+  },
+  {
+    "id": "Double Sides",
+    "name": "Dubbelwandig",
+    "definition": "Beschikt het artikel over een een dubbele wand?",
+    "multiValue": false
+  },
+  {
+    "id": "Doublesided Tuck in Strip",
+    "name": "Dubbelzijdige instopstrook",
+    "definition": "Zit er zowel aan de bovenzijde als onderzijde van het dekbedovertrek extra stof om het dekbedovertrek bij het voeteneind onder het matras te stoppen?",
+    "multiValue": false
+  },
+  {
+    "id": "Drain Connection",
+    "name": "Afvoeraansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Drain Version",
+    "name": "Uitvoering douchegoot",
+    "multiValue": false
+  },
+  {
+    "id": "Drainage Hole",
+    "name": "Afwateringsgat",
+    "multiValue": false
+  },
+  {
+    "id": "Drawers Included",
+    "name": "Inclusief lades",
+    "multiValue": false
+  },
+  {
+    "id": "Drawingtablet Options",
+    "name": "Tekentablet opties",
+    "multiValue": true
+  },
+  {
+    "id": "Drawingtablet Pen Options",
+    "name": "Tekentabletpen opties",
+    "multiValue": true
+  },
+  {
+    "id": "Dress Up As",
+    "name": "Verkleden als",
+    "multiValue": false
+  },
+  {
+    "id": "Dress Up Theme",
+    "name": "Verkleedthema",
+    "definition": "Wat is het verkleedthema van dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Drill Chuck Diameter",
+    "name": "Boorkop diameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Drill Diameter",
+    "name": "Boordiameter",
+    "definition": "De diameter van de boor bit. Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Drill Set Included",
+    "name": "Borenset meegeleverd",
+    "multiValue": false
+  },
+  {
+    "id": "Drill Speed",
+    "name": "Boorsnelheid",
+    "definition": "De snelheid waarmee in een bepaald materiaal wordt geboord. Dit is afhankelijk van het toerental en de boordiameter.",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Drilling",
+    "name": "Boring",
+    "definition": "Geef aan wat de diameter van de boring in centimeters is",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Drinking Straw Options",
+    "name": "Drinkrietjes opties",
+    "multiValue": true
+  },
+  {
+    "id": "Drinking System Built In",
+    "name": "Drinksysteem ingebouwd",
+    "definition": "Is er een drinksysteem ingebouwd?",
+    "multiValue": false
+  },
+  {
+    "id": "Drive",
+    "name": "Aandrijving",
+    "definition": "Geef aan wat de aandrijving is die dit artikel aandrijft",
+    "multiValue": false
+  },
+  {
+    "id": "Drive Pallettruck",
+    "name": "Aandrijving palletwagen",
+    "multiValue": false
+  },
+  {
+    "id": "Drone Camera",
+    "name": "Drone camera",
+    "multiValue": false
+  },
+  {
+    "id": "Drone Class",
+    "name": "Droneklasse",
+    "multiValue": false
+  },
+  {
+    "id": "Drone Use",
+    "name": "Toepassing drone",
+    "multiValue": false
+  },
+  {
+    "id": "Drop Size",
+    "name": "Uitvalmaat",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Drum Cleaning Program",
+    "name": "Trommelreinigingsprogramma",
+    "multiValue": false
+  },
+  {
+    "id": "Drum Size",
+    "name": "Formaat drum",
+    "multiValue": true
+  },
+  {
+    "id": "Dry Toilet",
+    "name": "Droogtoilet",
+    "multiValue": false
+  },
+  {
+    "id": "Dryer On Top Possible",
+    "name": "Droger bovenkant mogelijk",
+    "multiValue": false
+  },
+  {
+    "id": "Drying Result",
+    "name": "Droogresultaat",
+    "multiValue": false
+  },
+  {
+    "id": "Drying Time",
+    "name": "Droogtijd",
+    "definition": "De tijd die nodig is voor het drogen",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.HUR",
+          "name": "uur",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": false
+        },
+        {
+          "id": "unece.unit.SEC",
+          "name": "seconde",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Dual Channel Scan Function",
+    "name": "Dual kanaalscan-functie",
+    "multiValue": false
+  },
+  {
+    "id": "Dual Dashcam",
+    "name": "Dual Dashcam",
+    "multiValue": false
+  },
+  {
+    "id": "Dual Voltage",
+    "name": "Dual Voltage",
+    "multiValue": false
+  },
+  {
+    "id": "Dual-sim",
+    "name": "Dual-sim",
+    "definition": "Is het mogelijk twee SIM-kaarten (dual-sim) in het apparaat te plaatsen?",
+    "multiValue": false
+  },
+  {
+    "id": "Dumbbell Closure Type",
+    "name": "Soort sluiting",
+    "definition": "Geef het type sluiting van het artikel aan",
+    "multiValue": false
+  },
+  {
+    "id": "Dumbbell Including Closure",
+    "name": "Inclusief sluiters",
+    "definition": "Bezit dit artikel sluiters?",
+    "multiValue": false
+  },
+  {
+    "id": "Duration Eco Program",
+    "name": "Duur eco-programma",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Duration Full Duty Program",
+    "name": "Programmaduur volledige bedrijfscyclus",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Duration License",
+    "name": "Duur licentie",
+    "multiValue": false
+  },
+  {
+    "id": "Duration Measurement",
+    "name": "Duurmeting",
+    "multiValue": false
+  },
+  {
+    "id": "Duration of Operation",
+    "name": "Batterij duur",
+    "definition": "Hoelang kun je het apparaat in opgeladen toestand gebruiken? Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Duration of the pulse in ms",
+    "name": "Duur van de puls in ms",
+    "definition": "De tijdsduur van de flits in milliseconde. Kan de waarde niet achterhaalt worden, vul dan 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Dust Class",
+    "name": "Stofklasse",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Container Placement",
+    "name": "Plaatsing stofreservoir",
+    "multiValue": true
+  },
+  {
+    "id": "Dust Extract System Included",
+    "name": "Stofafzuigingsysteem meegeleverd",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Extraction",
+    "name": "Stofafzuiging",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Filter",
+    "name": "Stoffilter",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Filter Certification Mark",
+    "name": "Stoffilter keuring",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Free",
+    "name": "Stofvrij",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Proof",
+    "name": "Stofdicht",
+    "definition": "Is het product stofdicht?",
+    "multiValue": false
+  },
+  {
+    "id": "Dust Reduction System",
+    "name": "Anti stof systeem",
+    "multiValue": false
+  },
+  {
+    "id": "Dye Free",
+    "name": "Kleurstofvrij",
+    "multiValue": false
+  },
+  {
+    "id": "Dynamic Rope Stretch",
+    "name": "Dynamische rek",
+    "definition": "Geef aan wat de dynamische rek is van dit artikel Vermelden in %",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "Percentage",
+          "name": "%",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Dynamic or Condensator",
+    "name": "Dynamisch of condensator",
+    "multiValue": false
+  },
+  {
+    "id": "Dyslexia Friendly",
+    "name": "Dyslexievriendelijk",
+    "multiValue": false
+  },
+  {
+    "id": "E-mail Printing",
+    "name": "E-mail printing",
+    "multiValue": false
+  },
+  {
+    "id": "EAN",
+    "name": "EAN",
+    "definition": "Hier kunt u opgeven wat het EAN van het product is Dit dient een officieel uitgegeven EAN te zijn van 13 cijfers",
+    "fillingInstructions": "Een EAN dient te bestaan uit 13 cijfers. Wanneer het EAN niet uit 13 cijfers bestaat vul dan aan door er nullen voor te plaatsen",
+    "multiValue": true,
+    "validation": {
+      "type": "ean13validator"
+    }
+  },
+  {
+    "id": "ECC Type",
+    "name": "ECC Type",
+    "multiValue": false
+  },
+  {
+    "id": "ECE Approval",
+    "name": "ECE goedkeuring",
+    "multiValue": false
+  },
+  {
+    "id": "ECE Label",
+    "name": "ECE keurmerk",
+    "multiValue": false
+  },
+  {
+    "id": "ESD",
+    "name": "ESD",
+    "multiValue": false
+  },
+  {
+    "id": "ET Value",
+    "name": "ET waarde",
+    "multiValue": false,
+    "validation": {
+      "type": "integer",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "ETRTO Size",
+    "name": "ETRTO maat",
+    "multiValue": true
+  },
+  {
+    "id": "EU Certification",
+    "name": "EU keurmerk",
+    "multiValue": false
+  },
+  {
+    "id": "Early test",
+    "name": "Vroege test",
+    "multiValue": false
+  },
+  {
+    "id": "Easy Cleaning",
+    "name": "Makkelijk schoonmaken",
+    "multiValue": false
+  },
+  {
+    "id": "Ebook Format",
+    "name": "Ebook Formaat",
+    "multiValue": false
+  },
+  {
+    "id": "Ebook Read Aloud Text",
+    "name": "Voorleesfunctie",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 100
+    }
+  },
+  {
+    "id": "Eco Washing Programme",
+    "name": "Eco-wasprogramma",
+    "multiValue": false
+  },
+  {
+    "id": "Eco-stand",
+    "name": "Eco-stand",
+    "multiValue": false
+  },
+  {
+    "id": "Ecological",
+    "name": "Ecologisch",
+    "multiValue": false
+  },
+  {
+    "id": "Edge Extraction",
+    "name": "Randafzuiging",
+    "multiValue": false
+  },
+  {
+    "id": "Edge Pillow Thickness",
+    "name": "Dikte randkussen",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Edible",
+    "name": "Eetbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Edition",
+    "name": "Editie",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 2000
+    }
+  },
+  {
+    "id": "Effect",
+    "name": "Effect",
+    "definition": "Welk effect geeft dit product? Zorgt het product bijvoorbeeld voor een matte teint of heeft de nagellak een glitter effect?",
+    "multiValue": false
+  },
+  {
+    "id": "Efficiency",
+    "name": "Rendement",
+    "definition": "Geef aan wat het redement is van het artikel.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.LTR",
+          "name": "l",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MTK",
+          "name": "m\u00b2",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Efficiency is at Least 75 Percent",
+    "name": "Rendement is minimaal 75 procent",
+    "multiValue": false
+  },
+  {
+    "id": "Eject Button",
+    "name": "Eject knop",
+    "multiValue": false
+  },
+  {
+    "id": "Elastic Straps",
+    "name": "Elastische banden",
+    "definition": "Is dit artikel voorzien van elastische banden?",
+    "multiValue": false
+  },
+  {
+    "id": "Electric",
+    "name": "Elektrisch",
+    "definition": "Werkt de machine door middel van aansluiting op het lichtnet?",
+    "multiValue": false
+  },
+  {
+    "id": "Electric Connection at Home",
+    "name": "Elektriciteitsaansluiting thuis",
+    "multiValue": false
+  },
+  {
+    "id": "Electrically Adjustable",
+    "name": "Elektrisch verstelbaar",
+    "definition": "Is dit artikel elektrisch verstelbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Electrically Driven",
+    "name": "Elektrisch aangedreven",
+    "multiValue": false
+  },
+  {
+    "id": "Electrode Diameter",
+    "name": "Elektrodediameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Electronic Guide",
+    "name": "Elektronische gids",
+    "multiValue": false
+  },
+  {
+    "id": "Electronic Lock Assembly",
+    "name": "Samenstelling elektronisch slot",
+    "multiValue": false
+  },
+  {
+    "id": "Elements Alarmsystem",
+    "name": "Elementen alarmsysteem",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Amuse Bouche Set",
+    "name": "Elementen amuseset",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Bakingware Set",
+    "name": "Elementen Bakgerei set",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Barbecue Utensils",
+    "name": "Elementen barbecuegerei",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Bathroom Accessories Set",
+    "name": "Elementen badkameraccessoires set",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Cookingware Set",
+    "name": "Elementen Kookgerei set",
+    "multiValue": true
+  },
+  {
+    "id": "Elements High Stew Pot",
+    "name": "Onderdelen sudderpot",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Home Brewery",
+    "name": "Elementen thuisbrouwpakket",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Kitchen Furniture Set",
+    "name": "Elementen keukenmeubelset",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Knives Set",
+    "name": "Elementen messenset",
+    "multiValue": true
+  },
+  {
+    "id": "Elements Tableware Set",
+    "name": "Elementen serviesset",
+    "multiValue": true
+  },
+  {
+    "id": "Elevated Food Bowl",
+    "name": "Verhoogde voerbak",
+    "multiValue": false
+  },
+  {
+    "id": "Employable Time",
+    "name": "Inzettijd",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Empties Automatically",
+    "name": "Leegt automatisch",
+    "multiValue": false
+  },
+  {
+    "id": "Energy Concumption Wash Only per 100 Cycles",
+    "name": "Energieverbruik alleen wassen per 100 cycli",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "kWh",
+          "name": "kWh",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Energy Consumption",
+    "name": "Energieverbruik",
+    "definition": "Wat is het energieverbruik?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KWT",
+          "name": "kW",
+          "default": false
+        },
+        {
+          "id": "unece.unit.WTT",
+          "name": "W",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Energy Consumption Wash",
+    "name": "Energieverbruik was",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0"
+    }
+  },
+  {
+    "id": "Energy Consumption per 100 Cycles",
+    "name": "Energieverbruik per 100 cycli",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "kWh",
+          "name": "kWh",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Energy Consumption per Year Label 2021",
+    "name": "Energieverbruik per jaar label 2021",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "kWh",
+          "name": "kWh",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Energy Efficiency Class Wash Only",
+    "name": "Energie-effici\u00ebntieklasse alleen wassen",
+    "multiValue": false
+  },
+  {
+    "id": "Energy Saving",
+    "name": "Energie besparing",
+    "definition": "Heeft het product een energiebesparing stand?",
+    "multiValue": false
+  },
+  {
+    "id": "Energy Use in Stand-by Mode",
+    "name": "Energieverbruik in stand -by modus",
+    "definition": "Wat is het energieverbruik in stand-by modus?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Engine Power Continuously",
+    "name": "Motorvermogen continu",
+    "definition": "Geef aan wat het motorvermogen continu is",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.HJ",
+          "name": "metric hp",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Engine Power Peak",
+    "name": "Motorvermogen piek",
+    "definition": "Geef aan wat het piek motorvermogen is",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.HJ",
+          "name": "metric hp",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Engine without Carbon Brush",
+    "name": "Koolborstelloze motor",
+    "multiValue": false
+  },
+  {
+    "id": "Entrance Opening",
+    "name": "Invliegopening",
+    "multiValue": false
+  },
+  {
+    "id": "Equal Air Circulation",
+    "name": "Met evenredige luchtverplaatsing",
+    "multiValue": false
+  },
+  {
+    "id": "Equalizer",
+    "name": "Equalizer",
+    "definition": "Is het product een equalizer?",
+    "multiValue": false
+  },
+  {
+    "id": "Equalizer per Channel",
+    "name": "Equalizer per kanaal",
+    "multiValue": false
+  },
+  {
+    "id": "Equilateral Triangle Size",
+    "name": "Afmetingen gelijkzijdige driehoek",
+    "multiValue": false
+  },
+  {
+    "id": "Equipped with LED Lighting",
+    "name": "Voorzien van LED verlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Equipped with Safety Feature",
+    "name": "Voorzien van veiligheidsinrichting",
+    "multiValue": false
+  },
+  {
+    "id": "Equipped with a Window",
+    "name": "Voorzien van venster",
+    "multiValue": false
+  },
+  {
+    "id": "Ergonomic",
+    "name": "Ergonomisch",
+    "definition": "Houdt het artikel aantoonbaar rekening met de veiligheid en gezondheid van de gebruiker?",
+    "multiValue": false
+  },
+  {
+    "id": "Ergonomic Handle",
+    "name": "Ergonomische handgreep",
+    "multiValue": false
+  },
+  {
+    "id": "Ergonomic Quality Mark",
+    "name": "Ergonomisch keurmerk",
+    "multiValue": true
+  },
+  {
+    "id": "Ergonomically Designed",
+    "name": "Ergonomisch ontworpen",
+    "multiValue": false
+  },
+  {
+    "id": "Erotic Gift Packaging",
+    "name": "Erotische geschenkset",
+    "multiValue": false
+  },
+  {
+    "id": "Erotic Product",
+    "name": "Erotisch product",
+    "multiValue": false
+  },
+  {
+    "id": "Especially Suitable for MacBook",
+    "name": "Speciaal geschikt voor MacBook",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Bathroom",
+    "name": "Speciaal voor de badkamer",
+    "definition": "Is het product speciaal geschikt voor de badkamer?",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Carpet",
+    "name": "Speciaal voor vloerkleed",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Children",
+    "name": "Speciaal voor kinderen",
+    "definition": "Is dit artikel speciaal voor kinderen ontworpen?",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Christmas",
+    "name": "Speciaal geschikt voor kerst",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Fish",
+    "name": "Speciaal geschikt voor vis",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Nusery",
+    "name": "Speciaal geschikt voor babykamer",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Pedigree Dog",
+    "name": "Speciaal voor rashond",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Puppies",
+    "name": "Speciaal voor puppies",
+    "definition": "Vul enkel 'yes' in indien het artikel qua specificaties en design speciaal voor puppy's ontworpen is",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Purebred Cats",
+    "name": "Speciaal voor raskat",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Sensitive Eyes",
+    "name": "Speciaal voor gevoelige ogen",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Steam Generator",
+    "name": "Speciaal geschikt voor stoom generator",
+    "multiValue": false
+  },
+  {
+    "id": "Especially for Type of Surface or Appliance",
+    "name": "Speciaal voor type oppervlak of apparaat",
+    "multiValue": true
+  },
+  {
+    "id": "Ethanol Percentage",
+    "name": "Percentage ethanol",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "maximumValue": "100",
+      "units": [
+        {
+          "id": "Percentage",
+          "name": "%",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Ethereal",
+    "name": "Etherisch",
+    "multiValue": false
+  },
+  {
+    "id": "Ethernet Connection",
+    "name": "Ethernet verbinding",
+    "definition": "Aantal connecties. Indien dit attribuut niet relevant is, kies de waarde 'Geen'.",
+    "multiValue": false
+  },
+  {
+    "id": "Euro Class Burning Particulates",
+    "name": "Euroklasse brandende deeltjes EN13501-1",
+    "multiValue": false
+  },
+  {
+    "id": "Euro Class Smoke Developing",
+    "name": "Euroklasse rookontwikkeling EN13501-1",
+    "multiValue": false
+  },
+  {
+    "id": "Euro Fire Class",
+    "name": "Eurobrandklasse",
+    "multiValue": false
+  },
+  {
+    "id": "European Norm",
+    "name": "Europese norm",
+    "fillingInstructions": "\u201cDit artikel voldoet aan de Europese (EN) en Nederlandse (NEN) normen van deze productgroep waarin kwaliteitseisen, specificaties en kwaliteitscriteria zijn vastgelegd\u201d.",
+    "multiValue": true
+  },
+  {
+    "id": "Evergreen",
+    "name": "Groenblijvend",
+    "multiValue": false
+  },
+  {
+    "id": "Exclusively in Kobo Plus",
+    "name": "Exclusief in Kobo Plus",
+    "multiValue": false
+  },
+  {
+    "id": "Exercise Function",
+    "name": "Trainingsfunctie",
+    "definition": "Geef aan of de fietscomputer wel of geen trainingsfunctie heeft",
+    "multiValue": false
+  },
+  {
+    "id": "Exfoliating",
+    "name": "Exfolierend",
+    "multiValue": false
+  },
+  {
+    "id": "Exit Pupil",
+    "name": "Uittredepupil",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Expandable",
+    "name": "Uitbreidbaar",
+    "definition": "Is dit artikel uitbreidbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Expandable Maps",
+    "name": "Kaartmateriaal uitbreidbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Expandable to Duo",
+    "name": "Uitbreidbaar naar duo",
+    "multiValue": false
+  },
+  {
+    "id": "Expected Last Security Update",
+    "name": "Verwachte laatste beveiligingsupdate",
+    "multiValue": false
+  },
+  {
+    "id": "Explanation of",
+    "name": "Uitleg van",
+    "multiValue": true
+  },
+  {
+    "id": "Extendable",
+    "name": "Uitschuifbaar",
+    "definition": "Is de tafel uitschuifbaar of verlengbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Extendable Display",
+    "name": "Uitschuifbaar display",
+    "multiValue": false
+  },
+  {
+    "id": "Extendable Parts",
+    "name": "Uitklapbare onderdelen",
+    "multiValue": false
+  },
+  {
+    "id": "Extendable Table Top",
+    "name": "Uitschuifbaar tafelblad",
+    "multiValue": false
+  },
+  {
+    "id": "Extended Length",
+    "name": "Uitgeschoven lengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Extensibility",
+    "name": "Rekbaarheid",
+    "definition": "Geef aan hoe rekbaar het product is",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "Percentage",
+          "name": "%",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Extension length",
+    "name": "Uitschuiflengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "External Dimmer",
+    "name": "Externe dimmer",
+    "multiValue": false
+  },
+  {
+    "id": "External Features Radiator Knob",
+    "name": "Uiterlijke kenmerken radiatorknop",
+    "multiValue": true
+  },
+  {
+    "id": "External Memory Slot",
+    "name": "Extern geheugenslot",
+    "definition": "Geef aan of het apparaat over externe geheugensloten beschikt.",
+    "multiValue": false
+  },
+  {
+    "id": "External Speaker Input (3,5mm)",
+    "name": "Externe speaker-ingang (3,5 mm)",
+    "multiValue": false
+  },
+  {
+    "id": "Extinguish Reach",
+    "name": "Spuitbereik",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Extinguish Time",
+    "name": "Spuitduur",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Extra Broad Plates",
+    "name": "Extra brede platen",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Compartments",
+    "name": "Extra vakken",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen extra vakken'.",
+    "multiValue": true
+  },
+  {
+    "id": "Extra Connections",
+    "name": "Extra aansluitingen",
+    "multiValue": true
+  },
+  {
+    "id": "Extra Cooling Container",
+    "name": "Extra koeling container",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Dry Sensor",
+    "name": "Extra droog sensor",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Elements Picnic Basket",
+    "name": "Extra elementen picknickmand",
+    "multiValue": true
+  },
+  {
+    "id": "Extra Function Floor Polisher",
+    "name": "Extra functie boenmachine",
+    "multiValue": true
+  },
+  {
+    "id": "Extra Functions Thermometer",
+    "name": "Extra functies thermometer",
+    "multiValue": true
+  },
+  {
+    "id": "Extra Lockable Wheels",
+    "name": "Wielen extra vergrendelbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Long Brushing Hairs",
+    "name": "Extra lange borstelharen",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Silent Washing Program",
+    "name": "Extra stil wasprogramma",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Slim Handle",
+    "name": "Extra smal handvat",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Ventilation",
+    "name": "Extra ventilatie",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Wide Epilation Head",
+    "name": "Extra brede epileerkop",
+    "multiValue": false
+  },
+  {
+    "id": "Extra Wide Slots",
+    "name": "Extra brede sleuven",
+    "multiValue": false
+  },
+  {
+    "id": "Extracts",
+    "name": "Extracten",
+    "multiValue": false
+  },
+  {
+    "id": "Extras",
+    "name": "Extra's",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 4000
+    }
+  },
+  {
+    "id": "Extras Applicable",
+    "name": "Extra's van toepassing",
+    "multiValue": false
+  },
+  {
+    "id": "Eyebrow Palette",
+    "name": "Wenkbrauwpalette",
+    "multiValue": false
+  },
+  {
+    "id": "Eyelash Glue Remover",
+    "name": "Wimperlijm remover",
+    "multiValue": false
+  },
+  {
+    "id": "FM Radio",
+    "name": "FM radio",
+    "definition": "Kan het apparaat FM-signalen ontvangen?",
+    "multiValue": false
+  },
+  {
+    "id": "FM-transmitter",
+    "name": "FM-transmitter",
+    "multiValue": false
+  },
+  {
+    "id": "FPS 4K",
+    "name": "FPS 4K",
+    "multiValue": false
+  },
+  {
+    "id": "FPS Full HD",
+    "name": "FPS Full HD",
+    "multiValue": false
+  },
+  {
+    "id": "FPS HD Ready",
+    "name": "FPS HD-ready",
+    "multiValue": false
+  },
+  {
+    "id": "FR Bra Size",
+    "name": "FR Behamaat",
+    "multiValue": false
+  },
+  {
+    "id": "Fabric Construction",
+    "name": "Stofconstructie",
+    "multiValue": true
+  },
+  {
+    "id": "Face Cleaning Brush Option",
+    "name": "Gezichtsreinigingsborstel optie",
+    "multiValue": true
+  },
+  {
+    "id": "Faceroller Type",
+    "name": "Type gezichtroller",
+    "multiValue": false
+  },
+  {
+    "id": "Fairtrade",
+    "name": "Fairtrade",
+    "multiValue": false
+  },
+  {
+    "id": "Fall Over Protection",
+    "name": "Omvalbeveiliging",
+    "multiValue": false
+  },
+  {
+    "id": "False Money Detection Method",
+    "name": "Valsgelddetectiemethode",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen valsgelddetectie'.",
+    "multiValue": true
+  },
+  {
+    "id": "Family Key",
+    "name": "Productvariant ID",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 250
+    }
+  },
+  {
+    "id": "Fan Merchandise",
+    "name": "Fan Merchandise",
+    "multiValue": false
+  },
+  {
+    "id": "Fan Shape",
+    "name": "Waaiervorm",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen vorm'.",
+    "multiValue": false
+  },
+  {
+    "id": "Fashion Trend",
+    "name": "Mode trend",
+    "multiValue": true
+  },
+  {
+    "id": "Fast Pre Heating",
+    "name": "Functie snel voorverwarmen",
+    "multiValue": false
+  },
+  {
+    "id": "Fat Collector",
+    "name": "Vet collector",
+    "definition": "Bevat het product een vet collector?",
+    "multiValue": false
+  },
+  {
+    "id": "Fat Repellent",
+    "name": "Vetafstotend",
+    "multiValue": false
+  },
+  {
+    "id": "Faucet Version",
+    "name": "Kraanuitvoering",
+    "definition": "Om wat voor type kraan gaat het?",
+    "multiValue": true
+  },
+  {
+    "id": "Faucet control",
+    "name": "Bediening kraan",
+    "multiValue": false
+  },
+  {
+    "id": "Feature Contact Lens Solution",
+    "name": "Kenmerk lenzenvloeistof",
+    "multiValue": true
+  },
+  {
+    "id": "Features Dishwashing Brush",
+    "name": "Kenmerken afwasborstel",
+    "multiValue": true
+  },
+  {
+    "id": "Features Sandwich Spread",
+    "name": "Kenmerken broodbeleg",
+    "multiValue": false
+  },
+  {
+    "id": "Features Towel Holder",
+    "name": "Kenmerken handdoekhouder",
+    "multiValue": false
+  },
+  {
+    "id": "Fence Style",
+    "name": "Schutting stijl",
+    "multiValue": false
+  },
+  {
+    "id": "Fertility Enhancing",
+    "name": "Vruchtbaarheidsverhogend",
+    "multiValue": false
+  },
+  {
+    "id": "Fertilization Suitable for",
+    "name": "Bemesting geschikt voor",
+    "multiValue": true
+  },
+  {
+    "id": "Field Size",
+    "name": "Formaat speelveld",
+    "definition": "Geef aan wat het formaat speelveld is",
+    "multiValue": false
+  },
+  {
+    "id": "Field of View",
+    "name": "Gezichtsveld op 1000 meter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Figures included",
+    "name": "Inclusief figuren",
+    "multiValue": false
+  },
+  {
+    "id": "Filament Options",
+    "name": "Filament opties",
+    "multiValue": true
+  },
+  {
+    "id": "File Format Camera",
+    "name": "Bestandsindeling",
+    "multiValue": true
+  },
+  {
+    "id": "File Format Scanner",
+    "name": "Scannen naar",
+    "multiValue": true
+  },
+  {
+    "id": "File Format eBook",
+    "name": "File format ebook",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Fill Valve",
+    "name": "Vulklep",
+    "definition": "Bevat het product vulklep?",
+    "multiValue": false
+  },
+  {
+    "id": "Fillable",
+    "name": "Vulbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Filling Capacity",
+    "name": "Opvulvermogen",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CUIN",
+          "name": "CUIN",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Filling Height",
+    "name": "Vulhoogte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "mm",
+          "name": "mm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Filling Opening For Extra Ingredient",
+    "name": "Vulopening voor extra ingredient",
+    "multiValue": false
+  },
+  {
+    "id": "Filling Weight",
+    "name": "Vulgewicht",
+    "definition": "Hoe zwaar is de vulling van het product, exclusief de buitenkant (tijk)?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Filling Weight Second Segment",
+    "name": "Vulgewicht tweede segment",
+    "definition": "Hoe zwaar is de vulling van tweede product, exclusief de buitenkant (tijk)?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Fills holes automatically",
+    "name": "Vult automatisch gaatjes",
+    "multiValue": false
+  },
+  {
+    "id": "Film Format",
+    "name": "Beeldformaat",
+    "multiValue": true
+  },
+  {
+    "id": "Film ISO",
+    "name": "Film ISO",
+    "multiValue": false
+  },
+  {
+    "id": "Filter Dishwasher-Safe",
+    "name": "Filter vaatwasmachinebestendig",
+    "multiValue": false
+  },
+  {
+    "id": "Fin Type",
+    "name": "Type vin",
+    "definition": "Geef aan wat het type vin is.",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Fineness",
+    "name": "Fijnheid",
+    "definition": "Geef aan wat de fijnheid van het product is",
+    "multiValue": false
+  },
+  {
+    "id": "Finger Sensitive",
+    "name": "Vingergevoelig",
+    "multiValue": false
+  },
+  {
+    "id": "Fingerprintproof",
+    "name": "Fingerprintproof",
+    "multiValue": false
+  },
+  {
+    "id": "Finish",
+    "name": "Glansgraad",
+    "definition": "In hoeverre is het product mat / glanzend?",
+    "multiValue": false
+  },
+  {
+    "id": "Finishing Fence",
+    "name": "Afwerking schutting",
+    "multiValue": false
+  },
+  {
+    "id": "Finishtype",
+    "name": "Soort afwerking",
+    "multiValue": true
+  },
+  {
+    "id": "Fire Rating",
+    "name": "Brandbescherming",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen brandbescherming'.",
+    "multiValue": false
+  },
+  {
+    "id": "Fire Resistant",
+    "name": "Brandwerend",
+    "multiValue": false
+  },
+  {
+    "id": "Fire Retardent",
+    "name": "Brandvertragend",
+    "multiValue": false
+  },
+  {
+    "id": "Fire Table Type",
+    "name": "Type vuurtafel",
+    "multiValue": false
+  },
+  {
+    "id": "Firming",
+    "name": "Verstevigend",
+    "multiValue": false
+  },
+  {
+    "id": "Firmness Adjustable",
+    "name": "Stevigheid instelbaar voor",
+    "multiValue": true
+  },
+  {
+    "id": "Firmness Pillow",
+    "name": "Stevigheid kussen",
+    "definition": "Is het kussen zacht, medium of stevig?",
+    "multiValue": false
+  },
+  {
+    "id": "First Connection",
+    "name": "Eerste aansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Fish Type",
+    "name": "Soort vis",
+    "definition": "Geef aan voor welke vissoort dit geschikt  (c.q. bedoeld) is.",
+    "multiValue": true
+  },
+  {
+    "id": "Fisheye",
+    "name": "Fisheye",
+    "multiValue": false
+  },
+  {
+    "id": "Fishhook Size",
+    "name": "Haakmaat",
+    "definition": "Wat is de grootte van de vishaak?",
+    "multiValue": false
+  },
+  {
+    "id": "Fishing Gear Type",
+    "name": "Type vistuig",
+    "multiValue": false
+  },
+  {
+    "id": "Fishing Rod",
+    "name": "Inclusief vishengel",
+    "multiValue": false
+  },
+  {
+    "id": "Fishing Rod Type",
+    "name": "Soort hengel",
+    "definition": "Geef het soort hengel aan.",
+    "multiValue": false
+  },
+  {
+    "id": "Fit",
+    "name": "Fit",
+    "multiValue": false
+  },
+  {
+    "id": "Fit Form",
+    "name": "Pasvorm",
+    "fillingInstructions": "Kies de juiste waarde uit het dropdown menu.",
+    "multiValue": false
+  },
+  {
+    "id": "Fits Car Seat",
+    "name": "Past autostoeltje op",
+    "multiValue": false
+  },
+  {
+    "id": "Fits Carrycot",
+    "name": "Past reiswieg op",
+    "multiValue": false
+  },
+  {
+    "id": "Fits What",
+    "name": "Past waarop",
+    "multiValue": false
+  },
+  {
+    "id": "Fits in Refrigerator Door",
+    "name": "Past in koelkastdeur",
+    "definition": "Bevat het product pastinkoelkastdeur?",
+    "multiValue": false
+  },
+  {
+    "id": "Fits over Glasses",
+    "name": "Past over bril",
+    "multiValue": false
+  },
+  {
+    "id": "Fitting Position",
+    "name": "Positie aansluiting",
+    "multiValue": true
+  },
+  {
+    "id": "Fitting Type",
+    "name": "Type beslag",
+    "multiValue": false
+  },
+  {
+    "id": "Fixation Height",
+    "name": "Minimale bevestigingshoogte",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Fixation Method",
+    "name": "Bevestigingswijze(s)",
+    "definition": "Hoe kan dit artikel bevestigd worden? (Het is mogelijk om meerdere bevestigingswijzes te kiezen). Indien dit attribuut niet relevant is, kies de waarde 'Geen bevestiging mogelijk'.",
+    "multiValue": true
+  },
+  {
+    "id": "Fixation Suitable For",
+    "name": "Bevestiging geschikt voor",
+    "multiValue": true
+  },
+  {
+    "id": "Fixation Type",
+    "name": "Type bevestiging",
+    "definition": "Geef aan hoe de drager bevestigd wordt.",
+    "multiValue": false
+  },
+  {
+    "id": "Fixation to Counter",
+    "name": "Bevesting aan toonbank",
+    "multiValue": true
+  },
+  {
+    "id": "Fixing Point for Lifeline",
+    "name": "Bevestigingspunt voor valstopapparaat",
+    "multiValue": true
+  },
+  {
+    "id": "Flash",
+    "name": "Flitser",
+    "multiValue": false
+  },
+  {
+    "id": "Flash Mode",
+    "name": "Flitsmodus",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 200
+    }
+  },
+  {
+    "id": "Flash Options",
+    "name": "Flitsopties",
+    "multiValue": true
+  },
+  {
+    "id": "Flash Range",
+    "name": "Flitsbereik",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Flash Sync Port",
+    "name": "Flits sync poort",
+    "multiValue": false
+  },
+  {
+    "id": "Flash Sync Speed",
+    "name": "Flitssynchronisatiesnelheid",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Flash function",
+    "name": "Knipperfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Flash interval",
+    "name": "Flitsinterval",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Flashlight",
+    "name": "Zaklamp",
+    "definition": "Is het product te gebruiken als zaklamp?",
+    "multiValue": false
+  },
+  {
+    "id": "Flat Brush Size",
+    "name": "Maat platte kwast",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "mm",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Flat Keys",
+    "name": "Vlakke toetsen",
+    "definition": "Bevat dit artikel platte toetsen of hoog opstaande toetsen?",
+    "multiValue": false
+  },
+  {
+    "id": "Flat Plug",
+    "name": "Platte stekker",
+    "multiValue": false
+  },
+  {
+    "id": "Flavour Chocolate",
+    "name": "Chocoladesmaak",
+    "multiValue": true
+  },
+  {
+    "id": "Flavour Pet Food",
+    "name": "Smaak dierenvoeding",
+    "multiValue": true
+  },
+  {
+    "id": "Flavour of Nuts",
+    "name": "Smaak borrelnootjes",
+    "multiValue": true
+  },
+  {
+    "id": "Flex Index",
+    "name": "Flex index",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "30",
+      "maximumValue": "130"
+    }
+  },
+  {
+    "id": "Flexibility Racket",
+    "name": "Flexibiliteit racket",
+    "multiValue": false
+  },
+  {
+    "id": "Flexibility TV-Mount",
+    "name": "Wendbaarheid muurbeugel",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible",
+    "name": "Flexibel",
+    "definition": "Is het artikel flexibel?",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Backrest",
+    "name": "Flexibele rugleuning",
+    "definition": "Heeft dit artikel een flexibele rugleuning?",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Decorative Trim",
+    "name": "Flexibele sierlijst",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Door Construction",
+    "name": "Flexibele deurinrichting",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Legs",
+    "name": "Flexibele poten",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Plates",
+    "name": "Flexibele platen",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Rotating Cord",
+    "name": "Flexibel roterend koord",
+    "definition": "Heeft het apparaat een flexibel roterend koord?",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Shaving Head",
+    "name": "Flexibele scheerkop",
+    "multiValue": false
+  },
+  {
+    "id": "Flexible Temperature Zones",
+    "name": "Meerdere temperatuurzones",
+    "definition": "Kan de oven verschillende temperatuurzones tegelijk instellen om bijvoorbeeld 2 verschillende maaltijden te bereiden?",
+    "multiValue": false
+  },
+  {
+    "id": "Flight License Required",
+    "name": "Vliegbewijs vereist",
+    "multiValue": false
+  },
+  {
+    "id": "Flightcase Suitable For",
+    "name": "Flightcase geschikt voor",
+    "multiValue": false
+  },
+  {
+    "id": "Flip Over Model",
+    "name": "Flipover model",
+    "multiValue": false
+  },
+  {
+    "id": "Flippable Screen",
+    "name": "Draaibaar scherm",
+    "definition": "Kan je het scherm draaien?",
+    "multiValue": false
+  },
+  {
+    "id": "Floating",
+    "name": "Drijvend",
+    "definition": "Drijft het?",
+    "multiValue": false
+  },
+  {
+    "id": "Floating Top Plate",
+    "name": "Zwevende topplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Floor Connection Type",
+    "name": "Type verbinding",
+    "multiValue": false
+  },
+  {
+    "id": "Floor Motif",
+    "name": "Legpatroon",
+    "multiValue": false
+  },
+  {
+    "id": "Floor Properties",
+    "name": "Vloer eigenschappen",
+    "multiValue": true
+  },
+  {
+    "id": "Flow",
+    "name": "Doorstroomcapaciteit",
+    "definition": "Maximale capaciteit van doorstromen uitgedrukt in kubieke meter per uur.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.L2",
+          "name": "l/min",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MQH",
+          "name": "m\u00b3/h",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Flow System",
+    "name": "Flowsysteem",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen flowsysteem'.",
+    "multiValue": false
+  },
+  {
+    "id": "Flower",
+    "name": "Bloemen",
+    "multiValue": false
+  },
+  {
+    "id": "Flower Species",
+    "name": "Soorten bloemen",
+    "definition": "Welke bloemen bevat het boeket of kunnen groeien uit deze bol/ dit zaad?",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Flowering Season",
+    "name": "Bloeiperiode",
+    "multiValue": true
+  },
+  {
+    "id": "Flowering Time",
+    "name": "Bloeitijd",
+    "definition": "Hoe lang de plant in bloei is.",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Flush Fitting",
+    "name": "Gelijksluitend",
+    "multiValue": false
+  },
+  {
+    "id": "Flushing Toilet Form",
+    "name": "Spoelvorm",
+    "multiValue": false
+  },
+  {
+    "id": "Flywheel",
+    "name": "Vliegwiel",
+    "definition": "Geef aan of de fietstrainer een vliegwiel heeft",
+    "multiValue": false
+  },
+  {
+    "id": "Flywheel Weight",
+    "name": "Vliegwielgewicht",
+    "definition": "Geef aan wat het gewicht van het vliegwiel is in kg",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM",
+          "name": "kg",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Foam Seating",
+    "name": "Foamzitting",
+    "multiValue": false
+  },
+  {
+    "id": "Foam Separator",
+    "name": "Schuimscheider",
+    "multiValue": false
+  },
+  {
+    "id": "Focal Length",
+    "name": "Brandpuntsafstand",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Focus Light Effect",
+    "name": "Focus lichteffect",
+    "multiValue": false
+  },
+  {
+    "id": "Focus System",
+    "name": "Focus systeem",
+    "multiValue": false
+  },
+  {
+    "id": "Focus Thermal Imager",
+    "name": "Focus warmtebeeldcamera",
+    "multiValue": false
+  },
+  {
+    "id": "Fold-away",
+    "name": "Opklapbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Foldable",
+    "name": "Opvouwbaar",
+    "definition": "Is het product opvouwbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Foldable Bath Wall",
+    "name": "Inklapbaarheid badwand",
+    "multiValue": false
+  },
+  {
+    "id": "Foldable Blades",
+    "name": "Inklapbare bladen",
+    "multiValue": false
+  },
+  {
+    "id": "Foldable Handle",
+    "name": "Inklapbare handgreep",
+    "multiValue": false
+  },
+  {
+    "id": "Foldable Microphone",
+    "name": "Inklapbare microfoon",
+    "definition": "Kan de microfoon van het artikel eventueel weg geklapt worden wanneer de consument deze niet nodig heeft?",
+    "multiValue": false
+  },
+  {
+    "id": "Foldable screen",
+    "name": "Vouwbaar scherm",
+    "multiValue": false
+  },
+  {
+    "id": "Folding Size Height",
+    "name": "Vouwmaat hoogte",
+    "definition": "Wat is de hoogte van de opgevouwen vouwfiets?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Folding Size Length",
+    "name": "Vouwmaat lengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Folding Size Width",
+    "name": "Vouwmaat breedte",
+    "definition": "Wat is de breedte van de opgevouwen vouwfiets?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Food Additives",
+    "name": "Toevoegingsmiddelen",
+    "definition": "De toegevoegde middelen in dit product.",
+    "fillingInstructions": "Vul hier indien van toepassing de toevoegingsmiddelen dat in de voeding zit.",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 2000
+    }
+  },
+  {
+    "id": "Foot Bath Functions",
+    "name": "Voetenbad functies",
+    "multiValue": true
+  },
+  {
+    "id": "Footmuff suitable for",
+    "name": "Voetenzak geschikt voor",
+    "multiValue": true
+  },
+  {
+    "id": "Footrest",
+    "name": "Voetensteun",
+    "multiValue": false
+  },
+  {
+    "id": "For Buggy or Stroler",
+    "name": "Voor buggy of kinderwagen",
+    "multiValue": true
+  },
+  {
+    "id": "For Detection Of",
+    "name": "Voor detectie van",
+    "multiValue": true
+  },
+  {
+    "id": "For Face",
+    "name": "Voor gezicht",
+    "multiValue": false
+  },
+  {
+    "id": "For Milk or Machine",
+    "name": "Voor melk of machine",
+    "multiValue": false
+  },
+  {
+    "id": "For Poluted Water",
+    "name": "Voor vervuild water",
+    "multiValue": false
+  },
+  {
+    "id": "For Professional Use",
+    "name": "Voor professioneel gebruik",
+    "multiValue": false
+  },
+  {
+    "id": "For medical purposes",
+    "name": "Voor medische doeleinden",
+    "multiValue": false
+  },
+  {
+    "id": "Force Feedback",
+    "name": "Force Feedback",
+    "definition": "Beschikt de controller over Force Feedback, dat er voor zorgt dat deze 'natuurlijk' tegengas geeft?",
+    "multiValue": false
+  },
+  {
+    "id": "Forged In One Piece",
+    "name": "Volledig gesmeed uit \u00e9\u00e9n stuk",
+    "multiValue": false
+  },
+  {
+    "id": "Fork Length",
+    "name": "Vorklengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Fork Width",
+    "name": "Vorkbreedte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Form Factor",
+    "name": "Form factor",
+    "multiValue": false
+  },
+  {
+    "id": "Form Fitted",
+    "name": "Pasklaar",
+    "multiValue": false
+  },
+  {
+    "id": "Form of Visor",
+    "name": "Vorm van vizier",
+    "multiValue": false
+  },
+  {
+    "id": "Format",
+    "name": "Formaat",
+    "multiValue": false
+  },
+  {
+    "id": "Format DJ Mixer",
+    "name": "Formaat DJ mixer",
+    "multiValue": false
+  },
+  {
+    "id": "Format Puzzle Book",
+    "name": "Formaat puzzelboek",
+    "multiValue": false
+  },
+  {
+    "id": "Formatted for",
+    "name": "Geformatteerd voor",
+    "definition": "Is deze harde schijf voorgeformateerd voor Windows of Mac?",
+    "multiValue": true
+  },
+  {
+    "id": "Formula",
+    "name": "Formule",
+    "multiValue": false
+  },
+  {
+    "id": "Fotochroom",
+    "name": "Fotochroom",
+    "multiValue": false
+  },
+  {
+    "id": "Fragrance",
+    "name": "Geur",
+    "multiValue": false
+  },
+  {
+    "id": "Fragrance Free",
+    "name": "Parfumvrij",
+    "definition": "Is dit product parfumvrij?",
+    "multiValue": false
+  },
+  {
+    "id": "Frame Height",
+    "name": "Frame hoogte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Frame Length",
+    "name": "Framelengte",
+    "definition": "Geef de lengte van het artikel aan van steel tot top",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Frame Mounting",
+    "name": "Framebevestiging",
+    "multiValue": true
+  },
+  {
+    "id": "Frame Rate",
+    "name": "Beeldfrequentie",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.HTZ",
+          "name": "Hz",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Frame Shape",
+    "name": "Montuurvorm",
+    "definition": "Het model van een brilmontuur",
+    "multiValue": false
+  },
+  {
+    "id": "Frame Size",
+    "name": "Framemaat",
+    "definition": "Framemaat in centimeters (cm) Center top gemeten)",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Frame Tube Thickness",
+    "name": "Buiswanddikte frame",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Frame Type",
+    "name": "Montuurtype",
+    "definition": "Geef aan wat het type montuur is",
+    "multiValue": false
+  },
+  {
+    "id": "Frame Width",
+    "name": "Montuurbreedte",
+    "multiValue": false
+  },
+  {
+    "id": "Frame or Stretched",
+    "name": "Frame of bespannen",
+    "multiValue": false
+  },
+  {
+    "id": "Frameo",
+    "name": "Frameo",
+    "multiValue": false
+  },
+  {
+    "id": "Frames Per Second",
+    "name": "FPS",
+    "definition": "Wat is de fps?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Framing Stove Top",
+    "name": "Omlijsting kookplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Free Air Supply",
+    "name": "Vrije luchttoevoer",
+    "multiValue": false
+  },
+  {
+    "id": "Free Arm",
+    "name": "Vrije arm",
+    "multiValue": false
+  },
+  {
+    "id": "Free Map Updates",
+    "name": "Gratis kaartupdates",
+    "multiValue": false
+  },
+  {
+    "id": "Free of",
+    "name": "Vrij van",
+    "multiValue": true
+  },
+  {
+    "id": "Freeze Capacity",
+    "name": "Invriescapaciteit",
+    "definition": "Wat is de vries capaciteit van het apparaat?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.kg",
+          "name": "Kg/24h",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Freeze Duration",
+    "name": "Freeze duur",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Freeze Switch",
+    "name": "Vriezer instelbaar als koelruimte",
+    "multiValue": false
+  },
+  {
+    "id": "Freezer Safe",
+    "name": "Vriezerbestendig",
+    "definition": "Is het veilig om in de vriezer te gebruiken?",
+    "multiValue": false
+  },
+  {
+    "id": "Freezing Point",
+    "name": "Vriespunt",
+    "multiValue": false
+  },
+  {
+    "id": "Frequency",
+    "name": "Frequentie",
+    "definition": "De frequentie die het artikel uitzendt.",
+    "multiValue": true
+  },
+  {
+    "id": "From Filter Size",
+    "name": "Van filtermaat",
+    "multiValue": false
+  },
+  {
+    "id": "Front Camera Number of Pixels",
+    "name": "Aantal pixels frontcamera",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MPx",
+          "name": "Megapixel",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Front Panel Case",
+    "name": "Opbergdoosje voorpaneel",
+    "multiValue": false
+  },
+  {
+    "id": "Front or Rear",
+    "name": "Voor of achter",
+    "definition": "Geef aan of het artikel geschikt is voor achter of voor",
+    "multiValue": false
+  },
+  {
+    "id": "Frost Effect",
+    "name": "Frost effect",
+    "multiValue": false
+  },
+  {
+    "id": "Frost Free Mode",
+    "name": "Vorstvrijstand",
+    "multiValue": false
+  },
+  {
+    "id": "Frost Resistant",
+    "name": "Vorstbestendig",
+    "multiValue": false
+  },
+  {
+    "id": "Frozen Food",
+    "name": "Vriesvoer",
+    "multiValue": false
+  },
+  {
+    "id": "Fruit Type",
+    "name": "Type fruit",
+    "definition": "Het type fruit waar dit artikel in onder te verdelen is.",
+    "multiValue": false
+  },
+  {
+    "id": "Fuel Consumption",
+    "name": "Brandstof consumptie",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.LH",
+          "name": "l/h",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Fuel Type",
+    "name": "Brandstof",
+    "definition": "Geef aan wat voor type brandstof dit artikel verbuikt",
+    "multiValue": true
+  },
+  {
+    "id": "Full Length Club Divider",
+    "name": "Full-length clubverdelers",
+    "multiValue": false
+  },
+  {
+    "id": "Fully Extendable",
+    "name": "Volledig uittrekbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Fully Reflective",
+    "name": "Volledig reflecterend",
+    "multiValue": false
+  },
+  {
+    "id": "Fully Sterilizable",
+    "name": "Volledig steriliseerbaar",
+    "definition": "Bevat het product volledigsteriliseerbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Function Cuddly Toy",
+    "name": "Knuffelfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Function Penis Sleeve",
+    "name": "Functie penissleeve",
+    "multiValue": false
+  },
+  {
+    "id": "Functionality",
+    "name": "Functionaliteit",
+    "multiValue": false
+  },
+  {
+    "id": "Functioning",
+    "name": "Werking",
+    "multiValue": true
+  },
+  {
+    "id": "Functions",
+    "name": "Functies",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 2000
+    }
+  },
+  {
+    "id": "Functions Radiator Knob",
+    "name": "Functies radiatorknop",
+    "multiValue": true
+  },
+  {
+    "id": "Funkussen",
+    "name": "Funkussen",
+    "multiValue": false
+  },
+  {
+    "id": "Fur Padded Halter",
+    "name": "Onderlegd met wol/fleece",
+    "multiValue": true
+  },
+  {
+    "id": "Furniture Finish",
+    "name": "Meubelafwerking",
+    "multiValue": false
+  },
+  {
+    "id": "Furniture Included",
+    "name": "Inclusief aquariummeubel",
+    "multiValue": false
+  },
+  {
+    "id": "G-Value",
+    "name": "G-waarde",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "GAP Connection",
+    "name": "GAP verbinding",
+    "multiValue": false
+  },
+  {
+    "id": "GPS",
+    "name": "GPS",
+    "definition": "Geef aan of het apparaat GPS, Assisted GPS of geen GPS heeft.",
+    "multiValue": false
+  },
+  {
+    "id": "Gain",
+    "name": "Gain",
+    "multiValue": false
+  },
+  {
+    "id": "Game Edition",
+    "name": "Speleditie",
+    "definition": "Geef aan wat voor een editie dit artikel is. (Het is mogelijk om meerdere speledities te kiezen)",
+    "multiValue": true
+  },
+  {
+    "id": "Game Merchandise Theme",
+    "name": "Game merchandise thema",
+    "definition": "Bevat het product het game merchandise thema?",
+    "multiValue": false
+  },
+  {
+    "id": "Game Options",
+    "name": "Spelopties",
+    "multiValue": true
+  },
+  {
+    "id": "Game Type",
+    "name": "Speltype",
+    "definition": "Naast het genre waarbinnen de game valt, wat is het speltype? Hoe werkt het spel?",
+    "multiValue": true
+  },
+  {
+    "id": "Game mode",
+    "name": "Gaming modus",
+    "multiValue": false
+  },
+  {
+    "id": "Games Genre",
+    "name": "Games Genre",
+    "definition": "Wat is het genre van deze game? Wat kan de consument verwachten?",
+    "multiValue": true
+  },
+  {
+    "id": "Games Included",
+    "name": "Inclusief game(s)",
+    "definition": "Worden bij het artikel games meegeleverd of moeten deze los worden gekocht?",
+    "multiValue": false
+  },
+  {
+    "id": "Games Platform",
+    "name": "Game platform",
+    "definition": "Kies het juiste platform uit de lijst.",
+    "multiValue": true
+  },
+  {
+    "id": "Gaming",
+    "name": "Gaming",
+    "multiValue": false
+  },
+  {
+    "id": "Gaming Glasses",
+    "name": "Gaming bril",
+    "multiValue": false
+  },
+  {
+    "id": "Garde Diameter",
+    "name": "Gardediameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Garden Fence Type",
+    "name": "Type tuinhek",
+    "multiValue": false
+  },
+  {
+    "id": "Garden Gate Type",
+    "name": "Type tuinpoort",
+    "multiValue": false
+  },
+  {
+    "id": "Garden House Type",
+    "name": "Type tuinhuis",
+    "multiValue": false
+  },
+  {
+    "id": "Garden Tile Type",
+    "name": "Type tuintegel",
+    "multiValue": false
+  },
+  {
+    "id": "Gas Connection For",
+    "name": "Fabrieksinstelling gasaansluiting voor",
+    "multiValue": false
+  },
+  {
+    "id": "Gas Consumption",
+    "name": "Verbruik",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "maximumValue": "1000",
+      "units": [
+        {
+          "id": "unece.unit.g/h",
+          "name": "g/h",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Gas Convertable To",
+    "name": "Gas om te bouwen naar",
+    "multiValue": false
+  },
+  {
+    "id": "Gas Filter Certification Mark",
+    "name": "Gasfilter keuring",
+    "multiValue": false
+  },
+  {
+    "id": "Gas Hob Certified For",
+    "name": "Gasplaat gecertificeerd voor",
+    "multiValue": false
+  },
+  {
+    "id": "Gas Pressure",
+    "name": "Gasdruk",
+    "definition": "Geef aan wat de gasdruk is van dit artikel Vermelden in mbar",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.mbar",
+          "name": "mbar",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Gas Type",
+    "name": "Soort gas",
+    "multiValue": false
+  },
+  {
+    "id": "Gas-filled",
+    "name": "Gasgevuld",
+    "definition": "Is de tennisbal gasgevuld of niet?",
+    "multiValue": false
+  },
+  {
+    "id": "Gate opener type",
+    "name": "Type poortopener",
+    "multiValue": false
+  },
+  {
+    "id": "Gem Colour",
+    "name": "Kleur steen",
+    "definition": "De kleur van de steen. Indien dit attribuut niet relevant is, kies de waarde 'Geen steen'.",
+    "multiValue": true
+  },
+  {
+    "id": "Gem Type",
+    "name": "Steensoort",
+    "definition": "De edelsteen die in een product verwerkt is. Indien dit attribuut niet relevant is, kies de waarde 'Geen edelsteen'.",
+    "multiValue": false
+  },
+  {
+    "id": "Gem cut",
+    "name": "Slijpvorm",
+    "definition": "De manier hoe een diamant geslepen is. Indien dit attribuut niet relevant is, kies de waarde 'Geen diamant'.",
+    "multiValue": false
+  },
+  {
+    "id": "Gender",
+    "name": "Geslacht",
+    "definition": "Kies het geslacht",
+    "multiValue": false
+  },
+  {
+    "id": "Gender Dog",
+    "name": "Geslacht hond",
+    "multiValue": false
+  },
+  {
+    "id": "General Practitioner",
+    "name": "Huisarts",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Geofencing",
+    "name": "Geofencing",
+    "multiValue": false
+  },
+  {
+    "id": "Geschikt voor aantal hamburgers",
+    "name": "Geschikt voor aantal hamburgers",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Geyser Suitable For",
+    "name": "Geiser geschikt voor type gas",
+    "multiValue": false
+  },
+  {
+    "id": "Gift",
+    "name": "Cadeau",
+    "multiValue": false
+  },
+  {
+    "id": "Gift Card Category",
+    "name": "Categorie cadeaubon",
+    "multiValue": false
+  },
+  {
+    "id": "Gift Card Value",
+    "name": "Cadeaubon waarde",
+    "definition": "Waarde van de cadeaukaart in euro's",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "maximumLength": 7,
+      "units": [
+        {
+          "id": "iso4217.unit.EUR",
+          "name": "\u20ac",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Gift Packaging",
+    "name": "Geschenkset",
+    "multiValue": false
+  },
+  {
+    "id": "Giftset",
+    "name": "Cadeau-uitvoering",
+    "multiValue": false
+  },
+  {
+    "id": "Glass Colour",
+    "name": "Kleur glas",
+    "multiValue": false
+  },
+  {
+    "id": "Glass Prism",
+    "name": "Glas prisma",
+    "multiValue": false
+  },
+  {
+    "id": "Glazed",
+    "name": "Geglazuurd",
+    "multiValue": false
+  },
+  {
+    "id": "Glide Mode",
+    "name": "Glijmodus",
+    "multiValue": false
+  },
+  {
+    "id": "Glitter",
+    "name": "Glitter",
+    "multiValue": false
+  },
+  {
+    "id": "Glitter Type",
+    "name": "Type glitter",
+    "multiValue": false
+  },
+  {
+    "id": "Globe Options",
+    "name": "Wereldbol opties",
+    "multiValue": true
+  },
+  {
+    "id": "Glow in the Dark",
+    "name": "Glow in the dark",
+    "multiValue": false
+  },
+  {
+    "id": "Gluten-free Program",
+    "name": "Glutenvrije programma",
+    "multiValue": false
+  },
+  {
+    "id": "Go Cart Options",
+    "name": "Skelter opties",
+    "multiValue": true
+  },
+  {
+    "id": "GoPro Mounting",
+    "name": "GoPro aansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Goal Sports Nutrition",
+    "name": "Doel sportvoeding",
+    "multiValue": true
+  },
+  {
+    "id": "Gobo",
+    "name": "Gobo",
+    "multiValue": false
+  },
+  {
+    "id": "Golf Set Version",
+    "name": "Uitvoering golfset",
+    "definition": "Geef aan waar de golfset uit bestaat",
+    "multiValue": false
+  },
+  {
+    "id": "Golf Shaft Type",
+    "name": "Shaft type",
+    "definition": "Geef aan wat de shaft type van dit artikel is",
+    "multiValue": false
+  },
+  {
+    "id": "Golf Specifications",
+    "name": "Golf specificaties",
+    "multiValue": true
+  },
+  {
+    "id": "Gradeability",
+    "name": "Klimvermogen",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "maximumValue": "100",
+      "units": [
+        {
+          "id": "Percentage",
+          "name": "%",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Grain",
+    "name": "Korrel",
+    "definition": "Geeft de korrelgrootte van het schuurpapier weer. Een lage waarde geeft een grof schuurpapier aan, een hoge waarde is een fijn soort schuurpapier. Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": true
+  },
+  {
+    "id": "Grain of",
+    "name": "Korrel van",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Grain to",
+    "name": "Korrel tot",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Grainfree",
+    "name": "Graanvrij",
+    "definition": "Is dit artikel graanvrij?",
+    "multiValue": false
+  },
+  {
+    "id": "Gram Per Square Meter",
+    "name": "Gram per vierkante meter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "g/m2",
+          "name": "g/m2",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Gram Weight",
+    "name": "Gramsgewicht",
+    "definition": "Het gewicht in gram per m2.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Grass Cutting Options",
+    "name": "Grastrimmer opties",
+    "multiValue": true
+  },
+  {
+    "id": "Gravel Type",
+    "name": "Type grind",
+    "multiValue": false
+  },
+  {
+    "id": "Grease Filter Cleaning Indicator",
+    "name": "Reinigingsindicatie vetfilter",
+    "multiValue": false
+  },
+  {
+    "id": "Greeting Card Style",
+    "name": "Wenskaart stijl",
+    "multiValue": false
+  },
+  {
+    "id": "Greeting Card Theme",
+    "name": "Wenskaart thema",
+    "multiValue": false
+  },
+  {
+    "id": "Griddle Type",
+    "name": "Type plaat",
+    "multiValue": true
+  },
+  {
+    "id": "Grill Feature",
+    "name": "Grill functie",
+    "definition": "Heeft het apparaat een grill functie?",
+    "multiValue": false
+  },
+  {
+    "id": "Grill Power",
+    "name": "Grillvermogen",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Grind Level Adjustable",
+    "name": "Maal niveau aanpasbaar",
+    "definition": "Is het maal niveau aanpasbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Grinding Stone Diameter",
+    "name": "Diameter slijpsteen",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Grip Label",
+    "name": "Grip label",
+    "multiValue": false
+  },
+  {
+    "id": "Grip Size Measure",
+    "name": "Gripmaat",
+    "definition": "Geef de gripmaat van dit artikel aan",
+    "multiValue": false
+  },
+  {
+    "id": "Grip Type",
+    "name": "Type grip",
+    "definition": "Geef aan welk type grip het is",
+    "multiValue": false
+  },
+  {
+    "id": "Groove Width",
+    "name": "Groefbreedte",
+    "definition": "De maximale breedte van de groef.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Ground Frame",
+    "name": "Grondframe",
+    "multiValue": false
+  },
+  {
+    "id": "Ground Lift Function",
+    "name": "Ground-lift functie",
+    "multiValue": false
+  },
+  {
+    "id": "Grounded",
+    "name": "Geaard",
+    "multiValue": false
+  },
+  {
+    "id": "Grout Lines",
+    "name": "Met of zonder voeg",
+    "multiValue": false
+  },
+  {
+    "id": "Growing Chair",
+    "name": "Meegroeistoel",
+    "multiValue": false
+  },
+  {
+    "id": "Growth Period",
+    "name": "Groeiperiode",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Growth Room",
+    "name": "Doorgroeikamer",
+    "multiValue": false
+  },
+  {
+    "id": "Guarantee",
+    "name": "Garantie",
+    "definition": "Wat is de garantieperiode?",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Guest Network",
+    "name": "Gastnetwerk",
+    "definition": "Beschikt deze router over een separaat netwerk voor gasten?",
+    "multiValue": false
+  },
+  {
+    "id": "Guide Number Flash",
+    "name": "Richtgetal flitser",
+    "definition": "Wat is het richtgetal van de flitser? Indien dit attribuut niet relevant is, vul een 0 in.",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Guide Rail Included",
+    "name": "Inclusief geleiderails",
+    "multiValue": false
+  },
+  {
+    "id": "Guided meditation",
+    "name": "Geleide mediatie",
+    "multiValue": false
+  },
+  {
+    "id": "Guitar Size",
+    "name": "Gitaarmaat",
+    "multiValue": false
+  },
+  {
+    "id": "Guitar Starter Set",
+    "name": "Beginner gitaarset",
+    "multiValue": false
+  },
+  {
+    "id": "Guitar or Bass Guitar",
+    "name": "Gitaar of basgitaar",
+    "multiValue": false
+  },
+  {
+    "id": "HDCP Compliant",
+    "name": "HDCP Compliant",
+    "multiValue": false
+  },
+  {
+    "id": "HDMI",
+    "name": "Aantal HDMI aansluitingen",
+    "definition": "Hoeveel HDMI aansluitingen bevat het product? Indien dit attribuut niet relevant is, kies de waarde 'Geen'.",
+    "multiValue": false
+  },
+  {
+    "id": "HDMI Input Frontside",
+    "name": "HDMI voorzijde",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen'.",
+    "multiValue": false
+  },
+  {
+    "id": "HDMI Output Port",
+    "name": "HDMI uitgang",
+    "definition": "Beschikt het apparaat over een HDMI-uitgang?",
+    "multiValue": false,
+    "validation": {
+      "type": "integer"
+    }
+  },
+  {
+    "id": "HDMI Version",
+    "name": "HDMI versie",
+    "multiValue": true
+  },
+  {
+    "id": "HDR Support",
+    "name": "HDR ondersteuning",
+    "multiValue": false
+  },
+  {
+    "id": "HR Value",
+    "name": "HR waarde",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.KGM3",
+          "name": "kg/m\u00b3",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Hair Color",
+    "name": "Haarkleur",
+    "definition": "Is dit product geschikt voor een specifieke haarkleur?",
+    "multiValue": true
+  },
+  {
+    "id": "Hair Colour",
+    "name": "Haarkleur",
+    "multiValue": true
+  },
+  {
+    "id": "Hair Colour Wig",
+    "name": "Haarkleur pruik",
+    "multiValue": false
+  },
+  {
+    "id": "Hair Colouring Technique",
+    "name": "Haarkleurtechniek",
+    "multiValue": false
+  },
+  {
+    "id": "Hair Dye Supplies",
+    "name": "Type haarverfbenodigdheden",
+    "multiValue": true
+  },
+  {
+    "id": "Hair Length",
+    "name": "Haarlengte",
+    "multiValue": false
+  },
+  {
+    "id": "Hair Model",
+    "name": "Model haar",
+    "multiValue": false
+  },
+  {
+    "id": "Hair Pin",
+    "name": "Haarklem",
+    "multiValue": false
+  },
+  {
+    "id": "Hair Problem",
+    "name": "Haarprobleem",
+    "multiValue": false
+  },
+  {
+    "id": "Halal",
+    "name": "Halal",
+    "multiValue": false
+  },
+  {
+    "id": "Half Cut",
+    "name": "Half ingesneden",
+    "multiValue": false
+  },
+  {
+    "id": "Half Load Possible",
+    "name": "Halve belading mogelijk",
+    "multiValue": false
+  },
+  {
+    "id": "Half or Full Automatic",
+    "name": "Half of vol automatisch",
+    "definition": "Is het een half of vol automatisch apparaat?",
+    "multiValue": false
+  },
+  {
+    "id": "Half-degree Adjustable",
+    "name": "Per halve graad instelbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Halogen Free",
+    "name": "Halogeenvrij",
+    "multiValue": false
+  },
+  {
+    "id": "Hammer Function",
+    "name": "Klopfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Hand Blown",
+    "name": "Handgeblazen",
+    "multiValue": false
+  },
+  {
+    "id": "Hand Made",
+    "name": "Handgemaakt",
+    "multiValue": false
+  },
+  {
+    "id": "Hand Painted",
+    "name": "Handbeschilderd",
+    "definition": "Is het artikel met de hand beschilderd?",
+    "multiValue": false
+  },
+  {
+    "id": "Handle",
+    "name": "Handvat",
+    "definition": "Over welk soort handvat beschikt het artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Handle Included",
+    "name": "Handgreep meegeleverd",
+    "multiValue": false
+  },
+  {
+    "id": "Handle Length",
+    "name": "Lengte hendel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Handlebar Clamp Size",
+    "name": "Stuurklemmaat",
+    "definition": "Geef de diameter in mm op van het stuur",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Handlebar Stem Angle",
+    "name": "Hoek stuurpen",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Handout bags",
+    "name": "Uitdeelzakjes",
+    "multiValue": false
+  },
+  {
+    "id": "Handsfree",
+    "name": "Handenvrij",
+    "multiValue": false
+  },
+  {
+    "id": "Handsfree Calls",
+    "name": "Handsfree bellen",
+    "definition": "Is het mogelijk handfree te bellen met dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Hang Up Method",
+    "name": "Ophangwijze",
+    "definition": "Hoe kun je het product ophangen? Indien dit attribuut niet relevant is, kies de waarde 'Geen ophangwijze'.",
+    "multiValue": true
+  },
+  {
+    "id": "Hangable",
+    "name": "Ophangbaar",
+    "definition": "Is dit artikel op te hangen?",
+    "multiValue": false
+  },
+  {
+    "id": "Hanging",
+    "name": "Ophangbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Hanging Section",
+    "name": "Hanggedeelte",
+    "multiValue": false
+  },
+  {
+    "id": "Hanging System",
+    "name": "Ophangsysteem",
+    "multiValue": true
+  },
+  {
+    "id": "Hard or soft sole",
+    "name": "Harde of zachte zool",
+    "multiValue": false
+  },
+  {
+    "id": "Hardcase or Softcase",
+    "name": "Hardcase of softcase",
+    "definition": "Geef aan of het artikel hardcase of softcase is",
+    "multiValue": false
+  },
+  {
+    "id": "Harddisk Interface",
+    "name": "Harddisk -interface",
+    "definition": "Met welke aansluiting wordt deze harde schijf aansgeloten?",
+    "multiValue": false
+  },
+  {
+    "id": "Harddisk Speed",
+    "name": "Hardeschijf snelheid",
+    "definition": "Geef het toerental van de harde schijf aan",
+    "multiValue": false
+  },
+  {
+    "id": "Hardy",
+    "name": "Winterhard",
+    "multiValue": false
+  },
+  {
+    "id": "Harmonic Distortion",
+    "name": "Harmonische vervorming",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 200
+    }
+  },
+  {
+    "id": "Harmonica",
+    "name": "Harmonica doek",
+    "multiValue": false
+  },
+  {
+    "id": "Hart Rate Function",
+    "name": "Hartslagfunctie",
+    "definition": "Geef aan of de fietscomputer wel of geen hartslagfunctie heeft",
+    "multiValue": false
+  },
+  {
+    "id": "Hart rate simulation",
+    "name": "Hartslagsimulatie",
+    "multiValue": false
+  },
+  {
+    "id": "Has Antenna Input Port",
+    "name": "Heeft antenne-ingang port",
+    "multiValue": false
+  },
+  {
+    "id": "Has Anti Wrinkle Phase",
+    "name": "Heeft anti-kreuk fase",
+    "multiValue": false
+  },
+  {
+    "id": "Has a RAL code",
+    "name": "Heeft een RAL code",
+    "multiValue": false
+  },
+  {
+    "id": "Hazard Statements",
+    "name": "Gevarenaanduiding (H-zinnen)",
+    "definition": "Tot welk gevaar kan verkeerd gebruik van het product leiden? Je vind deze H-zinnen op het etiket van het product.",
+    "multiValue": true
+  },
+  {
+    "id": "Head Circumference",
+    "name": "Hoofdomtrek",
+    "definition": "Geef aan voor welke hoofdomtrek dit artikel geschikt is Vermelden in cm",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Head Circumference Bicycle Helmet",
+    "name": "Hoofdomtrek",
+    "multiValue": false
+  },
+  {
+    "id": "Head Diameter",
+    "name": "Kopmaat",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Head Shape",
+    "name": "Kopvorm",
+    "definition": "Het soort kop van het ijzerwaren artikel.",
+    "multiValue": true
+  },
+  {
+    "id": "Head Size",
+    "name": "Bladgrootte",
+    "definition": "Wat is de bladgrootte van dit racket?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMK",
+          "name": "cm\u00b2",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Head circumference Hat",
+    "name": "Hoofdomtrek muts",
+    "multiValue": false
+  },
+  {
+    "id": "Headphone Connection",
+    "name": "Koptelefoonaansluiting",
+    "definition": "Beschikt het artikel over een koptelefoonaansluiting?",
+    "multiValue": false
+  },
+  {
+    "id": "Headphone for",
+    "name": "Koptelefoon voor",
+    "multiValue": true
+  },
+  {
+    "id": "Headrest Included",
+    "name": "Meegeleverde hoofdsteun",
+    "multiValue": false
+  },
+  {
+    "id": "Headrest Mounting",
+    "name": "Hoofdsteunmontage",
+    "multiValue": false
+  },
+  {
+    "id": "Headset Options",
+    "name": "Headsetopties",
+    "multiValue": true
+  },
+  {
+    "id": "Headset Sound Reproduction",
+    "name": "Geluidsweergave headset",
+    "multiValue": false
+  },
+  {
+    "id": "Headset Volume Control",
+    "name": "Volume regeling op headset",
+    "multiValue": false
+  },
+  {
+    "id": "Headset Wearing Type",
+    "name": "Draagwijze headset",
+    "multiValue": false
+  },
+  {
+    "id": "Heart Distance",
+    "name": "Hartafstand",
+    "multiValue": false
+  },
+  {
+    "id": "Heart Distance Door Fitting",
+    "name": "PC maat",
+    "multiValue": false
+  },
+  {
+    "id": "Heart Rate Sensor",
+    "name": "Hartslagsensor",
+    "multiValue": false
+  },
+  {
+    "id": "Heat Indicator",
+    "name": "Warmteindicatie",
+    "multiValue": false
+  },
+  {
+    "id": "Heat Resistance per m2",
+    "name": "Warmteweerstand per m2",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0.0",
+      "units": [
+        {
+          "id": "unece.unit.KWT",
+          "name": "kW",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Heat Resistant",
+    "name": "Hittebestendig",
+    "definition": "Is het product hittebestendig?",
+    "multiValue": false
+  },
+  {
+    "id": "Heated",
+    "name": "Verwarmd",
+    "multiValue": false
+  },
+  {
+    "id": "Heater Placement",
+    "name": "Plaatsing terrasverwarmer",
+    "definition": "Betreft het een hangende of staande terrasingsverwarmer?",
+    "multiValue": false
+  },
+  {
+    "id": "Heating Below and Above",
+    "name": "Boven- en onderwarmte",
+    "multiValue": false
+  },
+  {
+    "id": "Heating Capacity",
+    "name": "Verwarmingscapaciteit",
+    "multiValue": false
+  },
+  {
+    "id": "Heating Function",
+    "name": "Verwarmingsfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Heating Range",
+    "name": "Verwarmingsbereik",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MTK",
+          "name": "m\u00b2",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Heating Time",
+    "name": "Verwarming tijd",
+    "definition": "Wat is de  t w Verwarming tijd?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MIN",
+          "name": "minuut",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Heating Top and Bottom",
+    "name": "Verwarming boven en onder",
+    "definition": "Heeft het apparaat boven- en onder verwarming?",
+    "multiValue": false
+  },
+  {
+    "id": "Heating Up Function",
+    "name": "Opwarmfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Hecht",
+    "name": "Hecht",
+    "definition": "Het type van het handvat van de schroevendraaier.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Heel Height",
+    "name": "Hakhoogte",
+    "fillingInstructions": "Hier kan de hoogte middels een dropdown menu worden aangegeven.",
+    "multiValue": false
+  },
+  {
+    "id": "Heel Piece",
+    "name": "Hakstuk",
+    "multiValue": false
+  },
+  {
+    "id": "Heel Shape",
+    "name": "Hakvorm",
+    "multiValue": false
+  },
+  {
+    "id": "Heel Type",
+    "name": "Type hiel",
+    "multiValue": false
+  },
+  {
+    "id": "Height",
+    "name": "Verpakking hoogte",
+    "definition": "Hoogte van de verpakking",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Barstool",
+    "name": "Hoogte barkruk",
+    "multiValue": true
+  },
+  {
+    "id": "Height Base Station",
+    "name": "Hoogte basisstation",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Bed Base Without Mattress",
+    "name": "Hoogte bedbodem zonder matras",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Elbow Rest",
+    "name": "Hoogte armleuning",
+    "definition": "Wat is de afstand van de grond tot de bovenkant van de armleuning?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Faucet Outlet",
+    "name": "Hoogte uitloop",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Folded",
+    "name": "Hoogte ingeklapt",
+    "definition": "Wat is de hoogte ingeklapt?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Handset",
+    "name": "Hoogte handset",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Mounting Plate",
+    "name": "Hoogte montageplaat",
+    "definition": "Wat is de pl m Hoogte montageplaat?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Plinth",
+    "name": "Hoogte plint",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Height Toilet",
+    "name": "Hoogte toiletpot",
+    "multiValue": false
+  },
+  {
+    "id": "Height Under Cabinet",
+    "name": "Hoogte onderbouwkast",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Under Carriage",
+    "name": "Hoogte onderstel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Height Wheel",
+    "name": "Hoogte band",
+    "multiValue": false
+  },
+  {
+    "id": "Height of Tabletennis Net Adj",
+    "name": "Nethoogte instelbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Heigth Lampshade",
+    "name": "Hoogte lampenkap",
+    "definition": "Wat is de hoogte van de lampenkap?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Helmet Attachment",
+    "name": "Helmbevestiging",
+    "definition": "Heeft dit artikel een helmbevestiging?",
+    "multiValue": false
+  },
+  {
+    "id": "Helmet Construction",
+    "name": "Helmconstructie",
+    "multiValue": false
+  },
+  {
+    "id": "Hepa Air Filter",
+    "name": "Hepa luchtfilter",
+    "definition": "Beschikt het apparaat over een HEPA lucht filter? Indien dit attribuut niet relevant is, kies de waarde 'Geen HEPA-filter'.",
+    "multiValue": false
+  },
+  {
+    "id": "Herb Type",
+    "name": "Type kruid",
+    "definition": "Het soort kruid waar dit artikel in onder te verdelen is.",
+    "multiValue": false
+  },
+  {
+    "id": "Hi-Res Audio",
+    "name": "Hi-Res Audio",
+    "multiValue": false
+  },
+  {
+    "id": "Hidden Heating Element",
+    "name": "Verborgen verwarmingselement",
+    "definition": "Beschikt het apparaat een verborgen verwarmingselement?",
+    "multiValue": false
+  },
+  {
+    "id": "High Dynamic Range",
+    "name": "HDR",
+    "multiValue": false
+  },
+  {
+    "id": "High Pressure Steam",
+    "name": "Stoom onder hoge druk",
+    "multiValue": false
+  },
+  {
+    "id": "High Visibility Coating",
+    "name": "High visibility coating",
+    "multiValue": false
+  },
+  {
+    "id": "Hinge Version",
+    "name": "Uitvoering scharnier",
+    "multiValue": false
+  },
+  {
+    "id": "Hip Height",
+    "name": "Taillehoogte",
+    "definition": "Wat is de taillehoogte?",
+    "multiValue": false
+  },
+  {
+    "id": "Hockey Stick Length",
+    "name": "Sticklengte",
+    "definition": "Geef aan wat de sticklengte van het artikel is in inches.",
+    "fillingInstructions": "Hockeysticks wordt gemaakt aan de hand van een inchmaat. Hierbij is 36.5 inch een hockeystick voor volwassenen. Alles hieronder is voor de jeugd.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Hold level",
+    "name": "Hold level",
+    "multiValue": false
+  },
+  {
+    "id": "Hold-up",
+    "name": "Hold-up",
+    "multiValue": false
+  },
+  {
+    "id": "Holiday Mode",
+    "name": "Vakantiemodus",
+    "multiValue": false
+  },
+  {
+    "id": "Home Charger Included",
+    "name": "Meegeleverde thuislader",
+    "multiValue": false
+  },
+  {
+    "id": "Homeopathic",
+    "name": "Homeopatisch",
+    "definition": "Is dit product een homeopatisch geneesmiddel? Zo ja, vul dan ook een RVH nummer in.",
+    "multiValue": false
+  },
+  {
+    "id": "Honeycomb Structure",
+    "name": "Met 3D-honingraatstructuur",
+    "definition": "Heeft de stof een speciale 3D-honingraatstructuur?",
+    "multiValue": false
+  },
+  {
+    "id": "Horizontal Scrolling",
+    "name": "Horizontaal scrollen",
+    "definition": "Is het mogelijk om met dit artikel horizontaal te scrollen, naast het standaard verticale?",
+    "multiValue": false
+  },
+  {
+    "id": "Horizontal Viewing Angle",
+    "name": "Camera kijkhoek horizontaal",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Horizontally Foldable",
+    "name": "Horizontaal uitklapbaar",
+    "multiValue": false
+  },
+  {
+    "id": "Horse Track Length",
+    "name": "Spoorlengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Horsepower",
+    "name": "Paardenkracht",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Hose Length",
+    "name": "Lengte slang",
+    "definition": "Wat is de lengte slang?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Hose Storage Capacity",
+    "name": "Slangopbergcapaciteit",
+    "definition": "Hoeveel meter slang kan dit artikel aan?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Hot Air Feature",
+    "name": "Hete lucht functionaliteit",
+    "definition": "Beschikt het apparaat over een hete lucht functie?",
+    "multiValue": false
+  },
+  {
+    "id": "Hot Plate Cover",
+    "name": "Afdekplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Hot Water Class",
+    "name": "Warmwaterklasse",
+    "multiValue": false
+  },
+  {
+    "id": "Hour Indication",
+    "name": "Uuraanduiding",
+    "multiValue": true
+  },
+  {
+    "id": "House Number",
+    "name": "Nummer",
+    "multiValue": true
+  },
+  {
+    "id": "Housing",
+    "name": "Behuizing",
+    "multiValue": false
+  },
+  {
+    "id": "Hoverboard Options",
+    "name": "Hoverboardopties",
+    "multiValue": true
+  },
+  {
+    "id": "How to Adjust Temperature",
+    "name": "Hoe temperatuur aanpassen",
+    "multiValue": false
+  },
+  {
+    "id": "Hue",
+    "name": "Beeldkleur",
+    "multiValue": false
+  },
+  {
+    "id": "Humidification function",
+    "name": "Luchtbevochtigingsfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Humidity Sensor",
+    "name": "Vochtigheid sensor",
+    "multiValue": false
+  },
+  {
+    "id": "Hyaluronic acid",
+    "name": "Hyaluronzuur",
+    "multiValue": false
+  },
+  {
+    "id": "Hybrid Trimmer",
+    "name": "Hybride trimmer",
+    "multiValue": false
+  },
+  {
+    "id": "Hydrating",
+    "name": "Hydraterend",
+    "multiValue": false
+  },
+  {
+    "id": "Hydraulic",
+    "name": "Hydraulisch",
+    "definition": "Is het artikel hydraulisch?",
+    "multiValue": false
+  },
+  {
+    "id": "HydrogenPeroxide",
+    "name": "HydrogenPeroxide",
+    "multiValue": false
+  },
+  {
+    "id": "Hydrophilic Sleeping Bag",
+    "name": "Hydrofiele slaapzak",
+    "definition": "Hydrofiele slaapzakken zijn gemaakt van hydrofiel katoen. Dit is een luchtige zachte stof die goed absorbeert en snel opdroogt. Deze slaapzakken zijn geschikt voor baby's die het snel warm hebben in de warme zomernachten. Vul hier ja in wanneer de slaapzak van hydrofiel materiaal is gemaakt.",
+    "multiValue": false
+  },
+  {
+    "id": "Hygrometer",
+    "name": "Hygrometer",
+    "definition": "Bevat het product hygrometer?",
+    "multiValue": false
+  },
+  {
+    "id": "Hyperthreading/SMT",
+    "name": "Hyperthreading/SMT",
+    "multiValue": false
+  },
+  {
+    "id": "Hypo Allergenic",
+    "name": "Hypo-allergeen",
+    "definition": "Is het product hypo-allergeen?",
+    "multiValue": false
+  },
+  {
+    "id": "IATA",
+    "name": "IATA",
+    "multiValue": false
+  },
+  {
+    "id": "ID Card Detector Function",
+    "name": "Paspoort en ID-bewijs detector",
+    "multiValue": false
+  },
+  {
+    "id": "ID3 Compatible",
+    "name": "Ondersteuning ID3",
+    "multiValue": false
+  },
+  {
+    "id": "IGMP Snooping",
+    "name": "IGMP Snooping",
+    "multiValue": false
+  },
+  {
+    "id": "IP Certification",
+    "name": "IP-certificering",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen IP certificering'.",
+    "multiValue": false
+  },
+  {
+    "id": "IP Value",
+    "name": "IP waarde",
+    "definition": "Wat is de IP waarde? Indien dit attribuut niet relevant is, kies de waarde 'Geen IP-waarde'.",
+    "multiValue": false
+  },
+  {
+    "id": "IP-Camera Certificates",
+    "name": "IP-camera certificaten",
+    "definition": "Bevat het product ipcameracertificaten?",
+    "multiValue": true
+  },
+  {
+    "id": "IP-Camera Functions",
+    "name": "IP-Camera functies",
+    "definition": "Bevat het product ipcamerafuncties? Indien dit attribuut niet relevant is, kies de waarde 'Geen extra functies'.",
+    "multiValue": true
+  },
+  {
+    "id": "IR-cut",
+    "name": "IR-cut",
+    "multiValue": false
+  },
+  {
+    "id": "ITF Approved",
+    "name": "Goedgekeurd door ITF",
+    "multiValue": false
+  },
+  {
+    "id": "Ice Crusher",
+    "name": "Ijs maler",
+    "multiValue": false
+  },
+  {
+    "id": "If Different Colour",
+    "name": "Indien andere kleur",
+    "definition": "Kies de kleurverfijning of kleurencombinatie die op het behang van toepassing is.",
+    "multiValue": true
+  },
+  {
+    "id": "Ignition",
+    "name": "Ontsteking",
+    "multiValue": false
+  },
+  {
+    "id": "Illuminated Display",
+    "name": "Verlicht scherm",
+    "definition": "Zijn de tonen verlicht?",
+    "multiValue": false
+  },
+  {
+    "id": "Illuminated Keys",
+    "name": "Lichtgevende toetsen",
+    "definition": "Bevat het product verlichte toetsen?",
+    "multiValue": false
+  },
+  {
+    "id": "Illustrations",
+    "name": "Illustraties",
+    "definition": "Bevat het product illustraties?",
+    "multiValue": false
+  },
+  {
+    "id": "Image Stabiliser",
+    "name": "Beeldstabilisator",
+    "definition": "Kies het type beeldstabilisatie uit de lijst.",
+    "multiValue": false
+  },
+  {
+    "id": "Imagepreview",
+    "name": "Beeldweergave zoeker",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Impact Driver",
+    "name": "Slagschroevendraaier",
+    "multiValue": false
+  },
+  {
+    "id": "Impact Sound Reduction",
+    "name": "Contactgeluidsreductie",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.dB",
+          "name": "dB",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Implementation Crankset",
+    "name": "Uitvoering crankstel",
+    "definition": "Geef aan hoevel tandbladen het crankstel heeft",
+    "multiValue": false
+  },
+  {
+    "id": "Import",
+    "name": "Import",
+    "multiValue": false
+  },
+  {
+    "id": "Important Warnings",
+    "name": "Belangrijkste waarschuwingen",
+    "multiValue": false,
+    "validation": {
+      "type": "text",
+      "maximumLength": 200
+    }
+  },
+  {
+    "id": "Impregnated",
+    "name": "Ge\u00efmpregneerd",
+    "multiValue": false
+  },
+  {
+    "id": "In a Set",
+    "name": "In een set",
+    "multiValue": false
+  },
+  {
+    "id": "In-line",
+    "name": "In-line",
+    "definition": "Is het inline lood?",
+    "multiValue": false
+  },
+  {
+    "id": "Inclinable",
+    "name": "Omklapbaar",
+    "definition": "Is het artikel omklapbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "Incline Measurement",
+    "name": "Hellingmeting",
+    "multiValue": false
+  },
+  {
+    "id": "Inclining Coin Tray",
+    "name": "Hellende muntopstelling",
+    "multiValue": false
+  },
+  {
+    "id": "Include Alarm Clock Function",
+    "name": "Inclusief wekkerfunctie",
+    "definition": "Bevat het product inclusiefwekkerfunctie?",
+    "multiValue": false
+  },
+  {
+    "id": "Included Accessories",
+    "name": "Bijgeleverde accessoires",
+    "multiValue": true
+  },
+  {
+    "id": "Included Bike Parts",
+    "name": "Meegeleverde fietsonderdelen",
+    "multiValue": true
+  },
+  {
+    "id": "Included Expansion Vessel Elements",
+    "name": "Meegeleverde elementen expansievat",
+    "multiValue": true
+  },
+  {
+    "id": "Included Microscope Accessoires",
+    "name": "Meegeleverde microscoop accessoires",
+    "multiValue": true
+  },
+  {
+    "id": "Included Receiver",
+    "name": "Meegeleverde ontvanger",
+    "definition": "Wordt er een ontvanger meegeleverd bij dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Included USB Cable",
+    "name": "Inbegrepen USB-kabel",
+    "multiValue": true
+  },
+  {
+    "id": "Included Weight",
+    "name": "Meegeleverd gewicht",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.GRM",
+          "name": "g",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Includes Charging Station",
+    "name": "Inclusief oplaadstation",
+    "multiValue": false
+  },
+  {
+    "id": "Includes Filter",
+    "name": "Inclusief filter",
+    "multiValue": false
+  },
+  {
+    "id": "Includes Furniture Lifter",
+    "name": "Inclusief meubellifter",
+    "multiValue": false
+  },
+  {
+    "id": "Includes Mounting Material",
+    "name": "Inclusief montagemateriaal",
+    "multiValue": false
+  },
+  {
+    "id": "Includes Planter",
+    "name": "Inclusief plantenbak",
+    "multiValue": false
+  },
+  {
+    "id": "Includes Virtual Workouts",
+    "name": "Inclusief virtuele workouts",
+    "multiValue": false
+  },
+  {
+    "id": "Including (Adjustable) Armrest",
+    "name": "Inclusief armleuning",
+    "multiValue": false
+  },
+  {
+    "id": "Including ATM-link",
+    "name": "Including pinautomaat koppeling",
+    "multiValue": false
+  },
+  {
+    "id": "Including Accessories",
+    "name": "Including accessoires",
+    "multiValue": true
+  },
+  {
+    "id": "Including Accessory Mount",
+    "name": "Accessoireschoen",
+    "definition": "Beschikt dit artikel over een accesory mount?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Acetone",
+    "name": "Met aceton",
+    "multiValue": false
+  },
+  {
+    "id": "Including Adapters",
+    "name": "Inclusief adapter(s)",
+    "multiValue": false
+  },
+  {
+    "id": "Including Adjustable Nose Bridge",
+    "name": "Inclusief verstelbare neusbrug",
+    "multiValue": false
+  },
+  {
+    "id": "Including Alarm",
+    "name": "Met alarm",
+    "multiValue": false
+  },
+  {
+    "id": "Including Alarm Function",
+    "name": "Alarm",
+    "multiValue": false
+  },
+  {
+    "id": "Including Amplifier",
+    "name": "Inclusief versterker",
+    "definition": "Heeft dit artikel een versterker?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Anti Slip Mat",
+    "name": "Inclusief anti-slip mat",
+    "multiValue": false
+  },
+  {
+    "id": "Including Antislip Arms",
+    "name": "Inclusief antislip armen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Antislip Nose Bridge",
+    "name": "Inclusief antislip neusbrug",
+    "multiValue": false
+  },
+  {
+    "id": "Including Aquagrip",
+    "name": "Inclusief aquagrip",
+    "multiValue": false
+  },
+  {
+    "id": "Including Arm Panels",
+    "name": "Inclusief armpanelen",
+    "definition": "Wordt het product inclusief armpanelen geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Arm Protection",
+    "name": "Inclusief armbeschermers",
+    "definition": "Wordt dit artikel met armbeschermers geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Armrest",
+    "name": "Inclusief armleuning",
+    "multiValue": false
+  },
+  {
+    "id": "Including Audio Connection",
+    "name": "Inclusief audioaansluiting",
+    "definition": "Beschikt deze skihelm over een audioaansluiting?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Auto-wake Function",
+    "name": "Inclusief auto-wake functie",
+    "definition": "Is het artikel inclusief auto-wake functie?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Axis",
+    "name": "Inclusief as",
+    "multiValue": false
+  },
+  {
+    "id": "Including Baby Monitor",
+    "name": "Babyfoon functie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Back Wall",
+    "name": "Inclusief achterwand",
+    "multiValue": false
+  },
+  {
+    "id": "Including Backrest",
+    "name": "Met rugleuning",
+    "definition": "Heeft het artikel een rugleuning waar de rug tegenaan kan leunen tijdens het zitten?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bag",
+    "name": "Inclusief tas",
+    "definition": "Is het inclusief tas?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bags",
+    "name": "Inclusief zakjes",
+    "multiValue": false
+  },
+  {
+    "id": "Including Ball Box Balls",
+    "name": "Inclusief ballenbakballen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Ball Pit",
+    "name": "Met ballenbak",
+    "multiValue": false
+  },
+  {
+    "id": "Including Balls",
+    "name": "Inclusief ballen",
+    "definition": "Wordt dit artikel met ballen geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Barometer",
+    "name": "Inclusief barometer",
+    "definition": "Bevat het product inclusiefbarometer?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Base Layer",
+    "name": "Met onderlaag",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bat",
+    "name": "Inclusief bat",
+    "definition": "Wordt dit artikel met bat geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bathroom Sink",
+    "name": "Inclusief waskom",
+    "definition": "Bevat het product inclusiefwaskom? Indien dit attribuut niet relevant is, kies de waarde 'Geen wastafel of -kom'.",
+    "multiValue": false
+  },
+  {
+    "id": "Including Batteries",
+    "name": "Inclusief batterijen",
+    "definition": "Zijn batterijen inbegrepen bij het apparaat?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Beamer Function",
+    "name": "Inclusief beamerfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bell",
+    "name": "Met stolp",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bell Boots",
+    "name": "Set inclusief springschoenen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Boiler",
+    "name": "Inclusief boiler",
+    "definition": "Is het artikel inclusief boiler?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Boots",
+    "name": "Inclusief laarzen",
+    "definition": "Is het inclusief laarzen?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bottom",
+    "name": "Inclusief bodem",
+    "definition": "Wordt dit artikel geleverd inclusief bodem?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Brake",
+    "name": "Inclusief rem",
+    "multiValue": false
+  },
+  {
+    "id": "Including Brake Cables",
+    "name": "Inclusief remkabels",
+    "definition": "Geef aan of er bij de remhendels kabels geleverd worden",
+    "multiValue": false
+  },
+  {
+    "id": "Including Brushing Boots",
+    "name": "Set inclusief kogelbeschermers",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bucket",
+    "name": "Met emmer",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bumbs",
+    "name": "Met ribbels/met nopjes",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bumper",
+    "name": "Inclusief stootrand",
+    "multiValue": false
+  },
+  {
+    "id": "Including Bunny Pen",
+    "name": "Inclusief ren",
+    "multiValue": false
+  },
+  {
+    "id": "Including CD-player",
+    "name": "Inclusief CD-speler",
+    "definition": "Is het artikel inclusief CD-speler?",
+    "multiValue": false
+  },
+  {
+    "id": "Including CPU Cooler",
+    "name": "Inclusief koeler",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cable",
+    "name": "Inclusief kabel",
+    "definition": "Is het artikel inclusief kabel?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cable Tray",
+    "name": "Inclusief kabelgoot",
+    "multiValue": false
+  },
+  {
+    "id": "Including Car Seat Base",
+    "name": "Inclusief autostoel base",
+    "multiValue": false
+  },
+  {
+    "id": "Including Carabine Hook",
+    "name": "Inclusief karabijnhaak",
+    "multiValue": false
+  },
+  {
+    "id": "Including Catnip",
+    "name": "Inclusief kattenkruid",
+    "multiValue": false
+  },
+  {
+    "id": "Including Ceiling Mounting",
+    "name": "Plafondbevestiging meegeleverd",
+    "multiValue": false
+  },
+  {
+    "id": "Including Chain",
+    "name": "Inclusief ketting",
+    "definition": "Geef aan of er bij de cassette een ketting geleverd wordt",
+    "multiValue": false
+  },
+  {
+    "id": "Including Changing Mattress",
+    "name": "Inclusief verschoonmatras",
+    "multiValue": false
+  },
+  {
+    "id": "Including Changing Table",
+    "name": "Inclusief verschoontafel",
+    "definition": "Is het artikel inclusief verschoonset?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Channel Scan",
+    "name": "Kanaalscan-functie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Charger",
+    "name": "Inclusief oplader",
+    "multiValue": false
+  },
+  {
+    "id": "Including Chin Strap",
+    "name": "Inclusief kinband",
+    "multiValue": false
+  },
+  {
+    "id": "Including Clamps",
+    "name": "Inclusief aansluitklemmen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Clock",
+    "name": "Inclusief klok",
+    "multiValue": false
+  },
+  {
+    "id": "Including Clutch Pedal",
+    "name": "Met koppelpedaal",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cock Ring",
+    "name": "Met cockring",
+    "multiValue": false
+  },
+  {
+    "id": "Including Colour Correction filter",
+    "name": "Inclusief kleurcorrectiefilter (3200k)",
+    "multiValue": false
+  },
+  {
+    "id": "Including Computer Keyboard",
+    "name": "Inclusief toetsenbord",
+    "multiValue": false
+  },
+  {
+    "id": "Including Conditioner",
+    "name": "Met conditioner",
+    "multiValue": false
+  },
+  {
+    "id": "Including Contact Book",
+    "name": "Inclusief telefoonboek",
+    "multiValue": false
+  },
+  {
+    "id": "Including Content",
+    "name": "Inclusief inhoud",
+    "multiValue": false
+  },
+  {
+    "id": "Including Controller",
+    "name": "Met controller",
+    "definition": "Beschikt de racebaan over een controller om gas mee te geven?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Conversion Lens",
+    "name": "Inclusief voorzetlens",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cookbook",
+    "name": "Inclusief kookboek",
+    "definition": "Krijg je er een kookboek bij?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cord",
+    "name": "Met snoer",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cord Guide",
+    "name": "Met snoergeleider",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cover",
+    "name": "Inclusief hoes",
+    "definition": "Komt dit artikel met of zonder hoes?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cover Sheet",
+    "name": "Met dekblad",
+    "multiValue": false
+  },
+  {
+    "id": "Including Creative Filters",
+    "name": "Inclusief creatieve filters",
+    "multiValue": false
+  },
+  {
+    "id": "Including Crisp Feature",
+    "name": "Inclusief crisp optie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cross Table",
+    "name": "Inclusief kruistafel",
+    "multiValue": false
+  },
+  {
+    "id": "Including Curb",
+    "name": "Inclusief opstand",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cushion",
+    "name": "Inclusief kussen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cutlery Box",
+    "name": "Inclusief bestekkoffer",
+    "definition": "Is dit bestek inclusief bestekkoffer?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cutout",
+    "name": "Met uitsparing",
+    "multiValue": false
+  },
+  {
+    "id": "Including Cylinder",
+    "name": "Inclusief cilinder",
+    "multiValue": false
+  },
+  {
+    "id": "Including D-ring",
+    "name": "Inclusief D-ring",
+    "multiValue": false
+  },
+  {
+    "id": "Including DAB-Antenna",
+    "name": "Inclusief DAB+ antenne",
+    "definition": "Is het artikel inclusief DAB+ antenne?",
+    "multiValue": false
+  },
+  {
+    "id": "Including DMX Connection",
+    "name": "Inclusief DMX aansluiting",
+    "multiValue": false
+  },
+  {
+    "id": "Including Decorating Heaven",
+    "name": "Inclusief hemeltje",
+    "definition": "Beschikt dit artikel over een hemeltje?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Decoration",
+    "name": "Inclusief versiering",
+    "definition": "Is het artikel inclusief versiering?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Deet",
+    "name": "Met deet",
+    "definition": "Bevat dit product deet?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Depth Gauge",
+    "name": "Inclusief dieptemeter",
+    "multiValue": false
+  },
+  {
+    "id": "Including Digital Compass",
+    "name": "Inclusief digitaal kompas",
+    "definition": "Is het inclusief digitaal kompas?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Digital Display",
+    "name": "Inclusief digitale weergave",
+    "multiValue": false
+  },
+  {
+    "id": "Including Digital Plumb Rule",
+    "name": "Digitale waterpas",
+    "multiValue": false
+  },
+  {
+    "id": "Including Diopter Correction",
+    "name": "Inclusief dioptriecorrectie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Direct Serve",
+    "name": "Inclusief directe uitloop",
+    "multiValue": false
+  },
+  {
+    "id": "Including Dispenser",
+    "name": "Inclusief dispenser",
+    "multiValue": false
+  },
+  {
+    "id": "Including Display",
+    "name": "Met display",
+    "definition": "Wordt dit artikel geleverd met een display?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Distance Meter",
+    "name": "Inclusief afstandsmeter",
+    "multiValue": false
+  },
+  {
+    "id": "Including Doors",
+    "name": "Inclusief deuren",
+    "multiValue": false
+  },
+  {
+    "id": "Including Drain",
+    "name": "Inclusief afvoer",
+    "multiValue": false
+  },
+  {
+    "id": "Including Drain Pour Function",
+    "name": "Met afgiet of schenkfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Draining Board",
+    "name": "Inclusief afdruipgedeelte",
+    "multiValue": false
+  },
+  {
+    "id": "Including Drawer Stop",
+    "name": "Met ladestop",
+    "multiValue": false
+  },
+  {
+    "id": "Including Drawer Unit",
+    "name": "Inclusief ladeblok",
+    "multiValue": false
+  },
+  {
+    "id": "Including Dust Cap",
+    "name": "Inclusief stofkap",
+    "multiValue": false
+  },
+  {
+    "id": "Including Ear",
+    "name": "Met oor",
+    "definition": "Beschikt het artikel over een oor?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Earphones",
+    "name": "Inclusief oordopjes",
+    "definition": "Is het artikel inclusief oordopjes?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Element",
+    "name": "Geleverd met element",
+    "multiValue": false
+  },
+  {
+    "id": "Including Emergency Button",
+    "name": "Inclusief noodknop",
+    "multiValue": false
+  },
+  {
+    "id": "Including Emergency Light",
+    "name": "Inclusief noodlicht",
+    "multiValue": false
+  },
+  {
+    "id": "Including Emergency Pictograms",
+    "name": "Inclusief noodpictogrammen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Envelope",
+    "name": "Inclusief envelop",
+    "multiValue": false
+  },
+  {
+    "id": "Including Eraser",
+    "name": "Inclusief gum",
+    "multiValue": false
+  },
+  {
+    "id": "Including Excercise Computer",
+    "name": "Inclusief trainingscomputer",
+    "definition": "Wordt dit artikel geleverd met trainingscomputer?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Extra Lens",
+    "name": "Inclusief extra lens",
+    "multiValue": false
+  },
+  {
+    "id": "Including Eye Cushions",
+    "name": "Met oogkussens",
+    "multiValue": false
+  },
+  {
+    "id": "Including Face Recognition",
+    "name": "Inclusief gezichtsherkenning",
+    "multiValue": false
+  },
+  {
+    "id": "Including Face Shield and Earmuffs",
+    "name": "Inclusef gelaatsscherm en oorkappen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fall Arrest Device",
+    "name": "Inclusief valstopapparaat",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fastening Strap",
+    "name": "Inclusief bevestigingsband",
+    "multiValue": false
+  },
+  {
+    "id": "Including Faucet",
+    "name": "Inclusief kraan",
+    "multiValue": false
+  },
+  {
+    "id": "Including Faucet S Fitting",
+    "name": "Inclusief S-koppelingen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fetlock Boots",
+    "name": "Set inclusief strijklappen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fingerprint Scanner",
+    "name": "Inclusief vingerafdrukscanner",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fingersave",
+    "name": "Met Fingersave",
+    "definition": "Beschikt dit artikel over fingersafe?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fishfinder",
+    "name": "Inclusief Fishfinder",
+    "definition": "Is het inclusief fishfinder?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fitness Mat",
+    "name": "Inclusief fitnessmat",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fitting",
+    "name": "Inclusief beslag",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fixation for Actioncam",
+    "name": "Inclusief bevestiging voor action cam",
+    "multiValue": false
+  },
+  {
+    "id": "Including Flashlight",
+    "name": "Inclusief zaklamp",
+    "multiValue": false
+  },
+  {
+    "id": "Including Flat-Iron",
+    "name": "Inclusief strijkijzer",
+    "multiValue": false
+  },
+  {
+    "id": "Including Float",
+    "name": "Inclusief dobber",
+    "multiValue": false
+  },
+  {
+    "id": "Including Floodlight",
+    "name": "Inclusief floodlight",
+    "multiValue": false
+  },
+  {
+    "id": "Including Floor",
+    "name": "Inclusief vloer",
+    "multiValue": false
+  },
+  {
+    "id": "Including Fluoride",
+    "name": "Met fluoride",
+    "definition": "Bevat dit product fluoride?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Folding Bracket",
+    "name": "Inclusief inklapbare beugel",
+    "multiValue": false
+  },
+  {
+    "id": "Including Foot Switch",
+    "name": "Inclusief footswitch",
+    "multiValue": false
+  },
+  {
+    "id": "Including Frame",
+    "name": "Inclusief lijst",
+    "definition": "Word er bij dit artikel een omlijsting meegeleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Freedive Functionality",
+    "name": "Freedive-functionaliteit",
+    "multiValue": false
+  },
+  {
+    "id": "Including Freeze Compartment",
+    "name": "Inclusief vriesvak",
+    "definition": "Heeft het apparaat een vriesvak?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Front Camera",
+    "name": "Inclusief frontcamera",
+    "definition": "Is het artikel inclusief frontcamera?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Front Camera Flash",
+    "name": "Inclusief flitser frontcamera",
+    "multiValue": false
+  },
+  {
+    "id": "Including Game Mode",
+    "name": "Inclusief Game Mode",
+    "multiValue": false
+  },
+  {
+    "id": "Including Gas Cylinder",
+    "name": "Inclusief gasfles",
+    "multiValue": false
+  },
+  {
+    "id": "Including Glass",
+    "name": "Inclusief glasplaat",
+    "multiValue": false
+  },
+  {
+    "id": "Including Glasses",
+    "name": "Inclusief glazen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Glasses Case",
+    "name": "Inclusief brillenkoker",
+    "multiValue": false
+  },
+  {
+    "id": "Including Glue",
+    "name": "Inclusief lijm",
+    "definition": "Is lijm bij dit product inbegrepen?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Grass Mask",
+    "name": "Inclusief graasmasker",
+    "multiValue": false
+  },
+  {
+    "id": "Including Grill",
+    "name": "Inclusief grill",
+    "definition": "Heeft het apparaat een grill functie?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Grille",
+    "name": "Inclusief luchtrooster",
+    "multiValue": false
+  },
+  {
+    "id": "Including Ground Anchor",
+    "name": "Inclusief grondanker",
+    "definition": "Is het artikel inclusief grondanker?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Guy Lines",
+    "name": "Inclusief scheerlijnen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hammer Loop",
+    "name": "Inclusief hamerlus",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hammock",
+    "name": "Inclusief hangmat",
+    "multiValue": false
+  },
+  {
+    "id": "Including Handgrips",
+    "name": "Inclusief handgrepen",
+    "definition": "Is dit artikel inclusief handgrepen?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Handle",
+    "name": "Inclusief handvat",
+    "definition": "Wordt de steel uitgeleverd bij bestelling van dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Handlebar Plugs",
+    "name": "Inclusief stuurdoppen",
+    "definition": "Geef aan of er bij de handvatten stuurdoppen geleverd worden",
+    "multiValue": false
+  },
+  {
+    "id": "Including Handles",
+    "name": "Inclusief handvaten",
+    "multiValue": false
+  },
+  {
+    "id": "Including Handrail Carriers",
+    "name": "Inclusief leuningdragers",
+    "multiValue": false
+  },
+  {
+    "id": "Including Handy Options",
+    "name": "Inclusief handige opties",
+    "multiValue": true
+  },
+  {
+    "id": "Including Handyvac",
+    "name": "Waaronder handyvac",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hangers",
+    "name": "Inclusief hanger(s)",
+    "definition": "Wordt dit artikel geleverd inclusief hanger(s)?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hard Disk",
+    "name": "Met HDD",
+    "multiValue": false
+  },
+  {
+    "id": "Including Headboard",
+    "name": "Inclusief hoofdbord",
+    "definition": "Wordt er een hoofdbord meegeleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Headphones",
+    "name": "Inclusief hoofdtelefoon",
+    "multiValue": false
+  },
+  {
+    "id": "Including Headrest",
+    "name": "Inclusief hoofdsteun",
+    "definition": "Wordt het product inclusief hoofdsteun geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Heart Rate Indicator",
+    "name": "Met hartslag indicator",
+    "definition": "Is het inclusief harslag indicator?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Heater",
+    "name": "Inclusief heater",
+    "definition": "Wordt het product inclusief heater geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Heating",
+    "name": "Inclusief verwarming",
+    "multiValue": false
+  },
+  {
+    "id": "Including Heating Option",
+    "name": "Inclusief verwarmingsfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Including Helmet Bag",
+    "name": "Inclusief helmzak",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hocker",
+    "name": "Inclusief hocker",
+    "multiValue": false
+  },
+  {
+    "id": "Including Holder",
+    "name": "Inclusief houder",
+    "multiValue": false
+  },
+  {
+    "id": "Including Home Charger",
+    "name": "Inclusief thuislader",
+    "definition": "Is het artikel inclusief thuislader?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hook",
+    "name": "Inclusief haak",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hook Release",
+    "name": "Inclusief hook release",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hooks",
+    "name": "Inlusief bevestigingshaken",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hose",
+    "name": "Inclusief slang",
+    "definition": "Is het artikel inclusief slang?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Hose Connectors",
+    "name": "Inclusief slangkoppelingen",
+    "multiValue": false
+  },
+  {
+    "id": "Including Inner Pocket",
+    "name": "Inclusief binnenvak",
+    "multiValue": false
+  },
+  {
+    "id": "Including Insertion Sleeve",
+    "name": "Met inbrenghuls",
+    "multiValue": false
+  },
+  {
+    "id": "Including Integrated Glasses",
+    "name": "Inclusief ge\u00efntegreerde bril",
+    "multiValue": false
+  },
+  {
+    "id": "Including Integrated UV Filter",
+    "name": "Inclusief geintegreerde UV filter",
+    "multiValue": false
+  },
+  {
+    "id": "Including Iron Holder",
+    "name": "Inclusief strijkijzerhouder",
+    "definition": "Zit er een strijkijzerhouder bij het artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Kneepocket",
+    "name": "Inclusief kniezak",
+    "multiValue": false
+  },
+  {
+    "id": "Including Knife Block",
+    "name": "Inclusief messenblok",
+    "multiValue": false
+  },
+  {
+    "id": "Including LCD Screen",
+    "name": "Met LCD scherm",
+    "multiValue": false
+  },
+  {
+    "id": "Including Labia Clamp",
+    "name": "Met schaamlipklem",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lamp",
+    "name": "Inclusief lamp",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Including Laser",
+    "name": "Inclusief laser",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lead",
+    "name": "Inclusief lood",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lead Rope",
+    "name": "Inclusief halstertouw",
+    "multiValue": false
+  },
+  {
+    "id": "Including Legrest",
+    "name": "Inclusief beensteun",
+    "multiValue": false
+  },
+  {
+    "id": "Including Legs",
+    "name": "Inclusief poten",
+    "definition": "Is het artikel inclusief poten?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lens",
+    "name": "Inclusief lens",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lensshade",
+    "name": "Inclusief zonnekap",
+    "definition": "Wordt deze cameralens standaard geleverd inclusief zonnekap?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lid",
+    "name": "Inclusief deksel",
+    "definition": "Wordt er bij dit artikel een deksel geleverd?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Light Bulb",
+    "name": "Inclusief lichtbron",
+    "definition": "Wordt dit artikel geleverd inclusief lamp?",
+    "multiValue": false
+  },
+  {
+    "id": "Including Lighting",
+    "name": "Met verlichting",
+    "multiValue": false
+  },
+  {
+    "id": "Including Line Clamp",
+    "name": "Inclusief lijnklem",
+    "multiValue": false
+  },
+  {
+    "id": "Including Liquid",
+    "name": "Inclusief vloeistof",
+    "multiValue": false
+  },
+  {
+    "id": "Including Live-view",
+    "name": "Met live view",
+    "definition": "Beschikt dit artikel over een live view optie?",
+    "multiValue": false
+  }
+]

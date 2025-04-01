@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "Wheel Diameter",
+    "name": "Diameter wiel",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wheel Hardness",
+    "name": "Wielhardheid",
+    "multiValue": false,
+    "validation": {
+      "type": "integer"
+    }
+  },
+  {
+    "id": "Wheel Size",
+    "name": "Wielmaat",
+    "definition": "Geef hier de maat aan.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "mm",
+          "name": "mm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "White noise",
+    "name": "Witte ruis",
+    "multiValue": false
+  },
+  {
+    "id": "White noise cancelling",
+    "name": "Ruis-/tinnitusmaskeerder",
+    "multiValue": false
+  },
+  {
+    "id": "Whitening Function",
+    "name": "Whitening functie",
+    "multiValue": false
+  },
+  {
+    "id": "Wi-Fi Measurement Crucial Places",
+    "name": "Meting Wifi cruciale plekken",
+    "multiValue": false
+  },
+  {
+    "id": "WiDi",
+    "name": "WiDi",
+    "definition": "Geef aan of de computer beschikt over WiDi-functionaliteit om draadloos te casten (minimaal Wireless AC vereist).",
+    "multiValue": false
+  },
+  {
+    "id": "WiFi Modem",
+    "name": "Wifi modem",
+    "multiValue": true
+  },
+  {
+    "id": "WiFi Required",
+    "name": "Wifi vereist",
+    "multiValue": false
+  },
+  {
+    "id": "WiFi Service",
+    "name": "Wifi service",
+    "multiValue": true
+  },
+  {
+    "id": "WiFi Speed 2,4 GHz",
+    "name": "WiFi Snelheid 2,4 GHz",
+    "multiValue": false
+  },
+  {
+    "id": "WiFi Speed 5 GHz",
+    "name": "WiFi Snelheid 5 GHz",
+    "multiValue": false
+  },
+  {
+    "id": "WiFi Speed 6 GHz",
+    "name": "WiFi Snelheid 6 GHz",
+    "multiValue": false
+  },
+  {
+    "id": "WiFi Speed Total",
+    "name": "WiFi Snelheid Totaal",
+    "multiValue": false
+  },
+  {
+    "id": "WiFi-direct",
+    "name": "WiFi-direct",
+    "multiValue": false
+  },
+  {
+    "id": "Wide Angle Diffuser",
+    "name": "Groothoekdiffuser",
+    "multiValue": false
+  },
+  {
+    "id": "Width",
+    "name": "Verpakking breedte",
+    "definition": "Breedte van de verpakking",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Baking Surface",
+    "name": "Breedte bakoppervlak",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Base Station",
+    "name": "Breedte basisstation",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Cross-bar",
+    "name": "Breedte dwarsligger",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Folded",
+    "name": "Breedte ingeklapt",
+    "definition": "Wat is de breedte van het ingeklapte bed?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Frame",
+    "name": "Profielbreedte lijst",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Grilling Surface",
+    "name": "Breedte grilloppervlak",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Handset",
+    "name": "Breedte handset",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Lampshade",
+    "name": "Breedte lampenkap",
+    "definition": "Wat is de breedte van de lampenkap?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Mattress",
+    "name": "Breedte boxspring excl. hoofdbord en voetbord",
+    "definition": "Wat is de volledige breedte van het liggedeelte van het bed? Als het twee losse boxsprings zijn die samen worden geleverd, tel de breedte van beide boxsprings bij elkaar op.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Mounting Plate",
+    "name": "Breedte bevestigingsplaat",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Nozzle",
+    "name": "Breedte mondstuk",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Pillowcase",
+    "name": "Breedte kussensloop",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Running Surface",
+    "name": "Breedte loopvlak",
+    "definition": "Geef de breedte van het loopvlak in centimeters aan",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Sandpaper Clip",
+    "name": "Breedte schuurpapier klem",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Strap",
+    "name": "Aanzetmaat",
+    "definition": "De aanzetmaat is de maat van het uiteinde van een horlogeband dat op de kast moet passen (de aansluitingen).",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width Tyre",
+    "name": "Breedte band",
+    "multiValue": false
+  },
+  {
+    "id": "Width Waistband",
+    "name": "Breedte tailleband",
+    "multiValue": false
+  },
+  {
+    "id": "Width of Foot",
+    "name": "Zoolbreedte",
+    "definition": "De breedte van de zool",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width of Grilling Surface",
+    "name": "Breedte van grilloppervlak",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "maximumValue": "1000",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width of Ironing Surface",
+    "name": "Breedte van strijkoppervlak",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "maximumValue": "1000",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Width of Leaf",
+    "name": "Bladbreedte",
+    "definition": "De breedte van het zaagblad.",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Width of Styling Plates",
+    "name": "Breedte van de platen",
+    "multiValue": false
+  },
+  {
+    "id": "Width to Shorten",
+    "name": "Breedte in te korten",
+    "multiValue": false
+  },
+  {
+    "id": "Wifi",
+    "name": "WIFI",
+    "definition": "Heeft het product WiFi functionaliteit? Indien dit attribuut niet relevant is, kies de waarde 'Geen Wi-Fi'.",
+    "multiValue": true
+  },
+  {
+    "id": "Wifi Security",
+    "name": "Wifi beveiliging",
+    "multiValue": true
+  },
+  {
+    "id": "Wind Noise Suppression",
+    "name": "Windruisonderdrukking",
+    "multiValue": false
+  },
+  {
+    "id": "Wind Up",
+    "name": "Wind-up",
+    "multiValue": false
+  },
+  {
+    "id": "Window Frame Version",
+    "name": "Uitvoering kozijn",
+    "multiValue": false
+  },
+  {
+    "id": "Window Material",
+    "name": "Materiaal raam",
+    "multiValue": false
+  },
+  {
+    "id": "Windproof",
+    "name": "Winddicht",
+    "definition": "Geef hier aan of het artikel winddicht is.",
+    "multiValue": false
+  },
+  {
+    "id": "Wine Cooler Pull Out Shelf",
+    "name": "Wijnkoeler uittrekbare lade",
+    "multiValue": false
+  },
+  {
+    "id": "Winter Conditions Management System",
+    "name": "Wintersysteem",
+    "multiValue": false
+  },
+  {
+    "id": "Wiper Width",
+    "name": "Breedte wisser",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wire Diameter",
+    "name": "Draaddiameter",
+    "definition": "De dikte van het draad dat zich in de kabel bevindt.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wire Thickness",
+    "name": "Draaddikte",
+    "definition": "De dikte van het draad dat zich in de kabel bevindt.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wired Bra",
+    "name": "Cup met beugel",
+    "multiValue": false
+  },
+  {
+    "id": "Wired Set Up RJ45",
+    "name": "Bekabeld installeren RJ45",
+    "multiValue": false
+  },
+  {
+    "id": "Wired Speed",
+    "name": "Bedrade snelheid",
+    "definition": "Geef de snelheid van de bedrade verbinding in aantal Mbps. Indien dit attribuut niet relevant is, kies de waarde 'Niet bedraad'.",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless",
+    "name": "Draadloos",
+    "definition": "Geef aan of de ontvanger draadloos is.",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Wireless Camera Connection",
+    "name": "Draadloze camera koppeling",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Charging",
+    "name": "Draadloos opladen",
+    "definition": "Is het product draadloos op te laden?",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Connection",
+    "name": "Draadloze verbinding",
+    "definition": "Beschikt het product over een (internet) verbinding via wifi, blue tooth of ander draadloos systeem?",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Control",
+    "name": "Bediening",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Headphone Connection",
+    "name": "Draadloze hoofdtelefoonverbinding",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Protected Setup (WPS)",
+    "name": "Wireless Protected Setup (WPS)",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Rear Speakers",
+    "name": "Draadloze achterspeakers",
+    "multiValue": false
+  },
+  {
+    "id": "Wireless Switching",
+    "name": "Draadloos schakelen",
+    "definition": "De mogelijkheid om draadloos te kunnen schakelen",
+    "multiValue": false
+  },
+  {
+    "id": "Witdth Mouting Plate",
+    "name": "Breedte montageplaat",
+    "definition": "Wat is de pl t Breedte montageplaat?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "With 4K-Support",
+    "name": "Met 4K-ondersteuning",
+    "multiValue": false
+  },
+  {
+    "id": "With Accessory Box",
+    "name": "Met Accessoirebakje",
+    "multiValue": false
+  },
+  {
+    "id": "With Adjustable Reading Arm",
+    "name": "Met verstelbare leesarm",
+    "definition": "Heeft de lamp een verstelbare leesarm?",
+    "multiValue": false
+  },
+  {
+    "id": "With Aftercooling Function",
+    "name": "Met nakoelfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Air Flow",
+    "name": "Met luchtstroom",
+    "multiValue": false
+  },
+  {
+    "id": "With Altimeter",
+    "name": "Met hoogtemeter",
+    "definition": "Bevat het product methoogtemeter?",
+    "multiValue": false
+  },
+  {
+    "id": "With Anti-beat Pick Feature",
+    "name": "Met anti-slagpickvoorziening",
+    "multiValue": false
+  },
+  {
+    "id": "With Anti-theft Claw",
+    "name": "Met dievenklauw",
+    "multiValue": false
+  },
+  {
+    "id": "With Armrest",
+    "name": "Inclusief armleuning",
+    "definition": "Heeft dit artikel armleuningen?",
+    "multiValue": false
+  },
+  {
+    "id": "With Attachment",
+    "name": "Met opzetstuk",
+    "multiValue": false
+  },
+  {
+    "id": "With Automatic Programs",
+    "name": "Met automatische programma's",
+    "multiValue": false
+  },
+  {
+    "id": "With Back Protector",
+    "name": "Met back protector",
+    "definition": "Beschikt het artikel over een back-protector?",
+    "multiValue": false
+  },
+  {
+    "id": "With Basket",
+    "name": "Met mand",
+    "multiValue": false
+  },
+  {
+    "id": "With Battery",
+    "name": "Met accu",
+    "definition": "Wordt er een accu bijgeleverd",
+    "multiValue": false
+  },
+  {
+    "id": "With Bill Drawer Inserts",
+    "name": "Met biljetinzetbak",
+    "multiValue": false
+  },
+  {
+    "id": "With Bindings",
+    "name": "Inclusief bindingen",
+    "definition": "Is het artikel inclusief bindingen?",
+    "multiValue": false
+  },
+  {
+    "id": "With Blanket",
+    "name": "Met deken",
+    "multiValue": false
+  },
+  {
+    "id": "With Boiler",
+    "name": "Met boiler",
+    "multiValue": false
+  },
+  {
+    "id": "With Bottle",
+    "name": "Met drinkfles",
+    "multiValue": false
+  },
+  {
+    "id": "With Braces",
+    "name": "Met bretels",
+    "multiValue": false
+  },
+  {
+    "id": "With Breast Pocket",
+    "name": "Met borstzak",
+    "multiValue": false
+  },
+  {
+    "id": "With Bronzer",
+    "name": "Met bronzer",
+    "multiValue": false
+  },
+  {
+    "id": "With Brush",
+    "name": "Met Borstel",
+    "multiValue": false
+  },
+  {
+    "id": "With Build-In Pressure Gauge",
+    "name": "Met ingebouwde manometer",
+    "multiValue": false
+  },
+  {
+    "id": "With Bumper",
+    "name": "Bumper",
+    "multiValue": false
+  },
+  {
+    "id": "With CEE Plug",
+    "name": "Met CEE stekker",
+    "multiValue": false
+  },
+  {
+    "id": "With Cadence Sensor",
+    "name": "Met Cadanssensor",
+    "multiValue": false
+  },
+  {
+    "id": "With Calculator",
+    "name": "Met rekenmachine",
+    "multiValue": false
+  },
+  {
+    "id": "With Canopy",
+    "name": "Met overkapping",
+    "multiValue": false
+  },
+  {
+    "id": "With Cap",
+    "name": "Met dop",
+    "multiValue": false
+  },
+  {
+    "id": "With Caring Oil",
+    "name": "Met verzorgende olie",
+    "multiValue": false
+  },
+  {
+    "id": "With Cassette",
+    "name": "Met cassette",
+    "multiValue": false
+  },
+  {
+    "id": "With Center Hole",
+    "name": "Met gat",
+    "multiValue": false
+  },
+  {
+    "id": "With Center Pin",
+    "name": "Met centreerstift",
+    "multiValue": false
+  },
+  {
+    "id": "With Centrepin",
+    "name": "Met centerpin",
+    "multiValue": false
+  },
+  {
+    "id": "With Chamois",
+    "name": "Met zeem",
+    "multiValue": false
+  },
+  {
+    "id": "With Children Protection",
+    "name": "Met kinderbeveiliging",
+    "multiValue": false
+  },
+  {
+    "id": "With Chip Tray",
+    "name": "Met opvangbak",
+    "multiValue": false
+  },
+  {
+    "id": "With Climbing Frame",
+    "name": "Met klimrek",
+    "multiValue": false
+  },
+  {
+    "id": "With Climbing Wand",
+    "name": "Met klimwand",
+    "multiValue": false
+  },
+  {
+    "id": "With Clip",
+    "name": "Met clip",
+    "definition": "Geef aan of de stylus pen over een clip beschikt.",
+    "multiValue": false
+  },
+  {
+    "id": "With Clip Closure",
+    "name": "Met clipsluiting",
+    "multiValue": false
+  },
+  {
+    "id": "With Clod",
+    "name": "Met kluit",
+    "definition": "Wordt de plant of boom  geleverd met kluit?",
+    "multiValue": false
+  },
+  {
+    "id": "With Coating",
+    "name": "Met coating",
+    "multiValue": false
+  },
+  {
+    "id": "With Coin Count Board",
+    "name": "Met munt telbord",
+    "multiValue": false
+  },
+  {
+    "id": "With Coin Drawer Inserts",
+    "name": "Met munt inzetbak",
+    "multiValue": false
+  },
+  {
+    "id": "With Coin Insertoin",
+    "name": "Met muntinworp",
+    "multiValue": false
+  },
+  {
+    "id": "With Collector",
+    "name": "Met opvangbak",
+    "definition": "Wordt er ook opvangbak bijgeleverd bij bestelling?",
+    "multiValue": false
+  },
+  {
+    "id": "With Colour Screen",
+    "name": "Met kleurenscherm",
+    "multiValue": false
+  },
+  {
+    "id": "With Compartments",
+    "name": "Met vakken",
+    "multiValue": false
+  },
+  {
+    "id": "With Container",
+    "name": "Met bakje",
+    "multiValue": false
+  },
+  {
+    "id": "With Control Levers",
+    "name": "Met bedieningshendeltjes",
+    "multiValue": false
+  },
+  {
+    "id": "With Cord",
+    "name": "Met koord",
+    "multiValue": false
+  },
+  {
+    "id": "With Cover",
+    "name": "Met kaft",
+    "multiValue": false
+  },
+  {
+    "id": "With Cover Step Mat",
+    "name": "Met omslag",
+    "multiValue": false
+  },
+  {
+    "id": "With Crumb Piston",
+    "name": "Met kruimelzuiger",
+    "multiValue": false
+  },
+  {
+    "id": "With Cuffs",
+    "name": "Met boeien",
+    "multiValue": false
+  },
+  {
+    "id": "With Cut Protection",
+    "name": "Met snijbeveiliging",
+    "multiValue": false
+  },
+  {
+    "id": "With Cuttingwire",
+    "name": "Met snijdraad",
+    "multiValue": false
+  },
+  {
+    "id": "With Cylinder Protection",
+    "name": "Met kerntrekbeveiliging",
+    "multiValue": false
+  },
+  {
+    "id": "With Decoration",
+    "name": "Met versiering",
+    "multiValue": false
+  },
+  {
+    "id": "With Detachable Hood",
+    "name": "Met afneembare capuchon",
+    "multiValue": false
+  },
+  {
+    "id": "With Diffuser",
+    "name": "Met diffusor",
+    "definition": "Beschikt de machine over een diffusor?",
+    "multiValue": false
+  },
+  {
+    "id": "With Dimming",
+    "name": "Met dimfunctie",
+    "definition": "Heeft het product een dimfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Dinner Tray",
+    "name": "Met eetblad",
+    "multiValue": false
+  },
+  {
+    "id": "With Doorbell",
+    "name": "Met deurbel",
+    "multiValue": false
+  },
+  {
+    "id": "With Drawstring Closure",
+    "name": "Met trekbandsluiting",
+    "multiValue": false
+  },
+  {
+    "id": "With Drill Obstruction",
+    "name": "Met boorbelemmering",
+    "multiValue": false
+  },
+  {
+    "id": "With Drip Tray",
+    "name": "Met uitlekbak",
+    "multiValue": false
+  },
+  {
+    "id": "With Dust Cover",
+    "name": "Met stofhoes",
+    "multiValue": false
+  },
+  {
+    "id": "With Egg Tray",
+    "name": "Met eierrekje",
+    "multiValue": false
+  },
+  {
+    "id": "With Element",
+    "name": "Met element",
+    "multiValue": false
+  },
+  {
+    "id": "With Embroidery",
+    "name": "Met borduursel",
+    "multiValue": false
+  },
+  {
+    "id": "With Extention",
+    "name": "Met verlenging",
+    "multiValue": false
+  },
+  {
+    "id": "With External Microphone",
+    "name": "Inclusief externe microfoon",
+    "multiValue": false
+  },
+  {
+    "id": "With Extra Stimulation",
+    "name": "Met extra stimulatie",
+    "multiValue": false
+  },
+  {
+    "id": "With Fall Detection",
+    "name": "Met Valdetectie",
+    "multiValue": false
+  },
+  {
+    "id": "With Fan Controller",
+    "name": "Inclusief fancontroller",
+    "multiValue": false
+  },
+  {
+    "id": "With Fastening Cord",
+    "name": "Met bevestigingskoord",
+    "multiValue": false
+  },
+  {
+    "id": "With Feet",
+    "name": "Met voetjes",
+    "multiValue": false
+  },
+  {
+    "id": "With Filter",
+    "name": "Met gaas",
+    "multiValue": false
+  },
+  {
+    "id": "With Fine and Coarse Adjustment",
+    "name": "Met fijn- en grof instelling",
+    "multiValue": false
+  },
+  {
+    "id": "With Fixing Hook",
+    "name": "Met armatuurhaakbevestiging",
+    "multiValue": false
+  },
+  {
+    "id": "With Fixing Lugs",
+    "name": "Met bevestigingsogen",
+    "multiValue": false
+  },
+  {
+    "id": "With Flaps",
+    "name": "Met klep",
+    "multiValue": false
+  },
+  {
+    "id": "With Floss Device",
+    "name": "Inclusief flosapparaat",
+    "multiValue": false
+  },
+  {
+    "id": "With Foam Lid",
+    "name": "Met schuimkussen",
+    "multiValue": false
+  },
+  {
+    "id": "With Foil Dispenser",
+    "name": "Met folie dispenser",
+    "multiValue": false
+  },
+  {
+    "id": "With Foot Pedal",
+    "name": "Met voetpedaal",
+    "multiValue": false
+  },
+  {
+    "id": "With Freewheel Function",
+    "name": "Met vrijloopfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Furniture",
+    "name": "Met meubels",
+    "multiValue": false
+  },
+  {
+    "id": "With G Sensor",
+    "name": "G-Sensor",
+    "multiValue": false
+  },
+  {
+    "id": "With GPS",
+    "name": "Met GPS",
+    "multiValue": false
+  },
+  {
+    "id": "With Gasoline",
+    "name": "Met benzine",
+    "multiValue": false
+  },
+  {
+    "id": "With Glass Plate",
+    "name": "Met glasplaat",
+    "multiValue": false
+  },
+  {
+    "id": "With Guitar Element",
+    "name": "Met gitaarelement",
+    "multiValue": false
+  },
+  {
+    "id": "With Hand Protection",
+    "name": "Met handenbescherming",
+    "multiValue": false
+  },
+  {
+    "id": "With Handle",
+    "name": "Met steel",
+    "definition": "Wordt de steel uitgeleverd bij bestelling van dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "With Handle or Grips",
+    "name": "Met handgreep / handgrepen",
+    "definition": "Over hoeveel handgrepen beschikt dit artikel?",
+    "multiValue": false
+  },
+  {
+    "id": "With Handpalm",
+    "name": "Met handpalm",
+    "multiValue": false
+  },
+  {
+    "id": "With Hanging Loop",
+    "name": "Met ophanglus",
+    "multiValue": false
+  },
+  {
+    "id": "With Hard Drive Slot",
+    "name": "Intern slot voor harde schijf",
+    "multiValue": false
+  },
+  {
+    "id": "With Head Harness",
+    "name": "Met hoofdtuig",
+    "multiValue": false
+  },
+  {
+    "id": "With Heels",
+    "name": "Met hakken",
+    "multiValue": false
+  },
+  {
+    "id": "With Hood",
+    "name": "Met capuchon",
+    "multiValue": false
+  },
+  {
+    "id": "With Hook Shot",
+    "name": "Met haakschoot",
+    "multiValue": false
+  },
+  {
+    "id": "With House",
+    "name": "Met huisje",
+    "multiValue": false
+  },
+  {
+    "id": "With Inner Cuffs",
+    "name": "Met binnenmouw",
+    "multiValue": false
+  },
+  {
+    "id": "With Inner Short",
+    "name": "Met binnenbroekje",
+    "multiValue": false
+  },
+  {
+    "id": "With Installation Base Set",
+    "name": "Met aansluit/basisgarnituur",
+    "multiValue": false
+  },
+  {
+    "id": "With Insulation",
+    "name": "Met isolatie",
+    "multiValue": false
+  },
+  {
+    "id": "With Integrated Battery",
+    "name": "Met ge\u00efntegreerde accu",
+    "multiValue": false
+  },
+  {
+    "id": "With Integrated Printer",
+    "name": "Met printrol",
+    "multiValue": false
+  },
+  {
+    "id": "With Integrated Soundbar",
+    "name": "Met ge\u00efntegreerde soundbar",
+    "multiValue": false
+  },
+  {
+    "id": "With Integrated Vacuum",
+    "name": "Met opzuigsysteem",
+    "multiValue": false
+  },
+  {
+    "id": "With Intercom Function",
+    "name": "Met intercomfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Key Lock",
+    "name": "Met sleutelslot",
+    "multiValue": false
+  },
+  {
+    "id": "With Kitchen",
+    "name": "Met keuken",
+    "multiValue": false
+  },
+  {
+    "id": "With Knob",
+    "name": "Met knop",
+    "multiValue": false
+  },
+  {
+    "id": "With Lampshade",
+    "name": "Met lampenkap",
+    "multiValue": false
+  },
+  {
+    "id": "With Laptop Section",
+    "name": "Inclusief laptopvak",
+    "multiValue": false
+  },
+  {
+    "id": "With Laser",
+    "name": "Met richtlaser",
+    "multiValue": false
+  },
+  {
+    "id": "With Laser Conductor",
+    "name": "Met lasergeleider",
+    "multiValue": false
+  },
+  {
+    "id": "With Lining",
+    "name": "Met voering",
+    "multiValue": false
+  },
+  {
+    "id": "With Lock",
+    "name": "Met cijferslot",
+    "definition": "Heeft het artikel een cijferslot?",
+    "multiValue": false
+  },
+  {
+    "id": "With Lockable Trigger",
+    "name": "Met vergrendelbare trigger",
+    "multiValue": false
+  },
+  {
+    "id": "With Lullabies",
+    "name": "Met slaapliedjes",
+    "multiValue": false
+  },
+  {
+    "id": "With Magnifying Effect",
+    "name": "Met vergrotende werking",
+    "multiValue": false
+  },
+  {
+    "id": "With Measuring Scale",
+    "name": "Met maatverdeling",
+    "multiValue": false
+  },
+  {
+    "id": "With Memory Function",
+    "name": "Met geheugenfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Milk Glass",
+    "name": "Met melkglas",
+    "multiValue": false
+  },
+  {
+    "id": "With Mirror or Mirror Cabinet",
+    "name": "Met spiegel of spiegelkast",
+    "multiValue": false
+  },
+  {
+    "id": "With Miter Saw Function",
+    "name": "Met verstekzaagfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Motion Sensor",
+    "name": "Met bewegingssensor",
+    "definition": "Heeft dit artikel een bewegingssensor?",
+    "multiValue": false
+  },
+  {
+    "id": "With Moving Flame",
+    "name": "Met bewegende vlam",
+    "multiValue": false
+  },
+  {
+    "id": "With Mudfoot",
+    "name": "Met moddervoet",
+    "multiValue": false
+  },
+  {
+    "id": "With Music Function",
+    "name": "Met muziekfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Navigation",
+    "name": "Met navigatie",
+    "multiValue": false
+  },
+  {
+    "id": "With Night Light",
+    "name": "Met nachtlampje",
+    "multiValue": false
+  },
+  {
+    "id": "With Nipple Clamps",
+    "name": "Met tepelkemmen",
+    "multiValue": false
+  },
+  {
+    "id": "With Nose Wheel",
+    "name": "Met Neuswiel",
+    "multiValue": false
+  },
+  {
+    "id": "With Overflow",
+    "name": "Met overloop",
+    "multiValue": false
+  },
+  {
+    "id": "With Panic Function",
+    "name": "Met paniekfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Paper Guide",
+    "name": "Met aanlegstrip",
+    "multiValue": false
+  },
+  {
+    "id": "With Pause Button",
+    "name": "Met pauzeknop",
+    "multiValue": false
+  },
+  {
+    "id": "With Pedal Support",
+    "name": "Met trapondersteuning",
+    "multiValue": false
+  },
+  {
+    "id": "With Pen Tray",
+    "name": "Met pennenbak",
+    "multiValue": false
+  },
+  {
+    "id": "With Pencil Holder",
+    "name": "Met potloodhouder",
+    "multiValue": false
+  },
+  {
+    "id": "With Pergamine Sheets",
+    "name": "Met pergamijnen tussenbladen",
+    "multiValue": false
+  },
+  {
+    "id": "With Pine Cone Decoration",
+    "name": "Met dennenappels",
+    "definition": "Is dit artikel inclusief dennenappels?",
+    "multiValue": false
+  },
+  {
+    "id": "With Play Bow",
+    "name": "Met speelboog",
+    "multiValue": false
+  },
+  {
+    "id": "With Plunge Cut Function",
+    "name": "Met invalzaagfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Positioning Plate",
+    "name": "Met aanslagplaat",
+    "multiValue": false
+  },
+  {
+    "id": "With Power Sensor",
+    "name": "Met vermogenssensor",
+    "multiValue": false
+  },
+  {
+    "id": "With Power Supply",
+    "name": "Inclusief voeding",
+    "multiValue": false
+  },
+  {
+    "id": "With Powerbank Function",
+    "name": "Met powerbankfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Press Lever",
+    "name": "Pershendel",
+    "multiValue": false
+  },
+  {
+    "id": "With Print",
+    "name": "Met print",
+    "multiValue": false
+  },
+  {
+    "id": "With Protective Cover",
+    "name": "Beschermkap",
+    "multiValue": false
+  },
+  {
+    "id": "With Protective Iinner Layer",
+    "name": "Met beschermende binnenlaag",
+    "multiValue": false
+  },
+  {
+    "id": "With Pull Function",
+    "name": "Met trekfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Pump",
+    "name": "Met pomp",
+    "definition": "Bevat het product metpomp?",
+    "multiValue": false
+  },
+  {
+    "id": "With Push Rod",
+    "name": "Inclusief duwstang",
+    "multiValue": false
+  },
+  {
+    "id": "With RFID Technology",
+    "name": "Met RFID technologie",
+    "multiValue": false
+  },
+  {
+    "id": "With Rain/Sun Cover",
+    "name": "Met regen/zonnescherm",
+    "multiValue": false
+  },
+  {
+    "id": "With Ratchet",
+    "name": "Met ratel",
+    "multiValue": false
+  },
+  {
+    "id": "With Reinforced Bottom",
+    "name": "Met verstevigde bodem",
+    "multiValue": false
+  },
+  {
+    "id": "With Reinforced Handles",
+    "name": "Met verstevigde handvatten",
+    "multiValue": false
+  },
+  {
+    "id": "With Reinforced Knee Pads",
+    "name": "Met verstevigde kniestukken",
+    "multiValue": false
+  },
+  {
+    "id": "With Removable Sides",
+    "name": "Met afneembare zijkanten",
+    "multiValue": false
+  },
+  {
+    "id": "With Rim",
+    "name": "Met rand",
+    "multiValue": false
+  },
+  {
+    "id": "With Road View",
+    "name": "Met kaartweergave",
+    "multiValue": false
+  },
+  {
+    "id": "With Roof",
+    "name": "Met dak",
+    "multiValue": false
+  },
+  {
+    "id": "With Rosette",
+    "name": "Met rozet",
+    "multiValue": false
+  },
+  {
+    "id": "With Ruler Guides",
+    "name": "Met liniaalhulplijnen",
+    "multiValue": false
+  },
+  {
+    "id": "With SD-card Input",
+    "name": "Met SD-kaart ingang",
+    "multiValue": false
+  },
+  {
+    "id": "With Sandbox",
+    "name": "Met zandbak",
+    "multiValue": false
+  },
+  {
+    "id": "With Sap Channel",
+    "name": "Met sapgeul",
+    "multiValue": false
+  },
+  {
+    "id": "With Screen Protector",
+    "name": "Met screenprotector",
+    "multiValue": false
+  },
+  {
+    "id": "With Scrotum",
+    "name": "Met balzak",
+    "multiValue": false
+  },
+  {
+    "id": "With Seat",
+    "name": "Met zitje",
+    "multiValue": false
+  },
+  {
+    "id": "With Self-adhesive Strip",
+    "name": "Met zelfklevende strip",
+    "multiValue": false
+  },
+  {
+    "id": "With Shed",
+    "name": "Met schuur",
+    "multiValue": false
+  },
+  {
+    "id": "With Shoe Compartment",
+    "name": "Met schoenenvak",
+    "multiValue": false
+  },
+  {
+    "id": "With Shredding Function",
+    "name": "Met Versnipperfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Ski Goggles",
+    "name": "Inclusief skibril",
+    "definition": "Is dit een duopack van een helm en skibril?",
+    "multiValue": false
+  },
+  {
+    "id": "With Sleep Function",
+    "name": "Met slaapfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Slide",
+    "name": "Met glijbaan",
+    "multiValue": false
+  },
+  {
+    "id": "With Slip-On Tent",
+    "name": "Met aanritstent",
+    "multiValue": false
+  },
+  {
+    "id": "With Snow Catcher",
+    "name": "Met sneeuwvanger",
+    "multiValue": false
+  },
+  {
+    "id": "With Snow Decoration",
+    "name": "Met sneeuw",
+    "definition": "Heeft het artikel sneeuwdecoratie?",
+    "multiValue": false
+  },
+  {
+    "id": "With Snuggle Option",
+    "name": "Met inbakeroptie",
+    "multiValue": false
+  },
+  {
+    "id": "With Soft Side",
+    "name": "Met zachte zijde",
+    "multiValue": false
+  },
+  {
+    "id": "With Speakers",
+    "name": "Met losse speakers",
+    "multiValue": false
+  },
+  {
+    "id": "With Speech Function",
+    "name": "Met spraakfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Split",
+    "name": "Met split",
+    "multiValue": false
+  },
+  {
+    "id": "With Spray Function",
+    "name": "Met sprayfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Stoner",
+    "name": "Met ontpitter",
+    "multiValue": false
+  },
+  {
+    "id": "With Strain Relief",
+    "name": "Met trekontlasting",
+    "multiValue": false
+  },
+  {
+    "id": "With Straw",
+    "name": "Met rietje",
+    "multiValue": false
+  },
+  {
+    "id": "With Stretch",
+    "name": "Met stretch",
+    "multiValue": false
+  },
+  {
+    "id": "With Stuffing",
+    "name": "Met vulling",
+    "multiValue": false
+  },
+  {
+    "id": "With Sun Canopy",
+    "name": "Met zonwering",
+    "multiValue": false
+  },
+  {
+    "id": "With Surface Mounted Lighting",
+    "name": "Met opbouw verlichting",
+    "multiValue": false
+  },
+  {
+    "id": "With Swivel Arm",
+    "name": "Met zwenkarm",
+    "multiValue": false
+  },
+  {
+    "id": "With Talk Back Function",
+    "name": "Met terugspreekfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With Tare Function",
+    "name": "Met tarra functie",
+    "multiValue": false
+  },
+  {
+    "id": "With Taste",
+    "name": "Met smaak",
+    "multiValue": false
+  },
+  {
+    "id": "With Tear Strip",
+    "name": "Met tear strip",
+    "multiValue": false
+  },
+  {
+    "id": "With Telescopic Handle",
+    "name": "Met telescopische handgreep",
+    "multiValue": false
+  },
+  {
+    "id": "With Test Button",
+    "name": "Met testknop",
+    "multiValue": false
+  },
+  {
+    "id": "With Texture",
+    "name": "Met structuur",
+    "definition": "Kies \"structuur\" als het behang een voelbare structuur (textuur/reli\u00ebf) heeft. Kies \"glad\" als het behang geen structuur heeft en dus glad is qua oppervlak.",
+    "multiValue": false
+  },
+  {
+    "id": "With Throw-in Slot",
+    "name": "Met inwerpgleuf",
+    "multiValue": false
+  },
+  {
+    "id": "With Thumb Hole",
+    "name": "Met duimgat",
+    "multiValue": false
+  },
+  {
+    "id": "With Tiltable Sawhead",
+    "name": "Kantelbare zaagkop",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Niet kantelbaar'.",
+    "multiValue": false
+  },
+  {
+    "id": "With Time Display",
+    "name": "Tijdweergave",
+    "definition": "Wordt de tijd weergegeven?",
+    "multiValue": false
+  },
+  {
+    "id": "With Toothbrush Accessoires",
+    "name": "Meegeleverde Tandenborstel Accessoires",
+    "definition": "Indien dit attribuut niet relevant is, kies de waarde 'Geen meegeleverde accessoires'.",
+    "multiValue": true
+  },
+  {
+    "id": "With Touchscreen Tip",
+    "name": "Met touchscreen tip",
+    "multiValue": false
+  },
+  {
+    "id": "With Tree Standard",
+    "name": "Met boomstandaard",
+    "multiValue": false
+  },
+  {
+    "id": "With Turnable Head or Blade",
+    "name": "Met draaibare kop of zwaard",
+    "multiValue": false
+  },
+  {
+    "id": "With Turning Function",
+    "name": "Met draaifunctie",
+    "multiValue": false
+  },
+  {
+    "id": "With USB port",
+    "name": "Met USB-poort",
+    "multiValue": false
+  },
+  {
+    "id": "With Valance",
+    "name": "Met volant",
+    "definition": "Is het gordijn voorzien van volant?",
+    "multiValue": false
+  },
+  {
+    "id": "With Ventilation Openings",
+    "name": "Met ventilatie openingen",
+    "multiValue": false
+  },
+  {
+    "id": "With Venturi System",
+    "name": "Met venturisysteem",
+    "definition": "Is er een venturisysteem ingebouwd?",
+    "multiValue": false
+  },
+  {
+    "id": "With Veranda",
+    "name": "Met veranda",
+    "multiValue": false
+  },
+  {
+    "id": "With Walking Stick Keeper",
+    "name": "Met stokhouder",
+    "multiValue": false
+  },
+  {
+    "id": "With Water Drain",
+    "name": "Met waterafvoer",
+    "multiValue": false
+  },
+  {
+    "id": "With Water Fountain",
+    "name": "Met waterfontein",
+    "multiValue": false
+  },
+  {
+    "id": "With Watertransport",
+    "name": "Met waterdoorvoer",
+    "multiValue": false
+  },
+  {
+    "id": "With Waterwheel",
+    "name": "Met waterrad",
+    "multiValue": false
+  },
+  {
+    "id": "With Wax Layer",
+    "name": "Met waxlaag",
+    "multiValue": false
+  },
+  {
+    "id": "With Week Indication",
+    "name": "Met weekaanduiding",
+    "definition": "Geef hier aan of de test aanduidt hoeveel weken iemand al zwanger is.",
+    "multiValue": false
+  },
+  {
+    "id": "With Wheels",
+    "name": "Met wielen",
+    "definition": "Is het artikel verrijdbaar?",
+    "multiValue": false
+  },
+  {
+    "id": "With Whistle",
+    "name": "Met fluitje",
+    "multiValue": false
+  },
+  {
+    "id": "With Whiteboard",
+    "name": "Met whiteboard",
+    "multiValue": false
+  },
+  {
+    "id": "With Wireless Charging Pad",
+    "name": "Met draadloos oplaadstation",
+    "multiValue": false
+  },
+  {
+    "id": "With Writing Label",
+    "name": "Met schrijfvak",
+    "multiValue": false
+  },
+  {
+    "id": "With XL Plates",
+    "name": "Met extra grote platen",
+    "multiValue": false
+  },
+  {
+    "id": "With ankle sock",
+    "name": "Met enkelsok",
+    "multiValue": false
+  },
+  {
+    "id": "With athlete program",
+    "name": "Met atletenprogramma",
+    "multiValue": false
+  },
+  {
+    "id": "With base",
+    "name": "Met onderstel",
+    "multiValue": false
+  },
+  {
+    "id": "Without Blades",
+    "name": "Zonder bladen",
+    "multiValue": false
+  },
+  {
+    "id": "Without Toilet Flushing Rim",
+    "name": "Zonder spoelrand",
+    "multiValue": false
+  },
+  {
+    "id": "Wooden Sticks",
+    "name": "Houten stokken",
+    "multiValue": false
+  },
+  {
+    "id": "Woofer Diameter",
+    "name": "Woofer diameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.Inch",
+          "name": "Inch",
+          "default": true
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Work Clothing Options",
+    "name": "Werkkleding-opties",
+    "multiValue": true
+  },
+  {
+    "id": "Work Shoe Type",
+    "name": "Type werkschoen",
+    "multiValue": false
+  },
+  {
+    "id": "Workbench on Wheels",
+    "name": "Werkbank op wielen",
+    "multiValue": false
+  },
+  {
+    "id": "Workbench with Drawers",
+    "name": "Werkbank met lades",
+    "multiValue": false
+  },
+  {
+    "id": "Workbench with Vice",
+    "name": "Werbank met bankschroef",
+    "multiValue": false
+  },
+  {
+    "id": "Working Diameter",
+    "name": "Werk diameter",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Working Length",
+    "name": "Werk lengte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Working Range",
+    "name": "Werkbereik",
+    "definition": "Het 'werkbereik' van een kruislijnlaser geeft aan tot welke afstand de laserlijnen duidelijk zichtbaar en bruikbaar zijn voor het beoogde doel, zoals uitlijnen of markeren.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MTR",
+          "name": "m",
+          "default": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "Working Voltage",
+    "name": "Werkvoltage",
+    "definition": "Wat is de werkvoltage?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.VLT",
+          "name": "V",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Working Width",
+    "name": "Werkbreedte",
+    "definition": "Wat is de werkbreedte?",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Workload",
+    "name": "Werklast",
+    "definition": "Geef aan wat de maximale werklast is van dit artikel Vermelden in bar",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.bar",
+          "name": "bar",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Works on 12Volt",
+    "name": "Werkt op 12volt",
+    "definition": "Bevat het product werktopvolt?",
+    "multiValue": false
+  },
+  {
+    "id": "Works on Batteries",
+    "name": "Werkt op batterijen",
+    "multiValue": false
+  },
+  {
+    "id": "Works on Electricity",
+    "name": "Werkt op elektriciteit",
+    "definition": "Werkt dit artikel op elektriciteit?",
+    "multiValue": false
+  },
+  {
+    "id": "Works on Glass",
+    "name": "Werkt op glazen ondergrond",
+    "multiValue": false
+  },
+  {
+    "id": "Works on Wet and Dry Surface",
+    "name": "Werkt op natte en droge ondergrond",
+    "definition": "Is het apparaat geschikt voor natte en droge ondergrond?",
+    "multiValue": false
+  },
+  {
+    "id": "Worktop Height",
+    "name": "Werkbladhoogte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Woven Motif",
+    "name": "Ingeweven motief",
+    "multiValue": false
+  },
+  {
+    "id": "Wrench Size",
+    "name": "Sleutelmaat",
+    "multiValue": true
+  },
+  {
+    "id": "Wrist Circumference Max",
+    "name": "Maximale polsomtrek",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wrist Circumference Min",
+    "name": "Minimale polsomtrek",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "unece.unit.CMT",
+          "name": "cm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Wrist Rest",
+    "name": "Polssteun",
+    "multiValue": false
+  },
+  {
+    "id": "Writing Formats",
+    "name": "Schrijfformaten",
+    "multiValue": false,
+    "validation": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "Writing Speed BD-R",
+    "name": "Schrijfsnelheid BD-R",
+    "definition": "Wat is de schrijfsnelheid bd r?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed BD-R Dual Layer",
+    "name": "Schrijfsnelheid BD-R Dual Layer",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed BD-RE",
+    "name": "Schrijfsnelheid BD-RE",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed BD-RE Dual Layer",
+    "name": "Schrijfsnelheid BD-RE Dual Layer",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed CD-R",
+    "name": "Schrijfsnelheid CD-R",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed CD-RAM",
+    "name": "Schrijfsnelheid CD-RAM",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed CD-RW",
+    "name": "Schrijfsnelheid CD-RW",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD+R",
+    "name": "Schrijfsnelheid DVD+R",
+    "definition": "Wat is de schrijfsnelheid dvd r?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD+R Double Layer",
+    "name": "Schrijfsnelheid DVD+R Double Layer",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD+RW",
+    "name": "Schrijfsnelheid DVD+RW",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD+RW Double Layer",
+    "name": "Schrijfsnelheid DVD+RW Double Layer",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD-R",
+    "name": "Schrijfsnelheid DVD-R",
+    "definition": "Wat is de schrijfsnelheid dvd r?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD-R Double Layer",
+    "name": "Schrijfsnelheid DVD-R Double Layer",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD-RW",
+    "name": "Schrijfsnelheid DVD-RW",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed DVD-RW Double Layer",
+    "name": "Schrijfsnelheid DVD-RW Double Layer",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed HD DVD-R",
+    "name": "Schrijfsnelheid HD DVD-R",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Speed HD DVD-RW",
+    "name": "Schrijfsnelheid HD DVD-RW",
+    "definition": "Wat is de maximale snelheid waarmee dit apparaat data kan wegschrijven?",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Writing Width",
+    "name": "Schrijfbreedte",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "units": [
+        {
+          "id": "mm",
+          "name": "mm",
+          "default": false
+        },
+        {
+          "id": "unece.unit.MMT",
+          "name": "mm",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "X-ray Proof",
+    "name": "R\u00f6ntgenstraal bestendig",
+    "multiValue": false
+  },
+  {
+    "id": "Y-Harness",
+    "name": "Y-tuig",
+    "multiValue": false
+  },
+  {
+    "id": "Year",
+    "name": "Jaar",
+    "definition": "Jaar van release",
+    "multiValue": false
+  },
+  {
+    "id": "Year of Release",
+    "name": "Jaar uitgave",
+    "multiValue": false
+  },
+  {
+    "id": "Yearly Energy Consumption",
+    "name": "Jaarlijks energieverbruik in kWh",
+    "definition": "Het energieverbruik volgens de energielabelnorm.",
+    "multiValue": false,
+    "validation": {
+      "type": "number",
+      "minimumValue": "0",
+      "units": [
+        {
+          "id": "kWh",
+          "name": "kWh",
+          "default": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "Zeolite Drying Technique",
+    "name": "Zeoliet droogtechniek",
+    "multiValue": false
+  },
+  {
+    "id": "Zoom",
+    "name": "Zoom",
+    "multiValue": false,
+    "validation": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "Zoom Function",
+    "name": "Zoomfunctie",
+    "multiValue": false
+  },
+  {
+    "id": "Zooming Light Effect",
+    "name": "Zooming lichtbundel",
+    "multiValue": false
+  },
+  {
+    "id": "eWaste",
+    "name": "eWaste",
+    "definition": "Indien het artikel over elektrische \u2013 of elektronische onderdelen beschikt (batterijen of een stekker), die niet te verwijderen zijn door de consument, is er sprake van eWaste.",
+    "multiValue": false
+  },
+  {
+    "id": "incense Component",
+    "name": "Wierrook onderdeel",
+    "multiValue": false
+  },
+  {
+    "id": "sRGB",
+    "name": "sRGB",
+    "multiValue": false
+  }
+]
