@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "bol-attributen-api"
+version = "0.1.0"
+description = ""
+authors = ["Yindee"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flask = "^2.2"
+requests = "^2.28"
